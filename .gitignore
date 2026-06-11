@@ -7,6 +7,10 @@ patterns/_pattern-template.html
 images/staging
 _drafts/
 
+# Standalone published dataset repo (its own GitHub repo at ~/hhs-cfa-dataset);
+# keep this copy out of the site repo
+cfa-dataset/
+
 # Backend directory - GitHub Pages ignores underscore folders
 _backend/
 
