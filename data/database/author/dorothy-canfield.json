@@ -78,7 +78,7 @@
       ],
       "has_media": true,
       "work_title": "The Eternal Masculine",
-      "work_html_title": "<span class=\"work-title\">The Eternal Masculine</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Eternal Masculine\"</span>",
       "work_id": 377
     }
   ],
@@ -87,10 +87,10 @@
       "id": 377,
       "slug": "the-eternal-masculine",
       "title": "The Eternal Masculine",
-      "formatted_title": "The Eternal Masculine",
-      "html_title": "<span class=\"work-title\">The Eternal Masculine</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "formatted_title": "\"The Eternal Masculine\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Eternal Masculine\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1908,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -110,12 +110,12 @@
     "id": 377,
     "slug": "the-eternal-masculine",
     "title": "The Eternal Masculine",
-    "formatted_title": "The Eternal Masculine",
-    "html_title": "<span class=\"work-title\">The Eternal Masculine</span>",
-    "work_type": "novel",
-    "publication_year": null,
+    "formatted_title": "\"The Eternal Masculine\"",
+    "html_title": "<span class=\"work-title short-story\">\"The Eternal Masculine\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1908,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-04 17:06:35.659603"
 }

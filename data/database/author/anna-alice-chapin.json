@@ -94,7 +94,7 @@
       ],
       "has_media": true,
       "work_title": "The Girl of Gold",
-      "work_html_title": "<span class=\"work-title short-story\">\"The Girl of Gold\"</span>",
+      "work_html_title": "<span class=\"work-title\">The Girl of Gold</span>",
       "work_id": 398
     }
   ],
@@ -125,9 +125,9 @@
       "id": 398,
       "slug": "the-girl-of-gold",
       "title": "The Girl of Gold",
-      "formatted_title": "\"The Girl of Gold\"",
-      "html_title": "<span class=\"work-title short-story\">\"The Girl of Gold\"</span>",
-      "work_type": "short_story",
+      "formatted_title": "The Girl of Gold",
+      "html_title": "<span class=\"work-title\">The Girl of Gold</span>",
+      "work_type": "novella",
       "publication_year": 1919,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -144,5 +144,5 @@
     "adaptation_count": 1,
     "is_remake_champion": false
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-04 17:06:35.659603"
 }

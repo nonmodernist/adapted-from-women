@@ -122,7 +122,7 @@
       "formatted_title": "To Have and to Hold",
       "html_title": "<span class=\"work-title\">To Have and to Hold</span>",
       "work_type": "novel",
-      "publication_year": 1900,
+      "publication_year": 1899,
       "adaptation_count": 2,
       "is_remake_champion": false
     },
@@ -133,7 +133,7 @@
       "formatted_title": "Audrey",
       "html_title": "<span class=\"work-title\">Audrey</span>",
       "work_type": "novel",
-      "publication_year": 1902,
+      "publication_year": 1901,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -156,9 +156,9 @@
     "formatted_title": "To Have and to Hold",
     "html_title": "<span class=\"work-title\">To Have and to Hold</span>",
     "work_type": "novel",
-    "publication_year": 1900,
+    "publication_year": 1899,
     "adaptation_count": 2,
     "is_remake_champion": false
   },
-  "last_updated": "2025-08-25T02:28:21.208901"
+  "last_updated": "2025-08-25 02:28:21.208901"
 }

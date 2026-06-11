@@ -64,8 +64,8 @@
       "source_url": "https://www.photoplay-edition.com/index4.php?y=1915",
       "source_notes": "My copy is missing its dust jacket.",
       "verified": "True",
-      "created_at": "2025-07-03T17:54:58.708148",
-      "updated_at": "2025-08-17T03:50:23.707607",
+      "created_at": "2025-07-03 17:54:58.708148",
+      "updated_at": "2025-08-17 03:50:23.707607",
       "ia_url": "https://archive.org/details/from-the-valley-of-the-missing-1915-photoplay-edition-selections",
       "has_visual_content": "True",
       "country": "US",
@@ -80,7 +80,7 @@
           "ia_url": "https://ia800905.us.archive.org/17/items/from-the-valley-of-the-missing-1915-photoplay-edition-selections/white-1915-valley-frontispiece-title.jpg",
           "caption": "Frontispiece with film still and title page",
           "display_order": 2,
-          "created_at": "2025-08-16T23:14:12.446661"
+          "created_at": "2025-08-16 23:14:12.446661"
         }
       ]
     }
@@ -95,5 +95,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-04 17:06:35.659603"
 }

@@ -64,8 +64,8 @@
       "source_url": null,
       "source_notes": "Davis 2002",
       "verified": "False",
-      "created_at": "2025-08-18T00:43:57.63995",
-      "updated_at": "2025-08-18T00:43:57.63995",
+      "created_at": "2025-08-18 00:43:57.639950",
+      "updated_at": "2025-08-18 00:43:57.639950",
       "ia_url": null,
       "has_visual_content": "True",
       "country": "US",
@@ -93,5 +93,5 @@
     "wikidata_id": "Q5981034",
     "viaf_id": null
   },
-  "last_updated": "2025-08-16T17:37:18.526618"
+  "last_updated": "2025-08-16 17:37:18.526618"
 }

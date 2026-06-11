@@ -28,7 +28,7 @@
     "title": "Miss Aesop Butters Her Bread",
     "formatted_title": "Miss Aesop Butters Her Bread",
     "html_title": "<span class=\"work-title\">Miss Aesop Butters Her Bread</span>",
-    "work_type": "novel",
+    "work_type": "screen_story",
     "publication_year": null,
     "plot_summary": null,
     "plot_summary_html": "",
@@ -92,5 +92,5 @@
   ],
   "has_media": true,
   "media_count": 3,
-  "last_updated": "2025-08-27T22:57:11.708135"
+  "last_updated": "2025-08-27 22:57:11.708135"
 }

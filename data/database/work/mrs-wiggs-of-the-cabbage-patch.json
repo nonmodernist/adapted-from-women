@@ -123,8 +123,8 @@
       "source_url": null,
       "source_notes": "Davis 2002",
       "verified": "False",
-      "created_at": "2025-08-18T01:15:26.771417",
-      "updated_at": "2025-08-18T01:15:26.771417",
+      "created_at": "2025-08-18 01:15:26.771417",
+      "updated_at": "2025-08-18 01:15:26.771417",
       "ia_url": null,
       "has_visual_content": "True",
       "country": "UK",
@@ -149,8 +149,8 @@
       "source_url": "https://www.photoplay-edition.com/index4.php?a=Alice+Hegan+Rice",
       "source_notes": null,
       "verified": "True",
-      "created_at": "2025-07-02T20:47:23.783393",
-      "updated_at": "2025-08-17T03:50:23.707607",
+      "created_at": "2025-07-02 20:47:23.783393",
+      "updated_at": "2025-08-17 03:50:23.707607",
       "ia_url": "https://archive.org/details/mrs-wiggs-1934-photoplay-selections",
       "has_visual_content": "True",
       "country": "US",
@@ -165,7 +165,7 @@
           "ia_url": "https://dn721600.ca.archive.org/0/items/mrs-wiggs-1934-photoplay-selections/rice-1934-mrs_wiggs-dj-outer.jpg",
           "caption": "Dust jacket with art and promotional still",
           "display_order": 1,
-          "created_at": "2025-08-16T23:28:04.45374"
+          "created_at": "2025-08-16 23:28:04.453740"
         },
         {
           "id": 10,
@@ -174,7 +174,7 @@
           "ia_url": "https://dn721600.ca.archive.org/0/items/mrs-wiggs-1934-photoplay-selections/rice-1934-mrs_wiggs-dj-inner_flaps.jpg",
           "caption": "Dust jacket flaps recommending other books that readers will enjoy",
           "display_order": 2,
-          "created_at": "2025-08-16T23:28:04.45374"
+          "created_at": "2025-08-16 23:28:04.453740"
         },
         {
           "id": 11,
@@ -183,7 +183,7 @@
           "ia_url": "https://dn721600.ca.archive.org/0/items/mrs-wiggs-1934-photoplay-selections/rice-1934-mrs_wiggs-photo_endpapers_front.jpg",
           "caption": "Front endpaper stills",
           "display_order": 3,
-          "created_at": "2025-08-16T23:28:04.45374"
+          "created_at": "2025-08-16 23:28:04.453740"
         },
         {
           "id": 12,
@@ -192,7 +192,7 @@
           "ia_url": "https://dn721600.ca.archive.org/0/items/mrs-wiggs-1934-photoplay-selections/rice-1934-mrs_wiggs-photo_endpapers_back.jpg",
           "caption": "Back endpaper stills",
           "display_order": 3,
-          "created_at": "2025-08-16T23:28:04.45374"
+          "created_at": "2025-08-16 23:28:04.453740"
         },
         {
           "id": 13,
@@ -201,7 +201,7 @@
           "ia_url": "  https://dn721600.ca.archive.org/0/items/mrs-wiggs-1934-photoplay-selections/rice-1934-mrs_wiggs-cover.jpg",
           "caption": "Book cover",
           "display_order": 10,
-          "created_at": "2025-08-16T23:28:04.45374"
+          "created_at": "2025-08-16 23:28:04.453740"
         }
       ]
     },
@@ -221,8 +221,8 @@
       "source_url": null,
       "source_notes": "Davis 2002",
       "verified": "False",
-      "created_at": "2025-08-18T01:15:26.771417",
-      "updated_at": "2025-08-18T01:15:26.771417",
+      "created_at": "2025-08-18 01:15:26.771417",
+      "updated_at": "2025-08-18 01:15:26.771417",
       "ia_url": null,
       "has_visual_content": "True",
       "country": "UK",
@@ -247,8 +247,8 @@
       "source_url": "https://www.photoplay-edition.com/index4.php?a=Alice+Hegan+Rice",
       "source_notes": null,
       "verified": "False",
-      "created_at": "2025-07-02T20:48:00.921774",
-      "updated_at": "2025-08-17T03:50:23.707607",
+      "created_at": "2025-07-02 20:48:00.921774",
+      "updated_at": "2025-08-17 03:50:23.707607",
       "ia_url": null,
       "has_visual_content": "True",
       "country": "US",
@@ -268,5 +268,5 @@
     "wikidata_id": "Q6929908",
     "viaf_id": null
   },
-  "last_updated": "2025-08-16T17:36:49.841301"
+  "last_updated": "2025-08-16 17:36:49.841301"
 }

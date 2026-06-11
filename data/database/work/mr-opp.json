@@ -2,9 +2,9 @@
   "id": 26,
   "slug": "mr-opp",
   "title": "Mr. Opp",
-  "formatted_title": "Mr. Opp",
-  "html_title": "<span class=\"work-title\">Mr. Opp</span>",
-  "work_type": "novel",
+  "formatted_title": "\"Mr. Opp\"",
+  "html_title": "<span class=\"work-title short-story\">\"Mr. Opp\"</span>",
+  "work_type": "short_story",
   "publication_year": 1909,
   "plot_summary": null,
   "plot_summary_html": "",
@@ -48,7 +48,15 @@
   ],
   "adaptation_gaps": [],
   "photoplay_editions": [],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "The Century Magazine",
+    "magazine_pub_date": "1908-12-01",
+    "magazine_issue_info": "v77 #2",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/FMI/ZZPERMLINK.ASP?NAME=%27P_1908CNYDEC%27",
+    "serialized": false,
+    "serial_parts": null
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -58,5 +66,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2026-06-10 22:08:50.176863"
 }

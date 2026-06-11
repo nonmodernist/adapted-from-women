@@ -329,6 +329,33 @@
     },
     {
       "work": {
+        "id": 990,
+        "slug": "the-princess-virtue",
+        "title": "The Princess Virtue",
+        "html_title": "<span class=\"work-title\">The Princess Virtue</span>",
+        "work_type": "novella",
+        "publication_year": 1917
+      },
+      "author": {
+        "id": 501,
+        "slug": "louise-winter",
+        "name": "Louise Winter"
+      },
+      "film": {
+        "id": 1103,
+        "slug": "princess-virtue-1917",
+        "title": "Princess Virtue",
+        "html_title": "<span class=\"film-title\">Princess Virtue</span>",
+        "year": 1917,
+        "studio": "Bluebird Photoplays",
+        "directors": "Robert Z. Leonard",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
         "id": 38,
         "slug": "the-bargain-true",
         "title": "The Bargain True",
@@ -437,6 +464,33 @@
     },
     {
       "work": {
+        "id": 801,
+        "slug": "the-price-of-applause",
+        "title": "The Price of Applause",
+        "html_title": "<span class=\"work-title short-story\">\"The Price of Applause\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1918
+      },
+      "author": {
+        "id": 405,
+        "slug": "nina-wilcox-putnam",
+        "name": "Nina Wilcox Putnam"
+      },
+      "film": {
+        "id": 893,
+        "slug": "the-price-of-applause-1918",
+        "title": "The Price of Applause",
+        "html_title": "<span class=\"film-title\">The Price of Applause</span>",
+        "year": 1918,
+        "studio": "Triangle Film",
+        "directors": "Thomas N. Heffron",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
         "id": 862,
         "slug": "wild-honey",
         "title": "Wild Honey",
@@ -459,6 +513,33 @@
         "directors": "Francis J. Grandon",
         "genres": [
           "Western"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 989,
+        "slug": "the-magnificent-jacala",
+        "title": "The Magnificent Jacala",
+        "html_title": "<span class=\"work-title\">The Magnificent Jacala</span>",
+        "work_type": "novel",
+        "publication_year": 1918
+      },
+      "author": {
+        "id": 501,
+        "slug": "louise-winter",
+        "name": "Louise Winter"
+      },
+      "film": {
+        "id": 1102,
+        "slug": "the-brazen-beauty-1918",
+        "title": "The Brazen Beauty",
+        "html_title": "<span class=\"film-title\">The Brazen Beauty</span>",
+        "year": 1918,
+        "studio": "Bluebird Photoplays",
+        "directors": "Tod Browning",
+        "genres": [
+          "Comedy"
         ]
       }
     },
@@ -629,8 +710,8 @@
         "id": 725,
         "slug": "uncle-sam-of-freedom-ridge",
         "title": "Uncle Sam of Freedom Ridge",
-        "html_title": "<span class=\"work-title\">Uncle Sam of Freedom Ridge</span>",
-        "work_type": "novel",
+        "html_title": "<span class=\"work-title short-story\">\"Uncle Sam of Freedom Ridge\"</span>",
+        "work_type": "short_story",
         "publication_year": 1920
       },
       "author": {
@@ -2032,33 +2113,6 @@
     },
     {
       "work": {
-        "id": 403,
-        "slug": "she-was-a-lady",
-        "title": "She Was a Lady",
-        "html_title": "<span class=\"work-title\">She Was a Lady</span>",
-        "work_type": "novel",
-        "publication_year": 1934
-      },
-      "author": {
-        "id": 170,
-        "slug": "elisabeth-cobb",
-        "name": "Elisabeth Cobb"
-      },
-      "film": {
-        "id": 471,
-        "slug": "she-was-a-lady-1934",
-        "title": "She Was a Lady",
-        "html_title": "<span class=\"film-title\">She Was a Lady</span>",
-        "year": 1934,
-        "studio": "Fox Film",
-        "directors": "Hamilton MacFadden",
-        "genres": [
-          "Melodrama"
-        ]
-      }
-    },
-    {
-      "work": {
         "id": 869,
         "slug": "now-ill-tell",
         "title": "Now I'll Tell",
@@ -2357,33 +2411,6 @@
     },
     {
       "work": {
-        "id": 353,
-        "slug": "china-sky",
-        "title": "China Sky",
-        "html_title": "<span class=\"work-title\">China Sky</span>",
-        "work_type": "novel",
-        "publication_year": 1945
-      },
-      "author": {
-        "id": 146,
-        "slug": "pearl-s-buck",
-        "name": "Pearl S. Buck"
-      },
-      "film": {
-        "id": 417,
-        "slug": "china-sky-1945",
-        "title": "China Sky",
-        "html_title": "<span class=\"film-title\">China Sky</span>",
-        "year": 1945,
-        "studio": "RKO",
-        "directors": "Ray Enright",
-        "genres": [
-          "Drama"
-        ]
-      }
-    },
-    {
-      "work": {
         "id": 285,
         "slug": "thanks-god-ill-take-it-from-here",
         "title": "Thanks God! I'll Take It From Here",
@@ -2546,39 +2573,39 @@
     }
   ],
   "stats": {
-    "total": 94,
+    "total": 95,
     "yearRange": {
       "earliest": 1914,
       "latest": 1962
     },
     "byDecade": {
-      "1910s": 20,
+      "1910s": 23,
       "1920s": 36,
-      "1930s": 28,
-      "1940s": 6,
+      "1930s": 27,
+      "1940s": 5,
       "1950s": 2,
       "1960s": 2
     },
     "byGenre": [
       {
         "genre": "Drama",
-        "count": 37
+        "count": 38
       },
       {
         "genre": "Melodrama",
-        "count": 19
+        "count": 18
       },
       {
         "genre": "Comedy-drama",
         "count": 13
       },
       {
-        "genre": "Romance",
+        "genre": "Comedy",
         "count": 7
       },
       {
-        "genre": "Comedy",
-        "count": 6
+        "genre": "Romance",
+        "count": 7
       },
       {
         "genre": "Romantic comedy",
@@ -2612,15 +2639,15 @@
     "byWorkType": [
       {
         "type": "novel",
-        "count": 52
+        "count": 50
       },
       {
         "type": "short story",
-        "count": 29
+        "count": 31
       },
       {
         "type": "novella",
-        "count": 11
+        "count": 12
       },
       {
         "type": "collection",
@@ -2637,12 +2664,12 @@
         "count": 10
       },
       {
-        "studio": "Fox Film",
+        "studio": "MGM",
         "count": 9
       },
       {
-        "studio": "MGM",
-        "count": 9
+        "studio": "Fox Film",
+        "count": 8
       },
       {
         "studio": "Paramount",
@@ -2657,6 +2684,10 @@
         "count": 5
       },
       {
+        "studio": "Bluebird Photoplays",
+        "count": 5
+      },
+      {
         "studio": "Famous Players",
         "count": 4
       },
@@ -2666,10 +2697,6 @@
       },
       {
         "studio": "Vitagraph",
-        "count": 3
-      },
-      {
-        "studio": "Bluebird Photoplays",
         "count": 3
       }
     ],
@@ -2703,21 +2730,21 @@
         "count": 2
       },
       {
+        "name": "Louise Winter",
+        "count": 2
+      },
+      {
         "name": "Kathleen Norris",
         "count": 2
       },
       {
         "name": "Katherine Leiser Robbins",
         "count": 2
-      },
-      {
-        "name": "Katharine Newlin Burt",
-        "count": 2
       }
     ]
   },
   "metadata": {
-    "generated": "2025-08-28T00:53:54.118Z",
+    "generated": "2026-06-11T19:21:52.611Z",
     "version": "1.1"
   }
 }

@@ -5,7 +5,7 @@
   "formatted_title": "Hasty Wedding",
   "html_title": "<span class=\"work-title\">Hasty Wedding</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1938,
   "plot_summary": null,
   "plot_summary_html": "",
   "literary_significance": null,
@@ -43,12 +43,20 @@
         "Mystery"
       ],
       "has_media": false,
-      "years_after_publication": null
+      "years_after_publication": 7
     }
   ],
   "adaptation_gaps": [],
   "photoplay_editions": [],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Woman's Journal",
+    "magazine_pub_date": "1938-08-01",
+    "magazine_issue_info": "v22, #130-133",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/FMI/ZZPERMLINK.ASP?NAME=%27P_1938WMJOCT%27",
+    "serialized": true,
+    "serial_parts": 4
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -58,5 +66,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2026-06-10 22:26:00.037913"
 }

@@ -413,6 +413,40 @@
     },
     {
       "work": {
+        "id": 990,
+        "slug": "the-princess-virtue",
+        "title": "The Princess Virtue",
+        "formatted_title": "The Princess Virtue",
+        "html_title": "<span class=\"work-title\">The Princess Virtue</span>",
+        "work_type": "novella",
+        "publication_year": 1917
+      },
+      "author": {
+        "id": 501,
+        "slug": "louise-winter",
+        "name": "Louise Winter"
+      },
+      "firstAdaptation": {
+        "id": 1103,
+        "slug": "princess-virtue-1917",
+        "title": "Princess Virtue",
+        "html_title": "<span class=\"film-title\">Princess Virtue</span>",
+        "year": 1917,
+        "studio": "Bluebird Photoplays",
+        "directors": "Robert Z. Leonard"
+      },
+      "speed": {
+        "delay": 0,
+        "delayMonths": "Same year",
+        "isZeroDelay": true
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1917
+      }
+    },
+    {
+      "work": {
         "id": 519,
         "slug": "her-decision",
         "title": "Her Decision",
@@ -536,6 +570,74 @@
         "year": 1918,
         "studio": "Famous Players-Lasky",
         "directors": "Donald Crisp"
+      },
+      "speed": {
+        "delay": 0,
+        "delayMonths": "Same year",
+        "isZeroDelay": true
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1918
+      }
+    },
+    {
+      "work": {
+        "id": 989,
+        "slug": "the-magnificent-jacala",
+        "title": "The Magnificent Jacala",
+        "formatted_title": "The Magnificent Jacala",
+        "html_title": "<span class=\"work-title\">The Magnificent Jacala</span>",
+        "work_type": "novel",
+        "publication_year": 1918
+      },
+      "author": {
+        "id": 501,
+        "slug": "louise-winter",
+        "name": "Louise Winter"
+      },
+      "firstAdaptation": {
+        "id": 1102,
+        "slug": "the-brazen-beauty-1918",
+        "title": "The Brazen Beauty",
+        "html_title": "<span class=\"film-title\">The Brazen Beauty</span>",
+        "year": 1918,
+        "studio": "Bluebird Photoplays",
+        "directors": "Tod Browning"
+      },
+      "speed": {
+        "delay": 0,
+        "delayMonths": "Same year",
+        "isZeroDelay": true
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1918
+      }
+    },
+    {
+      "work": {
+        "id": 801,
+        "slug": "the-price-of-applause",
+        "title": "The Price of Applause",
+        "formatted_title": "\"The Price of Applause\"",
+        "html_title": "<span class=\"work-title short-story\">\"The Price of Applause\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1918
+      },
+      "author": {
+        "id": 405,
+        "slug": "nina-wilcox-putnam",
+        "name": "Nina Wilcox Putnam"
+      },
+      "firstAdaptation": {
+        "id": 893,
+        "slug": "the-price-of-applause-1918",
+        "title": "The Price of Applause",
+        "html_title": "<span class=\"film-title\">The Price of Applause</span>",
+        "year": 1918,
+        "studio": "Triangle Film",
+        "directors": "Thomas N. Heffron"
       },
       "speed": {
         "delay": 0,
@@ -926,9 +1028,9 @@
         "id": 725,
         "slug": "uncle-sam-of-freedom-ridge",
         "title": "Uncle Sam of Freedom Ridge",
-        "formatted_title": "Uncle Sam of Freedom Ridge",
-        "html_title": "<span class=\"work-title\">Uncle Sam of Freedom Ridge</span>",
-        "work_type": "novel",
+        "formatted_title": "\"Uncle Sam of Freedom Ridge\"",
+        "html_title": "<span class=\"work-title short-story\">\"Uncle Sam of Freedom Ridge\"</span>",
+        "work_type": "short_story",
         "publication_year": 1920
       },
       "author": {
@@ -2589,40 +2691,6 @@
     },
     {
       "work": {
-        "id": 403,
-        "slug": "she-was-a-lady",
-        "title": "She Was a Lady",
-        "formatted_title": "She Was a Lady",
-        "html_title": "<span class=\"work-title\">She Was a Lady</span>",
-        "work_type": "novel",
-        "publication_year": 1934
-      },
-      "author": {
-        "id": 170,
-        "slug": "elisabeth-cobb",
-        "name": "Elisabeth Cobb"
-      },
-      "firstAdaptation": {
-        "id": 471,
-        "slug": "she-was-a-lady-1934",
-        "title": "She Was a Lady",
-        "html_title": "<span class=\"film-title\">She Was a Lady</span>",
-        "year": 1934,
-        "studio": "Fox Film",
-        "directors": "Hamilton MacFadden"
-      },
-      "speed": {
-        "delay": 0,
-        "delayMonths": "Same year",
-        "isZeroDelay": true
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1934
-      }
-    },
-    {
-      "work": {
         "id": 197,
         "slug": "wife-vs-secretary",
         "title": "Wife vs. Secretary",
@@ -2959,40 +3027,6 @@
       "context": {
         "totalAdaptations": 1,
         "lastAdaptation": 1944
-      }
-    },
-    {
-      "work": {
-        "id": 353,
-        "slug": "china-sky",
-        "title": "China Sky",
-        "formatted_title": "China Sky",
-        "html_title": "<span class=\"work-title\">China Sky</span>",
-        "work_type": "novel",
-        "publication_year": 1945
-      },
-      "author": {
-        "id": 146,
-        "slug": "pearl-s-buck",
-        "name": "Pearl S. Buck"
-      },
-      "firstAdaptation": {
-        "id": 417,
-        "slug": "china-sky-1945",
-        "title": "China Sky",
-        "html_title": "<span class=\"film-title\">China Sky</span>",
-        "year": 1945,
-        "studio": "RKO",
-        "directors": "Ray Enright"
-      },
-      "speed": {
-        "delay": 0,
-        "delayMonths": "Same year",
-        "isZeroDelay": true
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1945
       }
     },
     {
@@ -3405,40 +3439,6 @@
     },
     {
       "work": {
-        "id": 840,
-        "slug": "theme-the-celebrity",
-        "title": "Theme: The Celebrity",
-        "formatted_title": "\"Theme: The Celebrity\"",
-        "html_title": "<span class=\"work-title short-story\">\"Theme: The Celebrity\"</span>",
-        "work_type": "short_story",
-        "publication_year": 1916
-      },
-      "author": {
-        "id": 6,
-        "slug": "mary-roberts-rinehart",
-        "name": "Mary Roberts Rinehart"
-      },
-      "firstAdaptation": {
-        "id": 936,
-        "slug": "babs-matinee-idol-1917",
-        "title": "Bab's Matinee Idol",
-        "html_title": "<span class=\"film-title\">Bab's Matinee Idol</span>",
-        "year": 1917,
-        "studio": "Famous Players",
-        "directors": "J. Searle Dawley"
-      },
-      "speed": {
-        "delay": 1,
-        "delayMonths": "1 year",
-        "isZeroDelay": false
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1917
-      }
-    },
-    {
-      "work": {
         "id": 24,
         "slug": "the-secret-of-the-storm-country",
         "title": "The Secret of the Storm Country",
@@ -3460,6 +3460,40 @@
         "year": 1917,
         "studio": "Norma Talmadge Film",
         "directors": "Charles Miller"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1917
+      }
+    },
+    {
+      "work": {
+        "id": 840,
+        "slug": "theme-the-celebrity",
+        "title": "Theme: The Celebrity",
+        "formatted_title": "\"Theme: The Celebrity\"",
+        "html_title": "<span class=\"work-title short-story\">\"Theme: The Celebrity\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1916
+      },
+      "author": {
+        "id": 6,
+        "slug": "mary-roberts-rinehart",
+        "name": "Mary Roberts Rinehart"
+      },
+      "firstAdaptation": {
+        "id": 936,
+        "slug": "babs-matinee-idol-1917",
+        "title": "Bab's Matinee Idol",
+        "html_title": "<span class=\"film-title\">Bab's Matinee Idol</span>",
+        "year": 1917,
+        "studio": "Famous Players",
+        "directors": "J. Searle Dawley"
       },
       "speed": {
         "delay": 1,
@@ -4174,6 +4208,74 @@
         "year": 1919,
         "studio": "Famous Players-Lasky",
         "directors": "Charles Maigne"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1919
+      }
+    },
+    {
+      "work": {
+        "id": 991,
+        "slug": "the-spite-bride",
+        "title": "The Spite Bride",
+        "formatted_title": "The Spite Bride",
+        "html_title": "<span class=\"work-title\">The Spite Bride</span>",
+        "work_type": "novel",
+        "publication_year": 1918
+      },
+      "author": {
+        "id": 501,
+        "slug": "louise-winter",
+        "name": "Louise Winter"
+      },
+      "firstAdaptation": {
+        "id": 1104,
+        "slug": "the-spite-bride-1919",
+        "title": "The Spite Bride",
+        "html_title": "<span class=\"film-title\">The Spite Bride</span>",
+        "year": 1919,
+        "studio": "Selznick Pictures",
+        "directors": "Charles Giblyn"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1919
+      }
+    },
+    {
+      "work": {
+        "id": 928,
+        "slug": "the-two-benjamins",
+        "title": "The Two Benjamins",
+        "formatted_title": "\"The Two Benjamins\"",
+        "html_title": "<span class=\"work-title short-story\">\"The Two Benjamins\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1918
+      },
+      "author": {
+        "id": 467,
+        "slug": "juliet-wilbor-tompkins",
+        "name": "Juliet Wilbor Tompkins"
+      },
+      "firstAdaptation": {
+        "id": 1035,
+        "slug": "little-comrade-1919",
+        "title": "Little Comrade",
+        "html_title": "<span class=\"film-title\">Little Comrade</span>",
+        "year": 1919,
+        "studio": "Famous Players-Lasky",
+        "directors": "Chester Withey"
       },
       "speed": {
         "delay": 1,
@@ -5173,6 +5275,40 @@
     },
     {
       "work": {
+        "id": 800,
+        "slug": "two-weeks-with-pay",
+        "title": "Two Weeks with Pay",
+        "formatted_title": "\"Two Weeks with Pay\"",
+        "html_title": "<span class=\"work-title short-story\">\"Two Weeks with Pay\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1920
+      },
+      "author": {
+        "id": 405,
+        "slug": "nina-wilcox-putnam",
+        "name": "Nina Wilcox Putnam"
+      },
+      "firstAdaptation": {
+        "id": 892,
+        "slug": "two-weeks-with-pay-1921",
+        "title": "Two Weeks with Pay",
+        "html_title": "<span class=\"film-title\">Two Weeks with Pay</span>",
+        "year": 1921,
+        "studio": "Realart",
+        "directors": "Maurice Campbell"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1921
+      }
+    },
+    {
+      "work": {
         "id": 85,
         "slug": "manslaughter",
         "title": "Manslaughter",
@@ -6023,6 +6159,40 @@
     },
     {
       "work": {
+        "id": 988,
+        "slug": "the-mad-dancer",
+        "title": "The Mad Dancer",
+        "formatted_title": "The Mad Dancer",
+        "html_title": "<span class=\"work-title\">The Mad Dancer</span>",
+        "work_type": "novel",
+        "publication_year": 1924
+      },
+      "author": {
+        "id": 501,
+        "slug": "louise-winter",
+        "name": "Louise Winter"
+      },
+      "firstAdaptation": {
+        "id": 1101,
+        "slug": "the-mad-dancer-1925",
+        "title": "The Mad Dancer",
+        "html_title": "<span class=\"film-title\">The Mad Dancer</span>",
+        "year": 1925,
+        "studio": "Jans Productions",
+        "directors": "Burton King"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1925
+      }
+    },
+    {
+      "work": {
         "id": 859,
         "slug": "the-splendid-road",
         "title": "The Splendid Road",
@@ -6363,6 +6533,40 @@
     },
     {
       "work": {
+        "id": 798,
+        "slug": "the-grandflapper",
+        "title": "The Grandflapper",
+        "formatted_title": "\"The Grandflapper\"",
+        "html_title": "<span class=\"work-title short-story\">\"The Grandflapper\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1926
+      },
+      "author": {
+        "id": 405,
+        "slug": "nina-wilcox-putnam",
+        "name": "Nina Wilcox Putnam"
+      },
+      "firstAdaptation": {
+        "id": 890,
+        "slug": "slaves-of-beauty-1927",
+        "title": "Slaves of Beauty",
+        "html_title": "<span class=\"film-title\">Slaves of Beauty</span>",
+        "year": 1927,
+        "studio": "Fox Film",
+        "directors": "J. G. Blystone"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1927
+      }
+    },
+    {
+      "work": {
         "id": 131,
         "slug": "the-magic-garden",
         "title": "The Magic Garden",
@@ -6486,6 +6690,40 @@
         "year": 1928,
         "studio": "FBO",
         "directors": "Lynn Shores"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1928
+      }
+    },
+    {
+      "work": {
+        "id": 982,
+        "slug": "the-branded-sombrero",
+        "title": "The Branded Sombrero",
+        "formatted_title": "The Branded Sombrero",
+        "html_title": "<span class=\"work-title\">The Branded Sombrero</span>",
+        "work_type": "novella",
+        "publication_year": 1927
+      },
+      "author": {
+        "id": 498,
+        "slug": "cherry-wilson",
+        "name": "Cherry Wilson"
+      },
+      "firstAdaptation": {
+        "id": 1095,
+        "slug": "the-branded-sombrero-1928",
+        "title": "The Branded Sombrero",
+        "html_title": "<span class=\"film-title\">The Branded Sombrero</span>",
+        "year": 1928,
+        "studio": "Fox Film",
+        "directors": "Lambert Hillyer"
       },
       "speed": {
         "delay": 1,
@@ -7030,6 +7268,40 @@
         "year": 1931,
         "studio": "Warner Bros",
         "directors": "Roy Del Ruth"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1931
+      }
+    },
+    {
+      "work": {
+        "id": 921,
+        "slug": "fanny-foley-herself",
+        "title": "Fanny Foley Herself",
+        "formatted_title": "\"Fanny Foley Herself\"",
+        "html_title": "<span class=\"work-title short-story\">\"Fanny Foley Herself\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1930
+      },
+      "author": {
+        "id": 467,
+        "slug": "juliet-wilbor-tompkins",
+        "name": "Juliet Wilbor Tompkins"
+      },
+      "firstAdaptation": {
+        "id": 1027,
+        "slug": "fanny-foley-herself-1931",
+        "title": "Fanny Foley Herself",
+        "html_title": "<span class=\"film-title\">Fanny Foley Herself</span>",
+        "year": 1931,
+        "studio": "RKO",
+        "directors": "Melville Brown"
       },
       "speed": {
         "delay": 1,
@@ -7893,6 +8165,40 @@
     },
     {
       "work": {
+        "id": 403,
+        "slug": "she-was-a-lady",
+        "title": "She Was a Lady",
+        "formatted_title": "She Was a Lady",
+        "html_title": "<span class=\"work-title\">She Was a Lady</span>",
+        "work_type": "novel",
+        "publication_year": 1933
+      },
+      "author": {
+        "id": 170,
+        "slug": "elisabeth-cobb",
+        "name": "Elisabeth Cobb"
+      },
+      "firstAdaptation": {
+        "id": 471,
+        "slug": "she-was-a-lady-1934",
+        "title": "She Was a Lady",
+        "html_title": "<span class=\"film-title\">She Was a Lady</span>",
+        "year": 1934,
+        "studio": "Fox Film",
+        "directors": "Hamilton MacFadden"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1934
+      }
+    },
+    {
+      "work": {
         "id": 190,
         "slug": "the-murder-of-steven-kester",
         "title": "The Murder of Steven Kester",
@@ -8335,6 +8641,74 @@
     },
     {
       "work": {
+        "id": 459,
+        "slug": "dead-yesterday",
+        "title": "Dead Yesterday",
+        "formatted_title": "\"Dead Yesterday\"",
+        "html_title": "<span class=\"work-title short-story\">\"Dead Yesterday\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1936
+      },
+      "author": {
+        "id": 205,
+        "slug": "mignon-g-eberhart",
+        "name": "Mignon G. Eberhart"
+      },
+      "firstAdaptation": {
+        "id": 528,
+        "slug": "the-great-hospital-mystery-1937",
+        "title": "The Great Hospital Mystery",
+        "html_title": "<span class=\"film-title\">The Great Hospital Mystery</span>",
+        "year": 1937,
+        "studio": "20th Century Fox",
+        "directors": "James Tinling"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1937
+      }
+    },
+    {
+      "work": {
+        "id": 984,
+        "slug": "starr-of-the-southwest",
+        "title": "Starr of the Southwest",
+        "formatted_title": "Starr of the Southwest",
+        "html_title": "<span class=\"work-title\">Starr of the Southwest</span>",
+        "work_type": "novel",
+        "publication_year": 1936
+      },
+      "author": {
+        "id": 498,
+        "slug": "cherry-wilson",
+        "name": "Cherry Wilson"
+      },
+      "firstAdaptation": {
+        "id": 1097,
+        "slug": "sandflow-1937",
+        "title": "Sandflow",
+        "html_title": "<span class=\"film-title\">Sandflow</span>",
+        "year": 1937,
+        "studio": "Universal",
+        "directors": "Lesley Selander"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1937
+      }
+    },
+    {
+      "work": {
         "id": 327,
         "slug": "wake-up-and-live",
         "title": "Wake Up and Live",
@@ -8680,7 +9054,7 @@
         "title": "Penny Serenade",
         "formatted_title": "Penny Serenade",
         "html_title": "<span class=\"work-title\">Penny Serenade</span>",
-        "work_type": "novel",
+        "work_type": "novella",
         "publication_year": 1940
       },
       "author": {
@@ -10515,6 +10889,40 @@
         },
         {
           "work": {
+            "id": 990,
+            "slug": "the-princess-virtue",
+            "title": "The Princess Virtue",
+            "formatted_title": "The Princess Virtue",
+            "html_title": "<span class=\"work-title\">The Princess Virtue</span>",
+            "work_type": "novella",
+            "publication_year": 1917
+          },
+          "author": {
+            "id": 501,
+            "slug": "louise-winter",
+            "name": "Louise Winter"
+          },
+          "firstAdaptation": {
+            "id": 1103,
+            "slug": "princess-virtue-1917",
+            "title": "Princess Virtue",
+            "html_title": "<span class=\"film-title\">Princess Virtue</span>",
+            "year": 1917,
+            "studio": "Bluebird Photoplays",
+            "directors": "Robert Z. Leonard"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1917
+          }
+        },
+        {
+          "work": {
             "id": 519,
             "slug": "her-decision",
             "title": "Her Decision",
@@ -10638,6 +11046,74 @@
             "year": 1918,
             "studio": "Famous Players-Lasky",
             "directors": "Donald Crisp"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1918
+          }
+        },
+        {
+          "work": {
+            "id": 989,
+            "slug": "the-magnificent-jacala",
+            "title": "The Magnificent Jacala",
+            "formatted_title": "The Magnificent Jacala",
+            "html_title": "<span class=\"work-title\">The Magnificent Jacala</span>",
+            "work_type": "novel",
+            "publication_year": 1918
+          },
+          "author": {
+            "id": 501,
+            "slug": "louise-winter",
+            "name": "Louise Winter"
+          },
+          "firstAdaptation": {
+            "id": 1102,
+            "slug": "the-brazen-beauty-1918",
+            "title": "The Brazen Beauty",
+            "html_title": "<span class=\"film-title\">The Brazen Beauty</span>",
+            "year": 1918,
+            "studio": "Bluebird Photoplays",
+            "directors": "Tod Browning"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1918
+          }
+        },
+        {
+          "work": {
+            "id": 801,
+            "slug": "the-price-of-applause",
+            "title": "The Price of Applause",
+            "formatted_title": "\"The Price of Applause\"",
+            "html_title": "<span class=\"work-title short-story\">\"The Price of Applause\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1918
+          },
+          "author": {
+            "id": 405,
+            "slug": "nina-wilcox-putnam",
+            "name": "Nina Wilcox Putnam"
+          },
+          "firstAdaptation": {
+            "id": 893,
+            "slug": "the-price-of-applause-1918",
+            "title": "The Price of Applause",
+            "html_title": "<span class=\"film-title\">The Price of Applause</span>",
+            "year": 1918,
+            "studio": "Triangle Film",
+            "directors": "Thomas N. Heffron"
           },
           "speed": {
             "delay": 0,
@@ -11028,9 +11504,9 @@
             "id": 725,
             "slug": "uncle-sam-of-freedom-ridge",
             "title": "Uncle Sam of Freedom Ridge",
-            "formatted_title": "Uncle Sam of Freedom Ridge",
-            "html_title": "<span class=\"work-title\">Uncle Sam of Freedom Ridge</span>",
-            "work_type": "novel",
+            "formatted_title": "\"Uncle Sam of Freedom Ridge\"",
+            "html_title": "<span class=\"work-title short-story\">\"Uncle Sam of Freedom Ridge\"</span>",
+            "work_type": "short_story",
             "publication_year": 1920
           },
           "author": {
@@ -12691,40 +13167,6 @@
         },
         {
           "work": {
-            "id": 403,
-            "slug": "she-was-a-lady",
-            "title": "She Was a Lady",
-            "formatted_title": "She Was a Lady",
-            "html_title": "<span class=\"work-title\">She Was a Lady</span>",
-            "work_type": "novel",
-            "publication_year": 1934
-          },
-          "author": {
-            "id": 170,
-            "slug": "elisabeth-cobb",
-            "name": "Elisabeth Cobb"
-          },
-          "firstAdaptation": {
-            "id": 471,
-            "slug": "she-was-a-lady-1934",
-            "title": "She Was a Lady",
-            "html_title": "<span class=\"film-title\">She Was a Lady</span>",
-            "year": 1934,
-            "studio": "Fox Film",
-            "directors": "Hamilton MacFadden"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1934
-          }
-        },
-        {
-          "work": {
             "id": 197,
             "slug": "wife-vs-secretary",
             "title": "Wife vs. Secretary",
@@ -13061,40 +13503,6 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1944
-          }
-        },
-        {
-          "work": {
-            "id": 353,
-            "slug": "china-sky",
-            "title": "China Sky",
-            "formatted_title": "China Sky",
-            "html_title": "<span class=\"work-title\">China Sky</span>",
-            "work_type": "novel",
-            "publication_year": 1945
-          },
-          "author": {
-            "id": 146,
-            "slug": "pearl-s-buck",
-            "name": "Pearl S. Buck"
-          },
-          "firstAdaptation": {
-            "id": 417,
-            "slug": "china-sky-1945",
-            "title": "China Sky",
-            "html_title": "<span class=\"film-title\">China Sky</span>",
-            "year": 1945,
-            "studio": "RKO",
-            "directors": "Ray Enright"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1945
           }
         },
         {
@@ -13509,40 +13917,6 @@
         },
         {
           "work": {
-            "id": 840,
-            "slug": "theme-the-celebrity",
-            "title": "Theme: The Celebrity",
-            "formatted_title": "\"Theme: The Celebrity\"",
-            "html_title": "<span class=\"work-title short-story\">\"Theme: The Celebrity\"</span>",
-            "work_type": "short_story",
-            "publication_year": 1916
-          },
-          "author": {
-            "id": 6,
-            "slug": "mary-roberts-rinehart",
-            "name": "Mary Roberts Rinehart"
-          },
-          "firstAdaptation": {
-            "id": 936,
-            "slug": "babs-matinee-idol-1917",
-            "title": "Bab's Matinee Idol",
-            "html_title": "<span class=\"film-title\">Bab's Matinee Idol</span>",
-            "year": 1917,
-            "studio": "Famous Players",
-            "directors": "J. Searle Dawley"
-          },
-          "speed": {
-            "delay": 1,
-            "delayMonths": "1 year",
-            "isZeroDelay": false
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1917
-          }
-        },
-        {
-          "work": {
             "id": 24,
             "slug": "the-secret-of-the-storm-country",
             "title": "The Secret of the Storm Country",
@@ -13564,6 +13938,40 @@
             "year": 1917,
             "studio": "Norma Talmadge Film",
             "directors": "Charles Miller"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1917
+          }
+        },
+        {
+          "work": {
+            "id": 840,
+            "slug": "theme-the-celebrity",
+            "title": "Theme: The Celebrity",
+            "formatted_title": "\"Theme: The Celebrity\"",
+            "html_title": "<span class=\"work-title short-story\">\"Theme: The Celebrity\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1916
+          },
+          "author": {
+            "id": 6,
+            "slug": "mary-roberts-rinehart",
+            "name": "Mary Roberts Rinehart"
+          },
+          "firstAdaptation": {
+            "id": 936,
+            "slug": "babs-matinee-idol-1917",
+            "title": "Bab's Matinee Idol",
+            "html_title": "<span class=\"film-title\">Bab's Matinee Idol</span>",
+            "year": 1917,
+            "studio": "Famous Players",
+            "directors": "J. Searle Dawley"
           },
           "speed": {
             "delay": 1,
@@ -14278,6 +14686,74 @@
             "year": 1919,
             "studio": "Famous Players-Lasky",
             "directors": "Charles Maigne"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1919
+          }
+        },
+        {
+          "work": {
+            "id": 991,
+            "slug": "the-spite-bride",
+            "title": "The Spite Bride",
+            "formatted_title": "The Spite Bride",
+            "html_title": "<span class=\"work-title\">The Spite Bride</span>",
+            "work_type": "novel",
+            "publication_year": 1918
+          },
+          "author": {
+            "id": 501,
+            "slug": "louise-winter",
+            "name": "Louise Winter"
+          },
+          "firstAdaptation": {
+            "id": 1104,
+            "slug": "the-spite-bride-1919",
+            "title": "The Spite Bride",
+            "html_title": "<span class=\"film-title\">The Spite Bride</span>",
+            "year": 1919,
+            "studio": "Selznick Pictures",
+            "directors": "Charles Giblyn"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1919
+          }
+        },
+        {
+          "work": {
+            "id": 928,
+            "slug": "the-two-benjamins",
+            "title": "The Two Benjamins",
+            "formatted_title": "\"The Two Benjamins\"",
+            "html_title": "<span class=\"work-title short-story\">\"The Two Benjamins\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1918
+          },
+          "author": {
+            "id": 467,
+            "slug": "juliet-wilbor-tompkins",
+            "name": "Juliet Wilbor Tompkins"
+          },
+          "firstAdaptation": {
+            "id": 1035,
+            "slug": "little-comrade-1919",
+            "title": "Little Comrade",
+            "html_title": "<span class=\"film-title\">Little Comrade</span>",
+            "year": 1919,
+            "studio": "Famous Players-Lasky",
+            "directors": "Chester Withey"
           },
           "speed": {
             "delay": 1,
@@ -15277,6 +15753,40 @@
         },
         {
           "work": {
+            "id": 800,
+            "slug": "two-weeks-with-pay",
+            "title": "Two Weeks with Pay",
+            "formatted_title": "\"Two Weeks with Pay\"",
+            "html_title": "<span class=\"work-title short-story\">\"Two Weeks with Pay\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1920
+          },
+          "author": {
+            "id": 405,
+            "slug": "nina-wilcox-putnam",
+            "name": "Nina Wilcox Putnam"
+          },
+          "firstAdaptation": {
+            "id": 892,
+            "slug": "two-weeks-with-pay-1921",
+            "title": "Two Weeks with Pay",
+            "html_title": "<span class=\"film-title\">Two Weeks with Pay</span>",
+            "year": 1921,
+            "studio": "Realart",
+            "directors": "Maurice Campbell"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1921
+          }
+        },
+        {
+          "work": {
             "id": 85,
             "slug": "manslaughter",
             "title": "Manslaughter",
@@ -16127,6 +16637,40 @@
         },
         {
           "work": {
+            "id": 988,
+            "slug": "the-mad-dancer",
+            "title": "The Mad Dancer",
+            "formatted_title": "The Mad Dancer",
+            "html_title": "<span class=\"work-title\">The Mad Dancer</span>",
+            "work_type": "novel",
+            "publication_year": 1924
+          },
+          "author": {
+            "id": 501,
+            "slug": "louise-winter",
+            "name": "Louise Winter"
+          },
+          "firstAdaptation": {
+            "id": 1101,
+            "slug": "the-mad-dancer-1925",
+            "title": "The Mad Dancer",
+            "html_title": "<span class=\"film-title\">The Mad Dancer</span>",
+            "year": 1925,
+            "studio": "Jans Productions",
+            "directors": "Burton King"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1925
+          }
+        },
+        {
+          "work": {
             "id": 859,
             "slug": "the-splendid-road",
             "title": "The Splendid Road",
@@ -16467,6 +17011,40 @@
         },
         {
           "work": {
+            "id": 798,
+            "slug": "the-grandflapper",
+            "title": "The Grandflapper",
+            "formatted_title": "\"The Grandflapper\"",
+            "html_title": "<span class=\"work-title short-story\">\"The Grandflapper\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1926
+          },
+          "author": {
+            "id": 405,
+            "slug": "nina-wilcox-putnam",
+            "name": "Nina Wilcox Putnam"
+          },
+          "firstAdaptation": {
+            "id": 890,
+            "slug": "slaves-of-beauty-1927",
+            "title": "Slaves of Beauty",
+            "html_title": "<span class=\"film-title\">Slaves of Beauty</span>",
+            "year": 1927,
+            "studio": "Fox Film",
+            "directors": "J. G. Blystone"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1927
+          }
+        },
+        {
+          "work": {
             "id": 131,
             "slug": "the-magic-garden",
             "title": "The Magic Garden",
@@ -16590,6 +17168,40 @@
             "year": 1928,
             "studio": "FBO",
             "directors": "Lynn Shores"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1928
+          }
+        },
+        {
+          "work": {
+            "id": 982,
+            "slug": "the-branded-sombrero",
+            "title": "The Branded Sombrero",
+            "formatted_title": "The Branded Sombrero",
+            "html_title": "<span class=\"work-title\">The Branded Sombrero</span>",
+            "work_type": "novella",
+            "publication_year": 1927
+          },
+          "author": {
+            "id": 498,
+            "slug": "cherry-wilson",
+            "name": "Cherry Wilson"
+          },
+          "firstAdaptation": {
+            "id": 1095,
+            "slug": "the-branded-sombrero-1928",
+            "title": "The Branded Sombrero",
+            "html_title": "<span class=\"film-title\">The Branded Sombrero</span>",
+            "year": 1928,
+            "studio": "Fox Film",
+            "directors": "Lambert Hillyer"
           },
           "speed": {
             "delay": 1,
@@ -17134,6 +17746,40 @@
             "year": 1931,
             "studio": "Warner Bros",
             "directors": "Roy Del Ruth"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1931
+          }
+        },
+        {
+          "work": {
+            "id": 921,
+            "slug": "fanny-foley-herself",
+            "title": "Fanny Foley Herself",
+            "formatted_title": "\"Fanny Foley Herself\"",
+            "html_title": "<span class=\"work-title short-story\">\"Fanny Foley Herself\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1930
+          },
+          "author": {
+            "id": 467,
+            "slug": "juliet-wilbor-tompkins",
+            "name": "Juliet Wilbor Tompkins"
+          },
+          "firstAdaptation": {
+            "id": 1027,
+            "slug": "fanny-foley-herself-1931",
+            "title": "Fanny Foley Herself",
+            "html_title": "<span class=\"film-title\">Fanny Foley Herself</span>",
+            "year": 1931,
+            "studio": "RKO",
+            "directors": "Melville Brown"
           },
           "speed": {
             "delay": 1,
@@ -17997,6 +18643,40 @@
         },
         {
           "work": {
+            "id": 403,
+            "slug": "she-was-a-lady",
+            "title": "She Was a Lady",
+            "formatted_title": "She Was a Lady",
+            "html_title": "<span class=\"work-title\">She Was a Lady</span>",
+            "work_type": "novel",
+            "publication_year": 1933
+          },
+          "author": {
+            "id": 170,
+            "slug": "elisabeth-cobb",
+            "name": "Elisabeth Cobb"
+          },
+          "firstAdaptation": {
+            "id": 471,
+            "slug": "she-was-a-lady-1934",
+            "title": "She Was a Lady",
+            "html_title": "<span class=\"film-title\">She Was a Lady</span>",
+            "year": 1934,
+            "studio": "Fox Film",
+            "directors": "Hamilton MacFadden"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1934
+          }
+        },
+        {
+          "work": {
             "id": 190,
             "slug": "the-murder-of-steven-kester",
             "title": "The Murder of Steven Kester",
@@ -18439,6 +19119,74 @@
         },
         {
           "work": {
+            "id": 459,
+            "slug": "dead-yesterday",
+            "title": "Dead Yesterday",
+            "formatted_title": "\"Dead Yesterday\"",
+            "html_title": "<span class=\"work-title short-story\">\"Dead Yesterday\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1936
+          },
+          "author": {
+            "id": 205,
+            "slug": "mignon-g-eberhart",
+            "name": "Mignon G. Eberhart"
+          },
+          "firstAdaptation": {
+            "id": 528,
+            "slug": "the-great-hospital-mystery-1937",
+            "title": "The Great Hospital Mystery",
+            "html_title": "<span class=\"film-title\">The Great Hospital Mystery</span>",
+            "year": 1937,
+            "studio": "20th Century Fox",
+            "directors": "James Tinling"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1937
+          }
+        },
+        {
+          "work": {
+            "id": 984,
+            "slug": "starr-of-the-southwest",
+            "title": "Starr of the Southwest",
+            "formatted_title": "Starr of the Southwest",
+            "html_title": "<span class=\"work-title\">Starr of the Southwest</span>",
+            "work_type": "novel",
+            "publication_year": 1936
+          },
+          "author": {
+            "id": 498,
+            "slug": "cherry-wilson",
+            "name": "Cherry Wilson"
+          },
+          "firstAdaptation": {
+            "id": 1097,
+            "slug": "sandflow-1937",
+            "title": "Sandflow",
+            "html_title": "<span class=\"film-title\">Sandflow</span>",
+            "year": 1937,
+            "studio": "Universal",
+            "directors": "Lesley Selander"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1937
+          }
+        },
+        {
+          "work": {
             "id": 327,
             "slug": "wake-up-and-live",
             "title": "Wake Up and Live",
@@ -18784,7 +19532,7 @@
             "title": "Penny Serenade",
             "formatted_title": "Penny Serenade",
             "html_title": "<span class=\"work-title\">Penny Serenade</span>",
-            "work_type": "novel",
+            "work_type": "novella",
             "publication_year": 1940
           },
           "author": {
@@ -20619,6 +21367,40 @@
         },
         {
           "work": {
+            "id": 990,
+            "slug": "the-princess-virtue",
+            "title": "The Princess Virtue",
+            "formatted_title": "The Princess Virtue",
+            "html_title": "<span class=\"work-title\">The Princess Virtue</span>",
+            "work_type": "novella",
+            "publication_year": 1917
+          },
+          "author": {
+            "id": 501,
+            "slug": "louise-winter",
+            "name": "Louise Winter"
+          },
+          "firstAdaptation": {
+            "id": 1103,
+            "slug": "princess-virtue-1917",
+            "title": "Princess Virtue",
+            "html_title": "<span class=\"film-title\">Princess Virtue</span>",
+            "year": 1917,
+            "studio": "Bluebird Photoplays",
+            "directors": "Robert Z. Leonard"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1917
+          }
+        },
+        {
+          "work": {
             "id": 519,
             "slug": "her-decision",
             "title": "Her Decision",
@@ -20742,6 +21524,74 @@
             "year": 1918,
             "studio": "Famous Players-Lasky",
             "directors": "Donald Crisp"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1918
+          }
+        },
+        {
+          "work": {
+            "id": 989,
+            "slug": "the-magnificent-jacala",
+            "title": "The Magnificent Jacala",
+            "formatted_title": "The Magnificent Jacala",
+            "html_title": "<span class=\"work-title\">The Magnificent Jacala</span>",
+            "work_type": "novel",
+            "publication_year": 1918
+          },
+          "author": {
+            "id": 501,
+            "slug": "louise-winter",
+            "name": "Louise Winter"
+          },
+          "firstAdaptation": {
+            "id": 1102,
+            "slug": "the-brazen-beauty-1918",
+            "title": "The Brazen Beauty",
+            "html_title": "<span class=\"film-title\">The Brazen Beauty</span>",
+            "year": 1918,
+            "studio": "Bluebird Photoplays",
+            "directors": "Tod Browning"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1918
+          }
+        },
+        {
+          "work": {
+            "id": 801,
+            "slug": "the-price-of-applause",
+            "title": "The Price of Applause",
+            "formatted_title": "\"The Price of Applause\"",
+            "html_title": "<span class=\"work-title short-story\">\"The Price of Applause\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1918
+          },
+          "author": {
+            "id": 405,
+            "slug": "nina-wilcox-putnam",
+            "name": "Nina Wilcox Putnam"
+          },
+          "firstAdaptation": {
+            "id": 893,
+            "slug": "the-price-of-applause-1918",
+            "title": "The Price of Applause",
+            "html_title": "<span class=\"film-title\">The Price of Applause</span>",
+            "year": 1918,
+            "studio": "Triangle Film",
+            "directors": "Thomas N. Heffron"
           },
           "speed": {
             "delay": 0,
@@ -21095,40 +21945,6 @@
         },
         {
           "work": {
-            "id": 840,
-            "slug": "theme-the-celebrity",
-            "title": "Theme: The Celebrity",
-            "formatted_title": "\"Theme: The Celebrity\"",
-            "html_title": "<span class=\"work-title short-story\">\"Theme: The Celebrity\"</span>",
-            "work_type": "short_story",
-            "publication_year": 1916
-          },
-          "author": {
-            "id": 6,
-            "slug": "mary-roberts-rinehart",
-            "name": "Mary Roberts Rinehart"
-          },
-          "firstAdaptation": {
-            "id": 936,
-            "slug": "babs-matinee-idol-1917",
-            "title": "Bab's Matinee Idol",
-            "html_title": "<span class=\"film-title\">Bab's Matinee Idol</span>",
-            "year": 1917,
-            "studio": "Famous Players",
-            "directors": "J. Searle Dawley"
-          },
-          "speed": {
-            "delay": 1,
-            "delayMonths": "1 year",
-            "isZeroDelay": false
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1917
-          }
-        },
-        {
-          "work": {
             "id": 24,
             "slug": "the-secret-of-the-storm-country",
             "title": "The Secret of the Storm Country",
@@ -21150,6 +21966,40 @@
             "year": 1917,
             "studio": "Norma Talmadge Film",
             "directors": "Charles Miller"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1917
+          }
+        },
+        {
+          "work": {
+            "id": 840,
+            "slug": "theme-the-celebrity",
+            "title": "Theme: The Celebrity",
+            "formatted_title": "\"Theme: The Celebrity\"",
+            "html_title": "<span class=\"work-title short-story\">\"Theme: The Celebrity\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1916
+          },
+          "author": {
+            "id": 6,
+            "slug": "mary-roberts-rinehart",
+            "name": "Mary Roberts Rinehart"
+          },
+          "firstAdaptation": {
+            "id": 936,
+            "slug": "babs-matinee-idol-1917",
+            "title": "Bab's Matinee Idol",
+            "html_title": "<span class=\"film-title\">Bab's Matinee Idol</span>",
+            "year": 1917,
+            "studio": "Famous Players",
+            "directors": "J. Searle Dawley"
           },
           "speed": {
             "delay": 1,
@@ -21877,6 +22727,74 @@
         },
         {
           "work": {
+            "id": 991,
+            "slug": "the-spite-bride",
+            "title": "The Spite Bride",
+            "formatted_title": "The Spite Bride",
+            "html_title": "<span class=\"work-title\">The Spite Bride</span>",
+            "work_type": "novel",
+            "publication_year": 1918
+          },
+          "author": {
+            "id": 501,
+            "slug": "louise-winter",
+            "name": "Louise Winter"
+          },
+          "firstAdaptation": {
+            "id": 1104,
+            "slug": "the-spite-bride-1919",
+            "title": "The Spite Bride",
+            "html_title": "<span class=\"film-title\">The Spite Bride</span>",
+            "year": 1919,
+            "studio": "Selznick Pictures",
+            "directors": "Charles Giblyn"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1919
+          }
+        },
+        {
+          "work": {
+            "id": 928,
+            "slug": "the-two-benjamins",
+            "title": "The Two Benjamins",
+            "formatted_title": "\"The Two Benjamins\"",
+            "html_title": "<span class=\"work-title short-story\">\"The Two Benjamins\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1918
+          },
+          "author": {
+            "id": 467,
+            "slug": "juliet-wilbor-tompkins",
+            "name": "Juliet Wilbor Tompkins"
+          },
+          "firstAdaptation": {
+            "id": 1035,
+            "slug": "little-comrade-1919",
+            "title": "Little Comrade",
+            "html_title": "<span class=\"film-title\">Little Comrade</span>",
+            "year": 1919,
+            "studio": "Famous Players-Lasky",
+            "directors": "Chester Withey"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1919
+          }
+        },
+        {
+          "work": {
             "id": 810,
             "slug": "too-many-crooks",
             "title": "Too Many Crooks",
@@ -22222,9 +23140,9 @@
             "id": 725,
             "slug": "uncle-sam-of-freedom-ridge",
             "title": "Uncle Sam of Freedom Ridge",
-            "formatted_title": "Uncle Sam of Freedom Ridge",
-            "html_title": "<span class=\"work-title\">Uncle Sam of Freedom Ridge</span>",
-            "work_type": "novel",
+            "formatted_title": "\"Uncle Sam of Freedom Ridge\"",
+            "html_title": "<span class=\"work-title short-story\">\"Uncle Sam of Freedom Ridge\"</span>",
+            "work_type": "short_story",
             "publication_year": 1920
           },
           "author": {
@@ -24089,6 +25007,40 @@
         },
         {
           "work": {
+            "id": 800,
+            "slug": "two-weeks-with-pay",
+            "title": "Two Weeks with Pay",
+            "formatted_title": "\"Two Weeks with Pay\"",
+            "html_title": "<span class=\"work-title short-story\">\"Two Weeks with Pay\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1920
+          },
+          "author": {
+            "id": 405,
+            "slug": "nina-wilcox-putnam",
+            "name": "Nina Wilcox Putnam"
+          },
+          "firstAdaptation": {
+            "id": 892,
+            "slug": "two-weeks-with-pay-1921",
+            "title": "Two Weeks with Pay",
+            "html_title": "<span class=\"film-title\">Two Weeks with Pay</span>",
+            "year": 1921,
+            "studio": "Realart",
+            "directors": "Maurice Campbell"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1921
+          }
+        },
+        {
+          "work": {
             "id": 85,
             "slug": "manslaughter",
             "title": "Manslaughter",
@@ -24939,6 +25891,40 @@
         },
         {
           "work": {
+            "id": 988,
+            "slug": "the-mad-dancer",
+            "title": "The Mad Dancer",
+            "formatted_title": "The Mad Dancer",
+            "html_title": "<span class=\"work-title\">The Mad Dancer</span>",
+            "work_type": "novel",
+            "publication_year": 1924
+          },
+          "author": {
+            "id": 501,
+            "slug": "louise-winter",
+            "name": "Louise Winter"
+          },
+          "firstAdaptation": {
+            "id": 1101,
+            "slug": "the-mad-dancer-1925",
+            "title": "The Mad Dancer",
+            "html_title": "<span class=\"film-title\">The Mad Dancer</span>",
+            "year": 1925,
+            "studio": "Jans Productions",
+            "directors": "Burton King"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1925
+          }
+        },
+        {
+          "work": {
             "id": 859,
             "slug": "the-splendid-road",
             "title": "The Splendid Road",
@@ -25279,6 +26265,40 @@
         },
         {
           "work": {
+            "id": 798,
+            "slug": "the-grandflapper",
+            "title": "The Grandflapper",
+            "formatted_title": "\"The Grandflapper\"",
+            "html_title": "<span class=\"work-title short-story\">\"The Grandflapper\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1926
+          },
+          "author": {
+            "id": 405,
+            "slug": "nina-wilcox-putnam",
+            "name": "Nina Wilcox Putnam"
+          },
+          "firstAdaptation": {
+            "id": 890,
+            "slug": "slaves-of-beauty-1927",
+            "title": "Slaves of Beauty",
+            "html_title": "<span class=\"film-title\">Slaves of Beauty</span>",
+            "year": 1927,
+            "studio": "Fox Film",
+            "directors": "J. G. Blystone"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1927
+          }
+        },
+        {
+          "work": {
             "id": 131,
             "slug": "the-magic-garden",
             "title": "The Magic Garden",
@@ -25402,6 +26422,40 @@
             "year": 1928,
             "studio": "FBO",
             "directors": "Lynn Shores"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1928
+          }
+        },
+        {
+          "work": {
+            "id": 982,
+            "slug": "the-branded-sombrero",
+            "title": "The Branded Sombrero",
+            "formatted_title": "The Branded Sombrero",
+            "html_title": "<span class=\"work-title\">The Branded Sombrero</span>",
+            "work_type": "novella",
+            "publication_year": 1927
+          },
+          "author": {
+            "id": 498,
+            "slug": "cherry-wilson",
+            "name": "Cherry Wilson"
+          },
+          "firstAdaptation": {
+            "id": 1095,
+            "slug": "the-branded-sombrero-1928",
+            "title": "The Branded Sombrero",
+            "html_title": "<span class=\"film-title\">The Branded Sombrero</span>",
+            "year": 1928,
+            "studio": "Fox Film",
+            "directors": "Lambert Hillyer"
           },
           "speed": {
             "delay": 1,
@@ -26267,40 +27321,6 @@
         },
         {
           "work": {
-            "id": 403,
-            "slug": "she-was-a-lady",
-            "title": "She Was a Lady",
-            "formatted_title": "She Was a Lady",
-            "html_title": "<span class=\"work-title\">She Was a Lady</span>",
-            "work_type": "novel",
-            "publication_year": 1934
-          },
-          "author": {
-            "id": 170,
-            "slug": "elisabeth-cobb",
-            "name": "Elisabeth Cobb"
-          },
-          "firstAdaptation": {
-            "id": 471,
-            "slug": "she-was-a-lady-1934",
-            "title": "She Was a Lady",
-            "html_title": "<span class=\"film-title\">She Was a Lady</span>",
-            "year": 1934,
-            "studio": "Fox Film",
-            "directors": "Hamilton MacFadden"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1934
-          }
-        },
-        {
-          "work": {
             "id": 197,
             "slug": "wife-vs-secretary",
             "title": "Wife vs. Secretary",
@@ -26900,6 +27920,40 @@
             "year": 1931,
             "studio": "Warner Bros",
             "directors": "Roy Del Ruth"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1931
+          }
+        },
+        {
+          "work": {
+            "id": 921,
+            "slug": "fanny-foley-herself",
+            "title": "Fanny Foley Herself",
+            "formatted_title": "\"Fanny Foley Herself\"",
+            "html_title": "<span class=\"work-title short-story\">\"Fanny Foley Herself\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1930
+          },
+          "author": {
+            "id": 467,
+            "slug": "juliet-wilbor-tompkins",
+            "name": "Juliet Wilbor Tompkins"
+          },
+          "firstAdaptation": {
+            "id": 1027,
+            "slug": "fanny-foley-herself-1931",
+            "title": "Fanny Foley Herself",
+            "html_title": "<span class=\"film-title\">Fanny Foley Herself</span>",
+            "year": 1931,
+            "studio": "RKO",
+            "directors": "Melville Brown"
           },
           "speed": {
             "delay": 1,
@@ -27763,6 +28817,40 @@
         },
         {
           "work": {
+            "id": 403,
+            "slug": "she-was-a-lady",
+            "title": "She Was a Lady",
+            "formatted_title": "She Was a Lady",
+            "html_title": "<span class=\"work-title\">She Was a Lady</span>",
+            "work_type": "novel",
+            "publication_year": 1933
+          },
+          "author": {
+            "id": 170,
+            "slug": "elisabeth-cobb",
+            "name": "Elisabeth Cobb"
+          },
+          "firstAdaptation": {
+            "id": 471,
+            "slug": "she-was-a-lady-1934",
+            "title": "She Was a Lady",
+            "html_title": "<span class=\"film-title\">She Was a Lady</span>",
+            "year": 1934,
+            "studio": "Fox Film",
+            "directors": "Hamilton MacFadden"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1934
+          }
+        },
+        {
+          "work": {
             "id": 190,
             "slug": "the-murder-of-steven-kester",
             "title": "The Murder of Steven Kester",
@@ -28205,6 +29293,74 @@
         },
         {
           "work": {
+            "id": 459,
+            "slug": "dead-yesterday",
+            "title": "Dead Yesterday",
+            "formatted_title": "\"Dead Yesterday\"",
+            "html_title": "<span class=\"work-title short-story\">\"Dead Yesterday\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1936
+          },
+          "author": {
+            "id": 205,
+            "slug": "mignon-g-eberhart",
+            "name": "Mignon G. Eberhart"
+          },
+          "firstAdaptation": {
+            "id": 528,
+            "slug": "the-great-hospital-mystery-1937",
+            "title": "The Great Hospital Mystery",
+            "html_title": "<span class=\"film-title\">The Great Hospital Mystery</span>",
+            "year": 1937,
+            "studio": "20th Century Fox",
+            "directors": "James Tinling"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1937
+          }
+        },
+        {
+          "work": {
+            "id": 984,
+            "slug": "starr-of-the-southwest",
+            "title": "Starr of the Southwest",
+            "formatted_title": "Starr of the Southwest",
+            "html_title": "<span class=\"work-title\">Starr of the Southwest</span>",
+            "work_type": "novel",
+            "publication_year": 1936
+          },
+          "author": {
+            "id": 498,
+            "slug": "cherry-wilson",
+            "name": "Cherry Wilson"
+          },
+          "firstAdaptation": {
+            "id": 1097,
+            "slug": "sandflow-1937",
+            "title": "Sandflow",
+            "html_title": "<span class=\"film-title\">Sandflow</span>",
+            "year": 1937,
+            "studio": "Universal",
+            "directors": "Lesley Selander"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1937
+          }
+        },
+        {
+          "work": {
             "id": 327,
             "slug": "wake-up-and-live",
             "title": "Wake Up and Live",
@@ -28547,40 +29703,6 @@
         },
         {
           "work": {
-            "id": 353,
-            "slug": "china-sky",
-            "title": "China Sky",
-            "formatted_title": "China Sky",
-            "html_title": "<span class=\"work-title\">China Sky</span>",
-            "work_type": "novel",
-            "publication_year": 1945
-          },
-          "author": {
-            "id": 146,
-            "slug": "pearl-s-buck",
-            "name": "Pearl S. Buck"
-          },
-          "firstAdaptation": {
-            "id": 417,
-            "slug": "china-sky-1945",
-            "title": "China Sky",
-            "html_title": "<span class=\"film-title\">China Sky</span>",
-            "year": 1945,
-            "studio": "RKO",
-            "directors": "Ray Enright"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1945
-          }
-        },
-        {
-          "work": {
             "id": 285,
             "slug": "thanks-god-ill-take-it-from-here",
             "title": "Thanks God! I'll Take It From Here",
@@ -28756,7 +29878,7 @@
             "title": "Penny Serenade",
             "formatted_title": "Penny Serenade",
             "html_title": "<span class=\"work-title\">Penny Serenade</span>",
-            "work_type": "novel",
+            "work_type": "novella",
             "publication_year": 1940
           },
           "author": {
@@ -30392,19 +31514,19 @@
       },
       {
         "studio": "Fox Film",
-        "count": 22
+        "count": 24
       },
       {
         "studio": "Famous Players-Lasky",
-        "count": 21
+        "count": 22
+      },
+      {
+        "studio": "Universal",
+        "count": 20
       },
       {
         "studio": "Paramount",
         "count": 20
-      },
-      {
-        "studio": "Universal",
-        "count": 19
       },
       {
         "studio": "First National",
@@ -30412,7 +31534,7 @@
       },
       {
         "studio": "20th Century Fox",
-        "count": 16
+        "count": 17
       },
       {
         "studio": "RKO",
@@ -30425,13 +31547,13 @@
     ]
   },
   "stats": {
-    "total": 297,
-    "sameYearCount": 94,
-    "oneYearCount": 203,
+    "total": 308,
+    "sameYearCount": 95,
+    "oneYearCount": 213,
     "peakDecade": "1920"
   },
   "metadata": {
-    "generated": "2025-08-28T00:53:54.108Z",
+    "generated": "2026-06-11T19:21:52.607Z",
     "version": "2.0"
   }
 }

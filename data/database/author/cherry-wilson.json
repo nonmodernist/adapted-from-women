@@ -5,17 +5,17 @@
   "birth_year": 1893,
   "death_year": 1976,
   "nationality": "American",
-  "literary_movement": null,
-  "biographical_notes": "American novelist (1893-1976). Born in Pennsylvania. Occupations: writer",
-  "biographical_notes_html": "<p>American novelist (1893-1976). Born in Pennsylvania. Occupations: writer</p>",
-  "author_notes": "aka Rosemary Jeanne Burdick",
+  "literary_movement": "Popular fiction",
+  "biographical_notes": "Cherry Wilson (1893–1976) was an American writer of Western fiction. Born Rosemary Jeanne Burdick in Pennsylvania, she moved west at sixteen and lived a frontier life — homesteading, mining, and taming wild mustangs with her husband, Robert Lee Wilson. In Republic, Washington she wrote a newspaper column, \"Cherry's Corner,\" for The Journal Miner, running to more than 200 editions.\n\nShe turned to fiction in the 1920s, publishing more than a hundred short stories, chiefly in the pulp Western Story Magazine, alongside a run of novels including The Branded Sombrero (1927), Empty Saddles (1929), Stormy (1929), Black Wing's Rider (1934), Stirrup Brother (1935), Thunder Breaks (1936), and Sandflow (1937).\n\nSeveral of her stories were adapted for the screen, including entries in the Buck Jones Western series, though Wilson said she had no part in their production. Interviewed by the Arizona Daily Star in 1935, she was notably generous about Hollywood's liberties: \"I don't want to take credit for someone else's work. Hollywood knows its requirements, and as far as my own experience goes, I must admit that the changes in my stories have usually been for the best from a movie standpoint.\" She died in Spokane, Washington, in 1976.",
+  "biographical_notes_html": "<p>Cherry Wilson (1893–1976) was an American writer of Western fiction. Born Rosemary Jeanne Burdick in Pennsylvania, she moved west at sixteen and lived a frontier life — homesteading, mining, and taming wild mustangs with her husband, Robert Lee Wilson. In Republic, Washington she wrote a newspaper column, \"Cherry's Corner,\" for The Journal Miner, running to more than 200 editions.</p><p>She turned to fiction in the 1920s, publishing more than a hundred short stories, chiefly in the pulp Western Story Magazine, alongside a run of novels including The Branded Sombrero (1927), Empty Saddles (1929), Stormy (1929), Black Wing's Rider (1934), Stirrup Brother (1935), Thunder Breaks (1936), and Sandflow (1937).</p><p>Several of her stories were adapted for the screen, including entries in the Buck Jones Western series, though Wilson said she had no part in their production. Interviewed by the Arizona Daily Star in 1935, she was notably generous about Hollywood's liberties: \"I don't want to take credit for someone else's work. Hollywood knows its requirements, and as far as my own experience goes, I must admit that the changes in my stories have usually been for the best from a movie standpoint.\" She died in Spokane, Washington, in 1976.</p>",
+  "author_notes": null,
   "wikidata_id": "Q62070979",
-  "alternative_names": null,
-  "occupations": null,
-  "key_themes": null,
+  "alternative_names": "['Rosemary Jeanne Burdick']",
+  "occupations": "['novelist', 'short story writer', 'journalist', 'columnist']",
+  "key_themes": "['western']",
   "education": null,
-  "maiden_name": null,
-  "key_associations": null,
+  "maiden_name": "Rosemary Jeanne Burdick",
+  "key_associations": "['Western Story Magazine', 'The Journal Miner', 'Robert Lee Wilson (husband)']",
   "major_awards": null,
   "archives_locations": null,
   "modern_availability": null,
@@ -73,8 +73,8 @@
         "Western"
       ],
       "has_media": true,
-      "work_title": "Stormy",
-      "work_html_title": "<span class=\"work-title\">Stormy</span>",
+      "work_title": "Stormy Dorn",
+      "work_html_title": "<span class=\"work-title\">Stormy Dorn</span>",
       "work_id": 985
     },
     {
@@ -112,13 +112,35 @@
   ],
   "adapted_works": [
     {
+      "id": 982,
+      "slug": "the-branded-sombrero",
+      "title": "The Branded Sombrero",
+      "formatted_title": "The Branded Sombrero",
+      "html_title": "<span class=\"work-title\">The Branded Sombrero</span>",
+      "work_type": "novella",
+      "publication_year": 1927,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 983,
       "slug": "empty-saddles",
       "title": "Empty Saddles",
       "formatted_title": "Empty Saddles",
       "html_title": "<span class=\"work-title\">Empty Saddles</span>",
       "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1928,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 985,
+      "slug": "stormy-dorn",
+      "title": "Stormy Dorn",
+      "formatted_title": "Stormy Dorn",
+      "html_title": "<span class=\"work-title\">Stormy Dorn</span>",
+      "work_type": "novel",
+      "publication_year": 1929,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -129,43 +151,21 @@
       "formatted_title": "Starr of the Southwest",
       "html_title": "<span class=\"work-title\">Starr of the Southwest</span>",
       "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 985,
-      "slug": "stormy",
-      "title": "Stormy",
-      "formatted_title": "Stormy",
-      "html_title": "<span class=\"work-title\">Stormy</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 982,
-      "slug": "the-branded-sombrero",
-      "title": "The Branded Sombrero",
-      "formatted_title": "The Branded Sombrero",
-      "html_title": "<span class=\"work-title\">The Branded Sombrero</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1936,
       "adaptation_count": 1,
       "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 983,
-    "slug": "empty-saddles",
-    "title": "Empty Saddles",
-    "formatted_title": "Empty Saddles",
-    "html_title": "<span class=\"work-title\">Empty Saddles</span>",
-    "work_type": "novel",
-    "publication_year": null,
+    "id": 982,
+    "slug": "the-branded-sombrero",
+    "title": "The Branded Sombrero",
+    "formatted_title": "The Branded Sombrero",
+    "html_title": "<span class=\"work-title\">The Branded Sombrero</span>",
+    "work_type": "novella",
+    "publication_year": 1927,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2026-06-11 10:56:39.194222"
 }

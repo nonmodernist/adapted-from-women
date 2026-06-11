@@ -29,14 +29,14 @@
     "formatted_title": "To Have and to Hold",
     "html_title": "<span class=\"work-title\">To Have and to Hold</span>",
     "work_type": "novel",
-    "publication_year": 1900,
+    "publication_year": 1899,
     "plot_summary": null,
     "plot_summary_html": "",
     "literary_significance": null,
     "literary_significance_html": "",
     "adaptation_count": 2,
     "photoplay_edition_count": 0,
-    "year_to_adaptation": 22
+    "year_to_adaptation": 23
   },
   "author": {
     "id": 285,
@@ -225,5 +225,5 @@
   ],
   "has_media": true,
   "media_count": 12,
-  "last_updated": "2025-08-27T22:57:11.708135"
+  "last_updated": "2025-08-27 22:57:11.708135"
 }

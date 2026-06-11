@@ -82,7 +82,7 @@
       ],
       "has_media": false,
       "work_title": "The Two Benjamins",
-      "work_html_title": "<span class=\"work-title\">The Two Benjamins</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Two Benjamins\"</span>",
       "work_id": 928
     },
     {
@@ -98,7 +98,7 @@
       ],
       "has_media": true,
       "work_title": "Fanny Foley Herself",
-      "work_html_title": "<span class=\"work-title\">Fanny Foley Herself</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Fanny Foley Herself\"</span>",
       "work_id": 921
     },
     {
@@ -120,13 +120,24 @@
   ],
   "adapted_works": [
     {
-      "id": 921,
-      "slug": "fanny-foley-herself",
-      "title": "Fanny Foley Herself",
-      "formatted_title": "Fanny Foley Herself",
-      "html_title": "<span class=\"work-title\">Fanny Foley Herself</span>",
+      "id": 926,
+      "slug": "a-girl-named-mary",
+      "title": "A Girl Named Mary",
+      "formatted_title": "A Girl Named Mary",
+      "html_title": "<span class=\"work-title\">A Girl Named Mary</span>",
       "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1918,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 928,
+      "slug": "the-two-benjamins",
+      "title": "The Two Benjamins",
+      "formatted_title": "\"The Two Benjamins\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Two Benjamins\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1918,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -137,43 +148,32 @@
       "formatted_title": "Once There Was a Princess",
       "html_title": "<span class=\"work-title\">Once There Was a Princess</span>",
       "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1926,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
     {
-      "id": 928,
-      "slug": "the-two-benjamins",
-      "title": "The Two Benjamins",
-      "formatted_title": "The Two Benjamins",
-      "html_title": "<span class=\"work-title\">The Two Benjamins</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 926,
-      "slug": "a-girl-named-mary",
-      "title": "A Girl Named Mary",
-      "formatted_title": "A Girl Named Mary",
-      "html_title": "<span class=\"work-title\">A Girl Named Mary</span>",
-      "work_type": "novel",
-      "publication_year": 1918,
+      "id": 921,
+      "slug": "fanny-foley-herself",
+      "title": "Fanny Foley Herself",
+      "formatted_title": "\"Fanny Foley Herself\"",
+      "html_title": "<span class=\"work-title short-story\">\"Fanny Foley Herself\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1930,
       "adaptation_count": 1,
       "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 921,
-    "slug": "fanny-foley-herself",
-    "title": "Fanny Foley Herself",
-    "formatted_title": "Fanny Foley Herself",
-    "html_title": "<span class=\"work-title\">Fanny Foley Herself</span>",
+    "id": 926,
+    "slug": "a-girl-named-mary",
+    "title": "A Girl Named Mary",
+    "formatted_title": "A Girl Named Mary",
+    "html_title": "<span class=\"work-title\">A Girl Named Mary</span>",
     "work_type": "novel",
-    "publication_year": null,
+    "publication_year": 1918,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-04 17:06:35.659603"
 }

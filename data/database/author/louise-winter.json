@@ -65,8 +65,8 @@
         "Drama"
       ],
       "has_media": true,
-      "work_title": "Princess Virtue",
-      "work_html_title": "<span class=\"work-title\">Princess Virtue</span>",
+      "work_title": "The Princess Virtue",
+      "work_html_title": "<span class=\"work-title\">The Princess Virtue</span>",
       "work_id": 990
     },
     {
@@ -121,23 +121,12 @@
   "adapted_works": [
     {
       "id": 990,
-      "slug": "princess-virtue",
-      "title": "Princess Virtue",
-      "formatted_title": "Princess Virtue",
-      "html_title": "<span class=\"work-title\">Princess Virtue</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 988,
-      "slug": "the-mad-dancer",
-      "title": "The Mad Dancer",
-      "formatted_title": "The Mad Dancer",
-      "html_title": "<span class=\"work-title\">The Mad Dancer</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "slug": "the-princess-virtue",
+      "title": "The Princess Virtue",
+      "formatted_title": "The Princess Virtue",
+      "html_title": "<span class=\"work-title\">The Princess Virtue</span>",
+      "work_type": "novella",
+      "publication_year": 1917,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -148,7 +137,7 @@
       "formatted_title": "The Magnificent Jacala",
       "html_title": "<span class=\"work-title\">The Magnificent Jacala</span>",
       "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1918,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -159,21 +148,32 @@
       "formatted_title": "The Spite Bride",
       "html_title": "<span class=\"work-title\">The Spite Bride</span>",
       "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1918,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 988,
+      "slug": "the-mad-dancer",
+      "title": "The Mad Dancer",
+      "formatted_title": "The Mad Dancer",
+      "html_title": "<span class=\"work-title\">The Mad Dancer</span>",
+      "work_type": "novel",
+      "publication_year": 1924,
       "adaptation_count": 1,
       "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
     "id": 990,
-    "slug": "princess-virtue",
-    "title": "Princess Virtue",
-    "formatted_title": "Princess Virtue",
-    "html_title": "<span class=\"work-title\">Princess Virtue</span>",
-    "work_type": "novel",
-    "publication_year": null,
+    "slug": "the-princess-virtue",
+    "title": "The Princess Virtue",
+    "formatted_title": "The Princess Virtue",
+    "html_title": "<span class=\"work-title\">The Princess Virtue</span>",
+    "work_type": "novella",
+    "publication_year": 1917,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-04 17:06:35.659603"
 }

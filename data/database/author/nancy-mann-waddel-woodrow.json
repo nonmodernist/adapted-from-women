@@ -24,19 +24,19 @@
   "has_pseudonym": "False",
   "is_pseudonym": "False",
   "stats": {
-    "total_films": 4,
-    "works_adapted": 4,
-    "first_adaptation": 1919,
-    "last_adaptation": 1929,
-    "year_span": 10,
+    "total_films": 6,
+    "works_adapted": 6,
+    "first_adaptation": 1917,
+    "last_adaptation": 1935,
+    "year_span": 18,
     "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 3
+      },
       {
         "genre": "Melodrama",
         "count": 2
-      },
-      {
-        "genre": "Drama",
-        "count": 1
       },
       {
         "genre": "Mystery",
@@ -44,8 +44,9 @@
       }
     ],
     "films_by_decade": {
-      "1910": 1,
-      "1920": 3
+      "1910": 2,
+      "1920": 3,
+      "1930": 1
     }
   },
   "patterns": {
@@ -53,6 +54,22 @@
     "twenty_timer_rank": null
   },
   "films": [
+    {
+      "id": 1158,
+      "slug": "the-pipers-price-1917",
+      "title": "The Piper's Price",
+      "html_title": "<span class=\"film-title\">The Piper's Price</span>",
+      "year": 1917,
+      "studio": "Bluebird Photoplays",
+      "directors": "Joseph De Grasse",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Piper's Price",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Piper's Price\"</span>",
+      "work_id": 1036
+    },
     {
       "id": 1111,
       "slug": "the-hornets-nest-1919",
@@ -65,8 +82,8 @@
         "Drama"
       ],
       "has_media": true,
-      "work_title": "The Hornet's Nest",
-      "work_html_title": "<span class=\"work-title\">The Hornet's Nest</span>",
+      "work_title": "The Hornet",
+      "work_html_title": "<span class=\"work-title\">The Hornet</span>",
       "work_id": 998
     },
     {
@@ -115,9 +132,36 @@
       "work_title": "Burned Evidence",
       "work_html_title": "<span class=\"work-title\">Burned Evidence</span>",
       "work_id": 997
+    },
+    {
+      "id": 1157,
+      "slug": "without-children-1935",
+      "title": "Without Children",
+      "html_title": "<span class=\"film-title\">Without Children</span>",
+      "year": 1935,
+      "studio": "Liberty Pictures",
+      "directors": "William Nigh",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Eyes of Youth",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Eyes of Youth\"</span>",
+      "work_id": 1037
     }
   ],
   "adapted_works": [
+    {
+      "id": 1037,
+      "slug": "the-eyes-of-youth",
+      "title": "The Eyes of Youth",
+      "formatted_title": "\"The Eyes of Youth\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Eyes of Youth\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1908,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
     {
       "id": 996,
       "slug": "the-black-pearl",
@@ -125,18 +169,29 @@
       "formatted_title": "The Black Pearl",
       "html_title": "<span class=\"work-title\">The Black Pearl</span>",
       "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1912,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 1036,
+      "slug": "the-pipers-price",
+      "title": "The Piper's Price",
+      "formatted_title": "\"The Piper's Price\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Piper's Price\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1915,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
     {
       "id": 998,
-      "slug": "the-hornets-nest",
-      "title": "The Hornet's Nest",
-      "formatted_title": "The Hornet's Nest",
-      "html_title": "<span class=\"work-title\">The Hornet's Nest</span>",
+      "slug": "the-hornet",
+      "title": "The Hornet",
+      "formatted_title": "The Hornet",
+      "html_title": "<span class=\"work-title\">The Hornet</span>",
       "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1916,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -147,7 +202,7 @@
       "formatted_title": "The Second Chance",
       "html_title": "<span class=\"work-title\">The Second Chance</span>",
       "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1924,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -164,15 +219,15 @@
     }
   ],
   "most_adapted_work": {
-    "id": 996,
-    "slug": "the-black-pearl",
-    "title": "The Black Pearl",
-    "formatted_title": "The Black Pearl",
-    "html_title": "<span class=\"work-title\">The Black Pearl</span>",
-    "work_type": "novel",
-    "publication_year": null,
+    "id": 1037,
+    "slug": "the-eyes-of-youth",
+    "title": "The Eyes of Youth",
+    "formatted_title": "\"The Eyes of Youth\"",
+    "html_title": "<span class=\"work-title short-story\">\"The Eyes of Youth\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1908,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-04 17:06:35.659603"
 }

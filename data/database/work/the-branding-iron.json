@@ -64,8 +64,8 @@
       "source_url": null,
       "source_notes": "Davis 2002",
       "verified": "False",
-      "created_at": "2025-08-18T00:14:31.565246",
-      "updated_at": "2025-08-18T00:14:31.565246",
+      "created_at": "2025-08-18 00:14:31.565246",
+      "updated_at": "2025-08-18 00:14:31.565246",
       "ia_url": null,
       "has_visual_content": "True",
       "country": "UK",
@@ -90,8 +90,8 @@
       "source_url": null,
       "source_notes": "Davis 2002",
       "verified": "False",
-      "created_at": "2025-08-18T00:14:31.565246",
-      "updated_at": "2025-08-18T00:14:31.565246",
+      "created_at": "2025-08-18 00:14:31.565246",
+      "updated_at": "2025-08-18 00:14:31.565246",
       "ia_url": null,
       "has_visual_content": "True",
       "country": "US",
@@ -119,5 +119,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-09T16:40:53.679253"
+  "last_updated": "2025-08-09 16:40:53.679253"
 }

@@ -5,7 +5,7 @@
   "formatted_title": "The Mystery of Hunting's End",
   "html_title": "<span class=\"work-title\">The Mystery of Hunting's End</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1930,
   "plot_summary": null,
   "plot_summary_html": "",
   "literary_significance": null,
@@ -43,7 +43,7 @@
         "Mystery"
       ],
       "has_media": true,
-      "years_after_publication": null
+      "years_after_publication": 8
     }
   ],
   "adaptation_gaps": [],
@@ -58,5 +58,5 @@
     "wikidata_id": "Q117464082",
     "viaf_id": null
   },
-  "last_updated": "2025-08-16T17:40:49.01492"
+  "last_updated": "2026-06-10 22:31:39.364893"
 }

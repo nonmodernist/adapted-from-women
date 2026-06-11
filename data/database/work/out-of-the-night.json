@@ -5,7 +5,7 @@
   "formatted_title": "Out of the Night",
   "html_title": "<span class=\"work-title\">Out of the Night</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1925,
   "plot_summary": null,
   "plot_summary_html": "",
   "literary_significance": null,
@@ -43,7 +43,7 @@
         "Romance"
       ],
       "has_media": true,
-      "years_after_publication": null
+      "years_after_publication": 5
     }
   ],
   "adaptation_gaps": [],
@@ -64,8 +64,8 @@
       "source_url": null,
       "source_notes": "Davis 2002",
       "verified": "False",
-      "created_at": "2025-08-14T01:56:07.232675",
-      "updated_at": "2025-08-17T03:50:23.707607",
+      "created_at": "2025-08-14 01:56:07.232675",
+      "updated_at": "2025-08-17 03:50:23.707607",
       "ia_url": null,
       "has_visual_content": "True",
       "country": "US",
@@ -85,5 +85,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2026-06-11 14:08:58.391746"
 }

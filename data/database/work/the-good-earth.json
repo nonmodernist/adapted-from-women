@@ -64,8 +64,8 @@
       "source_url": "https://www.abaa.org/book/1571274519$0",
       "source_notes": null,
       "verified": "False",
-      "created_at": "2025-07-06T02:12:32.146417",
-      "updated_at": "2025-08-17T03:50:23.707607",
+      "created_at": "2025-07-06 02:12:32.146417",
+      "updated_at": "2025-08-17 03:50:23.707607",
       "ia_url": null,
       "has_visual_content": "True",
       "country": "US",
@@ -96,5 +96,5 @@
     "wikidata_id": "Q1218608",
     "viaf_id": 180596409
   },
-  "last_updated": "2025-08-16T17:39:39.07464"
+  "last_updated": "2025-08-16 17:39:39.074640"
 }

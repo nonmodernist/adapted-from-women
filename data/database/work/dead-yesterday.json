@@ -2,10 +2,10 @@
   "id": 459,
   "slug": "dead-yesterday",
   "title": "Dead Yesterday",
-  "formatted_title": "Dead Yesterday",
-  "html_title": "<span class=\"work-title\">Dead Yesterday</span>",
-  "work_type": "novel",
-  "publication_year": null,
+  "formatted_title": "\"Dead Yesterday\"",
+  "html_title": "<span class=\"work-title short-story\">\"Dead Yesterday\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1936,
   "plot_summary": null,
   "plot_summary_html": "",
   "literary_significance": null,
@@ -43,12 +43,20 @@
         "Mystery"
       ],
       "has_media": true,
-      "years_after_publication": null
+      "years_after_publication": 1
     }
   ],
   "adaptation_gaps": [],
   "photoplay_editions": [],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Pictorial Review",
+    "magazine_pub_date": "1936-09-01",
+    "magazine_issue_info": "Volume 37 Number 12",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/FMI/ZZPERMLINK.ASP?NAME=%27P_1936PIRSEP%27",
+    "serialized": false,
+    "serial_parts": null
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -58,5 +66,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2026-06-10 22:20:00.838678"
 }

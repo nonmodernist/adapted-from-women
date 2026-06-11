@@ -64,8 +64,8 @@
       "source_url": null,
       "source_notes": "Davis 2002",
       "verified": "False",
-      "created_at": "2025-08-07T15:30:12.577523",
-      "updated_at": "2025-08-17T03:49:48.63549",
+      "created_at": "2025-08-07 15:30:12.577523",
+      "updated_at": "2025-08-17 03:49:48.635490",
       "ia_url": null,
       "has_visual_content": "True",
       "country": "US",
@@ -90,8 +90,8 @@
       "source_url": null,
       "source_notes": "Davis 2002",
       "verified": "False",
-      "created_at": "2025-08-07T15:30:12.577523",
-      "updated_at": "2025-08-17T03:50:23.707607",
+      "created_at": "2025-08-07 15:30:12.577523",
+      "updated_at": "2025-08-17 03:50:23.707607",
       "ia_url": null,
       "has_visual_content": "True",
       "country": "UK",
@@ -116,8 +116,8 @@
       "source_url": null,
       "source_notes": "Davis 2002",
       "verified": "False",
-      "created_at": "2025-08-07T15:30:12.577523",
-      "updated_at": "2025-08-17T03:49:48.63549",
+      "created_at": "2025-08-07 15:30:12.577523",
+      "updated_at": "2025-08-17 03:49:48.635490",
       "ia_url": null,
       "has_visual_content": "True",
       "country": "UK",
@@ -137,5 +137,5 @@
     "wikidata_id": "Q589841",
     "viaf_id": null
   },
-  "last_updated": "2025-08-16T17:35:21.505745"
+  "last_updated": "2025-08-16 17:35:21.505745"
 }

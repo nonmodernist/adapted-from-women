@@ -1,0 +1,89 @@
+{
+  "id": 708,
+  "slug": "the-breath-of-the-gods",
+  "title": "The Breath of the Gods",
+  "formatted_title": "The Breath of the Gods",
+  "html_title": "<span class=\"work-title\">The Breath of the Gods</span>",
+  "work_type": "novel",
+  "publication_year": 1905,
+  "plot_summary": null,
+  "plot_summary_html": "",
+  "literary_significance": null,
+  "literary_significance_html": "",
+  "attribution_notes": null,
+  "author": {
+    "id": 218,
+    "slug": "sidney-mccall",
+    "name": "Sidney McCall",
+    "birth_year": 1865,
+    "death_year": 1954,
+    "film_count": 4
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "photoplay_edition_count": 1,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 797,
+      "slug": "the-breath-of-the-gods-1920",
+      "title": "The Breath of the Gods",
+      "html_title": "<span class=\"film-title\">The Breath of the Gods</span>",
+      "year": 1920,
+      "studio": "Universal",
+      "directors": "Rollin Sturgeon",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "years_after_publication": 15
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_editions": [
+    {
+      "id": 165,
+      "source_work_id": 708,
+      "film_id": 797,
+      "publisher": "Grosset & Dunlap",
+      "edition_year": 1920,
+      "edition_description": null,
+      "binding_type": "hardback",
+      "dust_jacket": "True",
+      "cover_type": "photo front DJ",
+      "photo_content": "4 stills",
+      "price_low_cents": 1000,
+      "price_high_cents": 4000,
+      "source_url": null,
+      "source_notes": "Davis 2002",
+      "verified": "False",
+      "created_at": "2025-08-07 15:45:56.353588",
+      "updated_at": "2025-08-17 03:50:23.707607",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "film_title": "The Breath of the Gods",
+      "film_year": 1920,
+      "film_slug": "the-breath-of-the-gods-1920",
+      "media": []
+    }
+  ],
+  "magazine_publication": null,
+  "external_urls": [],
+  "external_ids": {
+    "gutenberg_id": null,
+    "internet_archive_id": null,
+    "openlibrary_id": null,
+    "oclc_number": null,
+    "wikidata_id": null,
+    "viaf_id": null
+  },
+  "last_updated": "2026-06-11 09:18:46.977618"
+}

@@ -81,7 +81,7 @@
       ],
       "has_media": true,
       "work_title": "Uncle Sam of Freedom Ridge",
-      "work_html_title": "<span class=\"work-title\">Uncle Sam of Freedom Ridge</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Uncle Sam of Freedom Ridge\"</span>",
       "work_id": 725
     },
     {
@@ -156,9 +156,9 @@
       "id": 725,
       "slug": "uncle-sam-of-freedom-ridge",
       "title": "Uncle Sam of Freedom Ridge",
-      "formatted_title": "Uncle Sam of Freedom Ridge",
-      "html_title": "<span class=\"work-title\">Uncle Sam of Freedom Ridge</span>",
-      "work_type": "novel",
+      "formatted_title": "\"Uncle Sam of Freedom Ridge\"",
+      "html_title": "<span class=\"work-title short-story\">\"Uncle Sam of Freedom Ridge\"</span>",
+      "work_type": "short_story",
       "publication_year": 1920,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -175,5 +175,5 @@
     "adaptation_count": 1,
     "is_remake_champion": false
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-04 17:06:35.659603"
 }

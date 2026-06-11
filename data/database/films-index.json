@@ -924,8 +924,8 @@
       },
       "workId": 26,
       "workTitle": "Mr. Opp",
-      "workFormattedTitle": "Mr. Opp",
-      "workHtmlTitle": "<span class=\"work-title\">Mr. Opp</span>",
+      "workFormattedTitle": "\"Mr. Opp\"",
+      "workHtmlTitle": "<span class=\"work-title short-story\">\"Mr. Opp\"</span>",
       "workSlug": "mr-opp",
       "authorId": 5,
       "authorName": "Alice Hegan Rice",
@@ -15120,8 +15120,8 @@
       },
       "workId": 377,
       "workTitle": "The Eternal Masculine",
-      "workFormattedTitle": "The Eternal Masculine",
-      "workHtmlTitle": "<span class=\"work-title\">The Eternal Masculine</span>",
+      "workFormattedTitle": "\"The Eternal Masculine\"",
+      "workHtmlTitle": "<span class=\"work-title short-story\">\"The Eternal Masculine\"</span>",
       "workSlug": "the-eternal-masculine",
       "authorId": 154,
       "authorName": "Dorothy Canfield",
@@ -15815,8 +15815,8 @@
       },
       "workId": 398,
       "workTitle": "The Girl of Gold",
-      "workFormattedTitle": "\"The Girl of Gold\"",
-      "workHtmlTitle": "<span class=\"work-title short-story\">\"The Girl of Gold\"</span>",
+      "workFormattedTitle": "The Girl of Gold",
+      "workHtmlTitle": "<span class=\"work-title\">The Girl of Gold</span>",
       "workSlug": "the-girl-of-gold",
       "authorId": 166,
       "authorName": "Anna Alice Chapin",
@@ -15887,76 +15887,6 @@
       "isRemake": false,
       "adaptationNumber": 1,
       "searchText": "the enemy paul scardon garfield thompson|george randolph chester|lillian chester charles kent|julia swayne gordon|peggy hyland|evart overton|billie billings|james morrison|edward elkas|charles wellesley vitagraph the enemy (ii) lillian chester melodrama"
-    },
-    {
-      "id": 469,
-      "slug": "the-last-gentleman-1934",
-      "title": "The Last Gentleman",
-      "formatted_title": "The Last Gentleman",
-      "html_title": "<span class=\"film-title\">The Last Gentleman</span>",
-      "year": 1934,
-      "decade": 1930,
-      "genres": [
-        "Comedy-drama"
-      ],
-      "studio": "20th Century Pictures",
-      "directors": "Sidney Lanfield",
-      "hasMedia": true,
-      "mediaCount": 1,
-      "featuredMedia": {
-        "type": "poster",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/qfXk9w3aUsCySbmosKhIzagiVla.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/qfXk9w3aUsCySbmosKhIzagiVla.jpg",
-        "caption": "Poster for The Last Gentleman (1934)",
-        "source": "TMDb",
-        "attribution": "20th Century Pictures"
-      },
-      "workId": 401,
-      "workTitle": "The Last Gentleman",
-      "workFormattedTitle": "The Last Gentleman",
-      "workHtmlTitle": "<span class=\"work-title\">The Last Gentleman</span>",
-      "workSlug": "the-last-gentleman",
-      "authorId": 169,
-      "authorName": "Katherine Thatcher Clugston",
-      "authorSlug": "katherine-thatcher-clugston",
-      "isRemake": false,
-      "adaptationNumber": 1,
-      "searchText": "the last gentleman sidney lanfield leonard praskins george arliss|edna may oliver|janet beecher|charlotte henry|ralph morgan|edward ellis|frank albertson|rafaela ottiano|donald meek|joseph cawthorn 20th century pictures the last gentleman katherine thatcher clugston comedy-drama"
-    },
-    {
-      "id": 470,
-      "slug": "finishing-school-1934",
-      "title": "Finishing School",
-      "formatted_title": "Finishing School",
-      "html_title": "<span class=\"film-title\">Finishing School</span>",
-      "year": 1934,
-      "decade": 1930,
-      "genres": [
-        "Drama"
-      ],
-      "studio": "RKO",
-      "directors": "Wanda Tuchock|George Nicholls Jr.",
-      "hasMedia": true,
-      "mediaCount": 7,
-      "featuredMedia": {
-        "type": "poster",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/8oEq0hoYmOgN0ZVWAZj5itlLu07.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/8oEq0hoYmOgN0ZVWAZj5itlLu07.jpg",
-        "caption": "Poster for Finishing School (1934)",
-        "source": "TMDb",
-        "attribution": "RKO"
-      },
-      "workId": 402,
-      "workTitle": "These Days",
-      "workFormattedTitle": "These Days",
-      "workHtmlTitle": "<span class=\"work-title\">These Days</span>",
-      "workSlug": "these-days",
-      "authorId": 169,
-      "authorName": "Katherine Thatcher Clugston",
-      "authorSlug": "katherine-thatcher-clugston",
-      "isRemake": false,
-      "adaptationNumber": 1,
-      "searchText": "finishing school wanda tuchock|george nicholls jr. wanda tuchock|laird doyle|david hempstead frances dee|billie burke|ginger rogers|bruce cabot|john halliday|beulah bondi|sara haden|helen freeman|marjorie lytell|adelyne doyle rko these days katherine thatcher clugston drama"
     },
     {
       "id": 471,
@@ -16053,8 +15983,8 @@
       },
       "workId": 405,
       "workTitle": "The Forbidden Woman",
-      "workFormattedTitle": "\"The Forbidden Woman\"",
-      "workHtmlTitle": "<span class=\"work-title short-story\">\"The Forbidden Woman\"</span>",
+      "workFormattedTitle": "The Forbidden Woman",
+      "workHtmlTitle": "<span class=\"work-title\">The Forbidden Woman</span>",
       "workSlug": "the-forbidden-woman",
       "authorId": 172,
       "authorName": "Lenore J. Coffee",
@@ -17845,8 +17775,8 @@
       },
       "workId": 459,
       "workTitle": "Dead Yesterday",
-      "workFormattedTitle": "Dead Yesterday",
-      "workHtmlTitle": "<span class=\"work-title\">Dead Yesterday</span>",
+      "workFormattedTitle": "\"Dead Yesterday\"",
+      "workHtmlTitle": "<span class=\"work-title short-story\">\"Dead Yesterday\"</span>",
       "workSlug": "dead-yesterday",
       "authorId": 205,
       "authorName": "Mignon G. Eberhart",
@@ -26971,16 +26901,16 @@
         "attribution": "Universal Film Manufacturing Company"
       },
       "workId": 708,
-      "workTitle": "The Breath of God",
-      "workFormattedTitle": "The Breath of God",
-      "workHtmlTitle": "<span class=\"work-title\">The Breath of God</span>",
-      "workSlug": "the-breath-of-god",
+      "workTitle": "The Breath of the Gods",
+      "workFormattedTitle": "The Breath of the Gods",
+      "workHtmlTitle": "<span class=\"work-title\">The Breath of the Gods</span>",
+      "workSlug": "the-breath-of-the-gods",
       "authorId": 218,
       "authorName": "Sidney McCall",
       "authorSlug": "sidney-mccall",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "the breath of the gods rollin sturgeon charles wilson jr. tsuru aoki|stanhope wheatcroft|arthur edmund carew|pat o'malley|j. barney sherry|marion skinner|ethel shannon|missao seki|mai wells|paul weigel universal the breath of god sidney mccall drama"
+      "searchText": "the breath of the gods rollin sturgeon charles wilson jr. tsuru aoki|stanhope wheatcroft|arthur edmund carew|pat o'malley|j. barney sherry|marion skinner|ethel shannon|missao seki|mai wells|paul weigel universal the breath of the gods sidney mccall drama"
     },
     {
       "id": 798,
@@ -27736,8 +27666,8 @@
       },
       "workId": 725,
       "workTitle": "Uncle Sam of Freedom Ridge",
-      "workFormattedTitle": "Uncle Sam of Freedom Ridge",
-      "workHtmlTitle": "<span class=\"work-title\">Uncle Sam of Freedom Ridge</span>",
+      "workFormattedTitle": "\"Uncle Sam of Freedom Ridge\"",
+      "workHtmlTitle": "<span class=\"work-title short-story\">\"Uncle Sam of Freedom Ridge\"</span>",
       "workSlug": "uncle-sam-of-freedom-ridge",
       "authorId": 364,
       "authorName": "Margaret Prescott Montague",
@@ -30152,8 +30082,8 @@
       },
       "workId": 797,
       "workTitle": "Doubling for Cupid",
-      "workFormattedTitle": "Doubling for Cupid",
-      "workHtmlTitle": "<span class=\"work-title\">Doubling for Cupid</span>",
+      "workFormattedTitle": "\"Doubling for Cupid\"",
+      "workHtmlTitle": "<span class=\"work-title short-story\">\"Doubling for Cupid\"</span>",
       "workSlug": "doubling-for-cupid",
       "authorId": 405,
       "authorName": "Nina Wilcox Putnam",
@@ -30187,8 +30117,8 @@
       },
       "workId": 798,
       "workTitle": "The Grandflapper",
-      "workFormattedTitle": "The Grandflapper",
-      "workHtmlTitle": "<span class=\"work-title\">The Grandflapper</span>",
+      "workFormattedTitle": "\"The Grandflapper\"",
+      "workHtmlTitle": "<span class=\"work-title short-story\">\"The Grandflapper\"</span>",
       "workSlug": "the-grandflapper",
       "authorId": 405,
       "authorName": "Nina Wilcox Putnam",
@@ -30257,8 +30187,8 @@
       },
       "workId": 800,
       "workTitle": "Two Weeks with Pay",
-      "workFormattedTitle": "Two Weeks with Pay",
-      "workHtmlTitle": "<span class=\"work-title\">Two Weeks with Pay</span>",
+      "workFormattedTitle": "\"Two Weeks with Pay\"",
+      "workHtmlTitle": "<span class=\"work-title short-story\">\"Two Weeks with Pay\"</span>",
       "workSlug": "two-weeks-with-pay",
       "authorId": 405,
       "authorName": "Nina Wilcox Putnam",
@@ -30292,8 +30222,8 @@
       },
       "workId": 801,
       "workTitle": "The Price of Applause",
-      "workFormattedTitle": "The Price of Applause",
-      "workHtmlTitle": "<span class=\"work-title\">The Price of Applause</span>",
+      "workFormattedTitle": "\"The Price of Applause\"",
+      "workHtmlTitle": "<span class=\"work-title short-story\">\"The Price of Applause\"</span>",
       "workSlug": "the-price-of-applause",
       "authorId": 405,
       "authorName": "Nina Wilcox Putnam",
@@ -34825,8 +34755,8 @@
       },
       "workId": 921,
       "workTitle": "Fanny Foley Herself",
-      "workFormattedTitle": "Fanny Foley Herself",
-      "workHtmlTitle": "<span class=\"work-title\">Fanny Foley Herself</span>",
+      "workFormattedTitle": "\"Fanny Foley Herself\"",
+      "workHtmlTitle": "<span class=\"work-title short-story\">\"Fanny Foley Herself\"</span>",
       "workSlug": "fanny-foley-herself",
       "authorId": 467,
       "authorName": "Juliet Wilbor Tompkins",
@@ -35091,8 +35021,8 @@
       "featuredMedia": null,
       "workId": 928,
       "workTitle": "The Two Benjamins",
-      "workFormattedTitle": "The Two Benjamins",
-      "workHtmlTitle": "<span class=\"work-title\">The Two Benjamins</span>",
+      "workFormattedTitle": "\"The Two Benjamins\"",
+      "workHtmlTitle": "<span class=\"work-title short-story\">\"The Two Benjamins\"</span>",
       "workSlug": "the-two-benjamins",
       "authorId": 467,
       "authorName": "Juliet Wilbor Tompkins",
@@ -37232,16 +37162,16 @@
         "attribution": "Universal"
       },
       "workId": 985,
-      "workTitle": "Stormy",
-      "workFormattedTitle": "Stormy",
-      "workHtmlTitle": "<span class=\"work-title\">Stormy</span>",
-      "workSlug": "stormy",
+      "workTitle": "Stormy Dorn",
+      "workFormattedTitle": "Stormy Dorn",
+      "workHtmlTitle": "<span class=\"work-title\">Stormy Dorn</span>",
+      "workSlug": "stormy-dorn",
       "authorId": 498,
       "authorName": "Cherry Wilson",
       "authorSlug": "cherry-wilson",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "stormy louis friedlander ben grauman kohn|george plympton noah beery jr.|jean rogers|j. farrell macdonald|raymond hatton|walter miller|fred kohler|james burtis|charles hunger|l. f. costello|taylor curtis mcpeters universal stormy cherry wilson western"
+      "searchText": "stormy louis friedlander ben grauman kohn|george plympton noah beery jr.|jean rogers|j. farrell macdonald|raymond hatton|walter miller|fred kohler|james burtis|charles hunger|l. f. costello|taylor curtis mcpeters universal stormy dorn cherry wilson western"
     },
     {
       "id": 1099,
@@ -37407,16 +37337,16 @@
         "attribution": "Bluebird Photoplays"
       },
       "workId": 990,
-      "workTitle": "Princess Virtue",
-      "workFormattedTitle": "Princess Virtue",
-      "workHtmlTitle": "<span class=\"work-title\">Princess Virtue</span>",
-      "workSlug": "princess-virtue",
+      "workTitle": "The Princess Virtue",
+      "workFormattedTitle": "The Princess Virtue",
+      "workHtmlTitle": "<span class=\"work-title\">The Princess Virtue</span>",
+      "workSlug": "the-princess-virtue",
       "authorId": 501,
       "authorName": "Louise Winter",
       "authorSlug": "louise-winter",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "princess virtue robert z. leonard fred myton mae murray|lule warrenton|wheeler oakman|clarissa selwynne|gretchen lederer|harry von meter|paul nicholson|jean hersholt|jack vosburgh bluebird photoplays princess virtue louise winter drama"
+      "searchText": "princess virtue robert z. leonard fred myton mae murray|lule warrenton|wheeler oakman|clarissa selwynne|gretchen lederer|harry von meter|paul nicholson|jean hersholt|jack vosburgh bluebird photoplays the princess virtue louise winter drama"
     },
     {
       "id": 1104,
@@ -37672,16 +37602,16 @@
         "attribution": "Image courtesy of TMDB"
       },
       "workId": 998,
-      "workTitle": "The Hornet's Nest",
-      "workFormattedTitle": "The Hornet's Nest",
-      "workHtmlTitle": "<span class=\"work-title\">The Hornet's Nest</span>",
-      "workSlug": "the-hornets-nest",
+      "workTitle": "The Hornet",
+      "workFormattedTitle": "The Hornet",
+      "workHtmlTitle": "<span class=\"work-title\">The Hornet</span>",
+      "workSlug": "the-hornet",
       "authorId": 504,
       "authorName": "Nancy Mann Waddel Woodrow",
       "authorSlug": "nancy-mann-waddel-woodrow",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "the hornet's nest james young james dayton earle williams|brinsley shaw|vola vale|ogden crane|kathleen kirkman|edward mcwade vitagraph the hornet's nest nancy mann waddel woodrow drama"
+      "searchText": "the hornet's nest james young james dayton earle williams|brinsley shaw|vola vale|ogden crane|kathleen kirkman|edward mcwade vitagraph the hornet nancy mann waddel woodrow drama"
     },
     {
       "id": 1112,
@@ -39168,6 +39098,62 @@
       "isRemake": false,
       "adaptationNumber": 1,
       "searchText": "all that heaven allows douglas sirk peg fenwick jane wyman|rock hudson|agnes moorehead|conrad nagel|virginia grey|gloria talbott|william reynolds|charles drake|hayden rorke|jacqueline de wit universal-international all that heaven allows edna lee melodrama"
+    },
+    {
+      "id": 1157,
+      "slug": "without-children-1935",
+      "title": "Without Children",
+      "formatted_title": "Without Children",
+      "html_title": "<span class=\"film-title\">Without Children</span>",
+      "year": 1935,
+      "decade": 1930,
+      "genres": [
+        "Drama"
+      ],
+      "studio": "Liberty Pictures",
+      "directors": "William Nigh",
+      "hasMedia": false,
+      "mediaCount": 0,
+      "featuredMedia": null,
+      "workId": 1037,
+      "workTitle": "The Eyes of Youth",
+      "workFormattedTitle": "\"The Eyes of Youth\"",
+      "workHtmlTitle": "<span class=\"work-title short-story\">\"The Eyes of Youth\"</span>",
+      "workSlug": "the-eyes-of-youth",
+      "authorId": 504,
+      "authorName": "Nancy Mann Waddel Woodrow",
+      "authorSlug": "nancy-mann-waddel-woodrow",
+      "isRemake": false,
+      "adaptationNumber": 1,
+      "searchText": "without children william nigh gertrude orr marguerite churchill|bruce cabot|evelyn brent|reginald denny|dorothy lee|william janney|dickie moore|cora sue collins|lillian harmer liberty pictures the eyes of youth nancy mann waddel woodrow drama"
+    },
+    {
+      "id": 1158,
+      "slug": "the-pipers-price-1917",
+      "title": "The Piper's Price",
+      "formatted_title": "The Piper's Price",
+      "html_title": "<span class=\"film-title\">The Piper's Price</span>",
+      "year": 1917,
+      "decade": 1910,
+      "genres": [
+        "Drama"
+      ],
+      "studio": "Bluebird Photoplays",
+      "directors": "Joseph De Grasse",
+      "hasMedia": false,
+      "mediaCount": 0,
+      "featuredMedia": null,
+      "workId": 1036,
+      "workTitle": "The Piper's Price",
+      "workFormattedTitle": "\"The Piper's Price\"",
+      "workHtmlTitle": "<span class=\"work-title short-story\">\"The Piper's Price\"</span>",
+      "workSlug": "the-pipers-price",
+      "authorId": 504,
+      "authorName": "Nancy Mann Waddel Woodrow",
+      "authorSlug": "nancy-mann-waddel-woodrow",
+      "isRemake": false,
+      "adaptationNumber": 1,
+      "searchText": "the piper's price joseph de grasse ida may park dorothy phillips|maud george|william stowell|lon chaney|claire dubrey bluebird photoplays the piper's price nancy mann waddel woodrow drama"
     }
   ],
   "metadata": {
@@ -39176,7 +39162,7 @@
       1910,
       1963
     ],
-    "withMedia": 1046
+    "withMedia": 1044
   },
   "filterOptions": {
     "years": [
@@ -39426,6 +39412,11 @@
         "count": 6
       },
       {
+        "value": 504,
+        "label": "Nancy Mann Waddel Woodrow",
+        "count": 6
+      },
+      {
         "value": 8,
         "label": "Harriet Theresa Comstock",
         "count": 5
@@ -39504,11 +39495,6 @@
         "value": 90,
         "label": "Cid Ricketts Sumner",
         "count": 4
-      },
-      {
-        "value": 150,
-        "label": "Clara Louise Burnham",
-        "count": 4
       }
     ],
     "studios": [
@@ -39545,7 +39531,7 @@
       {
         "value": "Bluebird Photoplays",
         "label": "Bluebird Photoplays",
-        "count": 11
+        "count": 12
       },
       {
         "value": "Chesterfield",
@@ -39640,7 +39626,7 @@
       {
         "value": "Liberty Pictures",
         "label": "Liberty Pictures",
-        "count": 4
+        "count": 5
       },
       {
         "value": "Louis B. Mayer Productions ",
@@ -39710,7 +39696,7 @@
       {
         "value": "RKO",
         "label": "RKO",
-        "count": 45
+        "count": 44
       },
       {
         "value": "Robertson-Cole",
@@ -39832,7 +39818,7 @@
       {
         "value": "Comedy-drama",
         "label": "Comedy-drama",
-        "count": 127
+        "count": 126
       },
       {
         "value": "Documentary",
@@ -39842,7 +39828,7 @@
       {
         "value": "Drama",
         "label": "Drama",
-        "count": 458
+        "count": 459
       },
       {
         "value": "Epic",

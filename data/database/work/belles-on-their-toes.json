@@ -64,8 +64,8 @@
       "source_url": null,
       "source_notes": "Davis 2002",
       "verified": "False",
-      "created_at": "2025-08-07T15:19:58.306317",
-      "updated_at": "2025-08-17T03:50:23.707607",
+      "created_at": "2025-08-07 15:19:58.306317",
+      "updated_at": "2025-08-17 03:50:23.707607",
       "ia_url": null,
       "has_visual_content": "True",
       "country": "UK",
@@ -75,7 +75,15 @@
       "media": []
     }
   ],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Ladies' Home Journal",
+    "magazine_pub_date": "1950-08-01",
+    "magazine_issue_info": "v67 #8-10",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1950LHJAUG%27",
+    "serialized": true,
+    "serial_parts": 3
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -85,5 +93,5 @@
     "wikidata_id": "Q4883824",
     "viaf_id": null
   },
-  "last_updated": "2025-08-16T17:36:00.96526"
+  "last_updated": "2025-08-28 01:59:17.153822"
 }

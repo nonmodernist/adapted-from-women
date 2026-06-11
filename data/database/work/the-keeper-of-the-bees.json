@@ -103,8 +103,8 @@
       "source_url": "https://www.photoplay-edition.com/index4.php?a=gene+stratton+porter",
       "source_notes": null,
       "verified": "False",
-      "created_at": "2025-07-02T20:06:08.686308",
-      "updated_at": "2025-08-17T03:50:23.707607",
+      "created_at": "2025-07-02 20:06:08.686308",
+      "updated_at": "2025-08-17 03:50:23.707607",
       "ia_url": null,
       "has_visual_content": "True",
       "country": "US",
@@ -129,8 +129,8 @@
       "source_url": null,
       "source_notes": "Davis 2002",
       "verified": "False",
-      "created_at": "2025-08-07T01:34:03.386693",
-      "updated_at": "2025-08-17T03:49:48.63549",
+      "created_at": "2025-08-07 01:34:03.386693",
+      "updated_at": "2025-08-17 03:49:48.635490",
       "ia_url": null,
       "has_visual_content": "True",
       "country": "UK",
@@ -164,5 +164,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-09T17:13:07.624665"
+  "last_updated": "2025-08-09 17:13:07.624665"
 }

@@ -5,7 +5,7 @@
   "formatted_title": "The Spite Bride",
   "html_title": "<span class=\"work-title\">The Spite Bride</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1918,
   "plot_summary": null,
   "plot_summary_html": "",
   "literary_significance": null,
@@ -43,12 +43,20 @@
         "Drama"
       ],
       "has_media": true,
-      "years_after_publication": null
+      "years_after_publication": 1
     }
   ],
   "adaptation_gaps": [],
   "photoplay_editions": [],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Saucy Stories",
+    "magazine_pub_date": "1918-02-01",
+    "magazine_issue_info": "Vol. IV No. 1-3",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/FMI/ZZPERMLINK.ASP?NAME=%27P_1918SCYFEB%27",
+    "serialized": true,
+    "serial_parts": 3
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -58,5 +66,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2026-06-11 11:24:06.651667"
 }

@@ -103,8 +103,8 @@
       "source_url": null,
       "source_notes": "Davis 2002",
       "verified": "False",
-      "created_at": "2025-08-07T03:00:40.961177",
-      "updated_at": "2025-08-17T03:50:23.707607",
+      "created_at": "2025-08-07 03:00:40.961177",
+      "updated_at": "2025-08-17 03:50:23.707607",
       "ia_url": null,
       "has_visual_content": "True",
       "country": "UK",
@@ -129,8 +129,8 @@
       "source_url": "https://www.photoplay-edition.com/index4.php?a=ferber",
       "source_notes": null,
       "verified": "False",
-      "created_at": "2025-07-06T04:03:11.203525",
-      "updated_at": "2025-08-17T03:50:23.707607",
+      "created_at": "2025-07-06 04:03:11.203525",
+      "updated_at": "2025-08-17 03:50:23.707607",
       "ia_url": null,
       "has_visual_content": "True",
       "country": "US",
@@ -171,5 +171,5 @@
     "wikidata_id": "Q7549047",
     "viaf_id": "1609160310478958300002"
   },
-  "last_updated": "2025-08-16T17:36:12.205255"
+  "last_updated": "2025-08-16 17:36:12.205255"
 }

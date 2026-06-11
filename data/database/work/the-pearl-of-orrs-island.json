@@ -64,8 +64,8 @@
       "source_url": "https://www.photoplay-edition.com/index4.php?a=harriet+beecher+stowe",
       "source_notes": null,
       "verified": "True",
-      "created_at": "2025-07-02T20:35:37.88542",
-      "updated_at": "2025-08-17T03:50:23.707607",
+      "created_at": "2025-07-02 20:35:37.885420",
+      "updated_at": "2025-08-17 03:50:23.707607",
       "ia_url": "https://archive.org/details/pearl-orrs-island-1925-photoplay-selections",
       "has_visual_content": "True",
       "country": "US",
@@ -80,7 +80,7 @@
           "ia_url": "https://dn720702.ca.archive.org/0/items/pearl-orrs-island-1925-photoplay-selections/stowe-1925-pearl-dj-outer.jpg",
           "caption": "Dust jacket with art or colorized film still",
           "display_order": 1,
-          "created_at": "2025-08-16T23:21:25.411543"
+          "created_at": "2025-08-16 23:21:25.411543"
         },
         {
           "id": 7,
@@ -89,7 +89,7 @@
           "ia_url": "https://ia803203.us.archive.org/34/items/pearl-orrs-island-1925-photoplay-selections/stowe-1925-pearl-dj-inner_flaps.jpg",
           "caption": "Dust jacket flaps promoting photoplay",
           "display_order": 2,
-          "created_at": "2025-08-16T23:21:25.411543"
+          "created_at": "2025-08-16 23:21:25.411543"
         },
         {
           "id": 8,
@@ -98,7 +98,7 @@
           "ia_url": "https://ia803203.us.archive.org/34/items/pearl-orrs-island-1925-photoplay-selections/stowe-1925-pearl-frontispiece-title_page.jpg",
           "caption": "Frontispiece film still and title page",
           "display_order": 3,
-          "created_at": "2025-08-16T23:21:25.411543"
+          "created_at": "2025-08-16 23:21:25.411543"
         }
       ]
     }
@@ -113,5 +113,5 @@
     "wikidata_id": "Q124089567",
     "viaf_id": null
   },
-  "last_updated": "2025-08-16T17:36:27.960473"
+  "last_updated": "2025-08-16 17:36:27.960473"
 }

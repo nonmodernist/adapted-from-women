@@ -48,7 +48,15 @@
   ],
   "adaptation_gaps": [],
   "photoplay_editions": [],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "The Saturday Evening Post",
+    "magazine_pub_date": "1944-02-19",
+    "magazine_issue_info": "v216 #34-37",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1944-02-19_216_34",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1944SEPFEB19%27",
+    "serialized": true,
+    "serial_parts": 4
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -58,5 +66,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-28 02:29:24.510000"
 }

@@ -120,8 +120,8 @@
       "source_url": null,
       "source_notes": "Davis 2002",
       "verified": "False",
-      "created_at": "2025-08-07T02:04:18.818016",
-      "updated_at": "2025-08-17T19:02:22.422136",
+      "created_at": "2025-08-07 02:04:18.818016",
+      "updated_at": "2025-08-17 19:02:22.422136",
       "ia_url": null,
       "has_visual_content": "True",
       "country": "US",
@@ -146,8 +146,8 @@
       "source_url": "https://www.photoplay-edition.com/index4.php?y=1941",
       "source_notes": null,
       "verified": "False",
-      "created_at": "2025-07-06T03:46:37.178274",
-      "updated_at": "2025-08-17T19:12:16.148846",
+      "created_at": "2025-07-06 03:46:37.178274",
+      "updated_at": "2025-08-17 19:12:16.148846",
       "ia_url": "https://archive.org/details/back-street-1941-photoplay-selections",
       "has_visual_content": "True",
       "country": "US",
@@ -162,7 +162,7 @@
           "ia_url": "https://dn721508.ca.archive.org/0/items/back-street-1941-photoplay-selections/hurst-1941-back-street-dj-front-with-spine.jpg",
           "caption": "Front and spine of dust jacket, with film still",
           "display_order": 1,
-          "created_at": "2025-08-17T19:11:29.577142"
+          "created_at": "2025-08-17 19:11:29.577142"
         },
         {
           "id": 19,
@@ -171,7 +171,7 @@
           "ia_url": "https://dn721508.ca.archive.org/0/items/back-street-1941-photoplay-selections/hurst-1941-back-street-dj-flaps.jpg",
           "caption": "Flaps of dust jacket, with book advertising for 'Bad Girl' by Viña Delmar ",
           "display_order": 2,
-          "created_at": "2025-08-17T19:11:29.577142"
+          "created_at": "2025-08-17 19:11:29.577142"
         },
         {
           "id": 18,
@@ -180,7 +180,7 @@
           "ia_url": "https://dn721508.ca.archive.org/0/items/back-street-1941-photoplay-selections/hurst-1941-back-street-dj-back.jpg",
           "caption": "Back of dust jacket, with book advertising",
           "display_order": 3,
-          "created_at": "2025-08-17T19:11:29.577142"
+          "created_at": "2025-08-17 19:11:29.577142"
         },
         {
           "id": 20,
@@ -189,7 +189,7 @@
           "ia_url": "https://dn721508.ca.archive.org/0/items/back-street-1941-photoplay-selections/hurst-1941-back-street-front-cover.jpg",
           "caption": "Book cover ",
           "display_order": 4,
-          "created_at": "2025-08-17T19:11:29.577142"
+          "created_at": "2025-08-17 19:11:29.577142"
         }
       ]
     },
@@ -209,8 +209,8 @@
       "source_url": null,
       "source_notes": "Davis 2002",
       "verified": "False",
-      "created_at": "2025-08-07T02:06:23.952594",
-      "updated_at": "2025-08-17T19:01:34.619375",
+      "created_at": "2025-08-07 02:06:23.952594",
+      "updated_at": "2025-08-17 19:01:34.619375",
       "ia_url": null,
       "has_visual_content": "True",
       "country": "UK",
@@ -235,8 +235,8 @@
       "source_url": null,
       "source_notes": "Davis 2002",
       "verified": "False",
-      "created_at": "2025-08-07T02:07:23.370877",
-      "updated_at": "2025-08-17T19:12:39.694651",
+      "created_at": "2025-08-07 02:07:23.370877",
+      "updated_at": "2025-08-17 19:12:39.694651",
       "ia_url": "https://archive.org/details/back-street-1961-photoplay-selections",
       "has_visual_content": "True",
       "country": "US",
@@ -251,7 +251,7 @@
           "ia_url": "https://ia803203.us.archive.org/4/items/back-street-1961-photoplay-selections/hurst-1961-back-street-front-cover.jpg",
           "caption": "Front cover with film still",
           "display_order": 1,
-          "created_at": "2025-08-17T19:06:41.136881"
+          "created_at": "2025-08-17 19:06:41.136881"
         },
         {
           "id": 15,
@@ -260,7 +260,7 @@
           "ia_url": "https://ia903203.us.archive.org/4/items/back-street-1961-photoplay-selections/hurst-1961-back-street-back-cover.jpg",
           "caption": "Back cover with promotional image",
           "display_order": 2,
-          "created_at": "2025-08-17T19:06:41.136881"
+          "created_at": "2025-08-17 19:06:41.136881"
         },
         {
           "id": 16,
@@ -269,7 +269,7 @@
           "ia_url": "https://ia803203.us.archive.org/4/items/back-street-1961-photoplay-selections/hurst-1961-back-street-inside-cover.jpg",
           "caption": "Inside cover mentioning Rinehart publishing concern",
           "display_order": 3,
-          "created_at": "2025-08-17T19:06:41.136881"
+          "created_at": "2025-08-17 19:06:41.136881"
         }
       ]
     }
@@ -298,5 +298,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-09T16:26:36.424181"
+  "last_updated": "2025-08-09 16:26:36.424181"
 }

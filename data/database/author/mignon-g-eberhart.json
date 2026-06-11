@@ -122,7 +122,7 @@
       ],
       "has_media": true,
       "work_title": "Dead Yesterday",
-      "work_html_title": "<span class=\"work-title\">Dead Yesterday</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Dead Yesterday\"</span>",
       "work_id": 459
     },
     {
@@ -176,57 +176,13 @@
   ],
   "adapted_works": [
     {
-      "id": 459,
-      "slug": "dead-yesterday",
-      "title": "Dead Yesterday",
-      "formatted_title": "Dead Yesterday",
-      "html_title": "<span class=\"work-title\">Dead Yesterday</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 461,
-      "slug": "hasty-wedding",
-      "title": "Hasty Wedding",
-      "formatted_title": "Hasty Wedding",
-      "html_title": "<span class=\"work-title\">Hasty Wedding</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 462,
-      "slug": "murder-by-an-aristocrat",
-      "title": "Murder by an Aristocrat",
-      "formatted_title": "Murder by an Aristocrat",
-      "html_title": "<span class=\"work-title\">Murder by an Aristocrat</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 463,
       "slug": "the-mystery-of-huntings-end",
       "title": "The Mystery of Hunting's End",
       "formatted_title": "The Mystery of Hunting's End",
       "html_title": "<span class=\"work-title\">The Mystery of Hunting's End</span>",
       "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 465,
-      "slug": "the-white-cockatoo",
-      "title": "The White Cockatoo",
-      "formatted_title": "The White Cockatoo",
-      "html_title": "<span class=\"work-title\">The White Cockatoo</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1930,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -251,18 +207,62 @@
       "publication_year": 1931,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 462,
+      "slug": "murder-by-an-aristocrat",
+      "title": "Murder by an Aristocrat",
+      "formatted_title": "Murder by an Aristocrat",
+      "html_title": "<span class=\"work-title\">Murder by an Aristocrat</span>",
+      "work_type": "novel",
+      "publication_year": 1932,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 465,
+      "slug": "the-white-cockatoo",
+      "title": "The White Cockatoo",
+      "formatted_title": "The White Cockatoo",
+      "html_title": "<span class=\"work-title\">The White Cockatoo</span>",
+      "work_type": "novel",
+      "publication_year": 1933,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 459,
+      "slug": "dead-yesterday",
+      "title": "Dead Yesterday",
+      "formatted_title": "\"Dead Yesterday\"",
+      "html_title": "<span class=\"work-title short-story\">\"Dead Yesterday\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1936,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 461,
+      "slug": "hasty-wedding",
+      "title": "Hasty Wedding",
+      "formatted_title": "Hasty Wedding",
+      "html_title": "<span class=\"work-title\">Hasty Wedding</span>",
+      "work_type": "novel",
+      "publication_year": 1938,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 459,
-    "slug": "dead-yesterday",
-    "title": "Dead Yesterday",
-    "formatted_title": "Dead Yesterday",
-    "html_title": "<span class=\"work-title\">Dead Yesterday</span>",
+    "id": 463,
+    "slug": "the-mystery-of-huntings-end",
+    "title": "The Mystery of Hunting's End",
+    "formatted_title": "The Mystery of Hunting's End",
+    "html_title": "<span class=\"work-title\">The Mystery of Hunting's End</span>",
     "work_type": "novel",
-    "publication_year": null,
+    "publication_year": 1930,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-04 17:06:35.659603"
 }

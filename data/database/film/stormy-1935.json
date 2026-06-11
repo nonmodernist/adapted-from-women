@@ -24,19 +24,19 @@
   "afi_catalog_id": 7460,
   "source_work": {
     "id": 985,
-    "slug": "stormy",
-    "title": "Stormy",
-    "formatted_title": "Stormy",
-    "html_title": "<span class=\"work-title\">Stormy</span>",
+    "slug": "stormy-dorn",
+    "title": "Stormy Dorn",
+    "formatted_title": "Stormy Dorn",
+    "html_title": "<span class=\"work-title\">Stormy Dorn</span>",
     "work_type": "novel",
-    "publication_year": null,
+    "publication_year": 1929,
     "plot_summary": null,
     "plot_summary_html": "",
     "literary_significance": null,
     "literary_significance_html": "",
     "adaptation_count": 1,
     "photoplay_edition_count": 0,
-    "year_to_adaptation": null
+    "year_to_adaptation": 6
   },
   "author": {
     "id": 498,
@@ -79,5 +79,5 @@
   ],
   "has_media": true,
   "media_count": 2,
-  "last_updated": "2025-08-27T22:57:11.708135"
+  "last_updated": "2025-08-27 22:57:11.708135"
 }

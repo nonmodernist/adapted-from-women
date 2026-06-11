@@ -148,6 +148,17 @@
       "is_remake_champion": false
     },
     {
+      "id": 353,
+      "slug": "china-sky",
+      "title": "China Sky",
+      "formatted_title": "China Sky",
+      "html_title": "<span class=\"work-title\">China Sky</span>",
+      "work_type": "novel",
+      "publication_year": 1941,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 354,
       "slug": "dragon-seed",
       "title": "Dragon Seed",
@@ -155,17 +166,6 @@
       "html_title": "<span class=\"work-title\">Dragon Seed</span>",
       "work_type": "novel",
       "publication_year": 1942,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 353,
-      "slug": "china-sky",
-      "title": "China Sky",
-      "formatted_title": "China Sky",
-      "html_title": "<span class=\"work-title\">China Sky</span>",
-      "work_type": "novel",
-      "publication_year": 1945,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -203,5 +203,5 @@
     "adaptation_count": 1,
     "is_remake_champion": false
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-04 17:06:35.659603"
 }

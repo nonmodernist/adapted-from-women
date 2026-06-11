@@ -2,9 +2,9 @@
   "id": 405,
   "slug": "the-forbidden-woman",
   "title": "The Forbidden Woman",
-  "formatted_title": "\"The Forbidden Woman\"",
-  "html_title": "<span class=\"work-title short-story\">\"The Forbidden Woman\"</span>",
-  "work_type": "short_story",
+  "formatted_title": "The Forbidden Woman",
+  "html_title": "<span class=\"work-title\">The Forbidden Woman</span>",
+  "work_type": "screen_story",
   "publication_year": null,
   "plot_summary": null,
   "plot_summary_html": "",
@@ -58,5 +58,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-28 02:33:41.730993"
 }

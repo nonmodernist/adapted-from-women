@@ -26,9 +26,9 @@
     "id": 398,
     "slug": "the-girl-of-gold",
     "title": "The Girl of Gold",
-    "formatted_title": "\"The Girl of Gold\"",
-    "html_title": "<span class=\"work-title short-story\">\"The Girl of Gold\"</span>",
-    "work_type": "short_story",
+    "formatted_title": "The Girl of Gold",
+    "html_title": "<span class=\"work-title\">The Girl of Gold</span>",
+    "work_type": "novella",
     "publication_year": 1919,
     "plot_summary": null,
     "plot_summary_html": "",
@@ -118,5 +118,5 @@
   ],
   "has_media": true,
   "media_count": 5,
-  "last_updated": "2025-08-27T22:57:11.708135"
+  "last_updated": "2025-08-27 22:57:11.708135"
 }

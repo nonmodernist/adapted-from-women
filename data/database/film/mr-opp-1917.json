@@ -26,9 +26,9 @@
     "id": 26,
     "slug": "mr-opp",
     "title": "Mr. Opp",
-    "formatted_title": "Mr. Opp",
-    "html_title": "<span class=\"work-title\">Mr. Opp</span>",
-    "work_type": "novel",
+    "formatted_title": "\"Mr. Opp\"",
+    "html_title": "<span class=\"work-title short-story\">\"Mr. Opp\"</span>",
+    "work_type": "short_story",
     "publication_year": 1909,
     "plot_summary": null,
     "plot_summary_html": "",
@@ -66,5 +66,5 @@
   ],
   "has_media": true,
   "media_count": 1,
-  "last_updated": "2025-08-27T22:57:11.708135"
+  "last_updated": "2025-08-27 22:57:11.708135"
 }

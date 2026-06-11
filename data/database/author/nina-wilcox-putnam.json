@@ -66,7 +66,7 @@
       ],
       "has_media": true,
       "work_title": "The Price of Applause",
-      "work_html_title": "<span class=\"work-title\">The Price of Applause</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Price of Applause\"</span>",
       "work_id": 801
     },
     {
@@ -98,7 +98,7 @@
       ],
       "has_media": true,
       "work_title": "Two Weeks with Pay",
-      "work_html_title": "<span class=\"work-title\">Two Weeks with Pay</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Two Weeks with Pay\"</span>",
       "work_id": 800
     },
     {
@@ -114,7 +114,7 @@
       ],
       "has_media": true,
       "work_title": "Doubling for Cupid",
-      "work_html_title": "<span class=\"work-title\">Doubling for Cupid</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Doubling for Cupid\"</span>",
       "work_id": 797
     },
     {
@@ -130,30 +130,19 @@
       ],
       "has_media": true,
       "work_title": "The Grandflapper",
-      "work_html_title": "<span class=\"work-title\">The Grandflapper</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Grandflapper\"</span>",
       "work_id": 798
     }
   ],
   "adapted_works": [
     {
-      "id": 797,
-      "slug": "doubling-for-cupid",
-      "title": "Doubling for Cupid",
-      "formatted_title": "Doubling for Cupid",
-      "html_title": "<span class=\"work-title\">Doubling for Cupid</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 798,
-      "slug": "the-grandflapper",
-      "title": "The Grandflapper",
-      "formatted_title": "The Grandflapper",
-      "html_title": "<span class=\"work-title\">The Grandflapper</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "id": 799,
+      "slug": "in-search-of-arcady",
+      "title": "In Search of Arcady",
+      "formatted_title": "In Search of Arcady",
+      "html_title": "<span class=\"work-title\">In Search of Arcady</span>",
+      "work_type": "novella",
+      "publication_year": 1911,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -161,10 +150,10 @@
       "id": 801,
       "slug": "the-price-of-applause",
       "title": "The Price of Applause",
-      "formatted_title": "The Price of Applause",
-      "html_title": "<span class=\"work-title\">The Price of Applause</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "formatted_title": "\"The Price of Applause\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Price of Applause\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1918,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -172,35 +161,46 @@
       "id": 800,
       "slug": "two-weeks-with-pay",
       "title": "Two Weeks with Pay",
-      "formatted_title": "Two Weeks with Pay",
-      "html_title": "<span class=\"work-title\">Two Weeks with Pay</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "formatted_title": "\"Two Weeks with Pay\"",
+      "html_title": "<span class=\"work-title short-story\">\"Two Weeks with Pay\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1920,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
     {
-      "id": 799,
-      "slug": "in-search-of-arcady",
-      "title": "In Search of Arcady",
-      "formatted_title": "In Search of Arcady",
-      "html_title": "<span class=\"work-title\">In Search of Arcady</span>",
-      "work_type": "novel",
-      "publication_year": 1912,
+      "id": 797,
+      "slug": "doubling-for-cupid",
+      "title": "Doubling for Cupid",
+      "formatted_title": "\"Doubling for Cupid\"",
+      "html_title": "<span class=\"work-title short-story\">\"Doubling for Cupid\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1924,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 798,
+      "slug": "the-grandflapper",
+      "title": "The Grandflapper",
+      "formatted_title": "\"The Grandflapper\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Grandflapper\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1926,
       "adaptation_count": 1,
       "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 797,
-    "slug": "doubling-for-cupid",
-    "title": "Doubling for Cupid",
-    "formatted_title": "Doubling for Cupid",
-    "html_title": "<span class=\"work-title\">Doubling for Cupid</span>",
-    "work_type": "novel",
-    "publication_year": null,
+    "id": 799,
+    "slug": "in-search-of-arcady",
+    "title": "In Search of Arcady",
+    "formatted_title": "In Search of Arcady",
+    "html_title": "<span class=\"work-title\">In Search of Arcady</span>",
+    "work_type": "novella",
+    "publication_year": 1911,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-04 17:06:35.659603"
 }

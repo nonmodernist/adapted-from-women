@@ -5,7 +5,7 @@
   "formatted_title": "Five Little Peppers and How they Grew",
   "html_title": "<span class=\"work-title\">Five Little Peppers and How they Grew</span>",
   "work_type": "novel",
-  "publication_year": 1881,
+  "publication_year": 1880,
   "plot_summary": null,
   "plot_summary_html": "",
   "literary_significance": null,
@@ -43,7 +43,7 @@
         "Drama"
       ],
       "has_media": true,
-      "years_after_publication": 58
+      "years_after_publication": 59
     },
     {
       "id": 991,
@@ -57,7 +57,7 @@
         "Drama"
       ],
       "has_media": true,
-      "years_after_publication": 59
+      "years_after_publication": 60
     },
     {
       "id": 992,
@@ -71,7 +71,7 @@
         "Comedy-drama"
       ],
       "has_media": true,
-      "years_after_publication": 59
+      "years_after_publication": 60
     },
     {
       "id": 993,
@@ -85,7 +85,7 @@
         "Comedy-drama"
       ],
       "has_media": true,
-      "years_after_publication": 59
+      "years_after_publication": 60
     }
   ],
   "adaptation_gaps": [
@@ -122,8 +122,8 @@
       "source_url": null,
       "source_notes": "Davis 2002",
       "verified": "False",
-      "created_at": "2025-08-14T00:51:29.753868",
-      "updated_at": "2025-08-17T03:50:23.707607",
+      "created_at": "2025-08-14 00:51:29.753868",
+      "updated_at": "2025-08-17 03:50:23.707607",
       "ia_url": null,
       "has_visual_content": "True",
       "country": "US",
@@ -148,8 +148,8 @@
       "source_url": null,
       "source_notes": "Davis 2002",
       "verified": "False",
-      "created_at": "2025-08-14T00:51:29.753868",
-      "updated_at": "2025-08-17T03:50:23.707607",
+      "created_at": "2025-08-14 00:51:29.753868",
+      "updated_at": "2025-08-17 03:50:23.707607",
       "ia_url": null,
       "has_visual_content": "True",
       "country": "UK",
@@ -174,8 +174,8 @@
       "source_url": null,
       "source_notes": "Davis 2002",
       "verified": "False",
-      "created_at": "2025-08-14T00:51:29.753868",
-      "updated_at": "2025-08-17T03:50:23.707607",
+      "created_at": "2025-08-14 00:51:29.753868",
+      "updated_at": "2025-08-17 03:50:23.707607",
       "ia_url": null,
       "has_visual_content": "True",
       "country": "US",
@@ -185,7 +185,15 @@
       "media": []
     }
   ],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Wide Awake",
+    "magazine_pub_date": "1880-01-01",
+    "magazine_issue_info": "v10 #1-6, v11 #1-6",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/FMI/ZZPERMLINK.ASP?NAME=%27P_1880$kWDAWKJAN%27",
+    "serialized": true,
+    "serial_parts": 12
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -195,5 +203,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2026-06-11 14:14:09.424327"
 }

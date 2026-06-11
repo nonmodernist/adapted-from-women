@@ -1,16 +1,16 @@
 {
   "version": "2.0",
-  "buildDate": "2025-08-28T00:53:54.120Z",
+  "buildDate": "2026-06-11T19:21:52.612Z",
   "stats": {
     "films": 1136,
-    "authors": 497,
+    "authors": 496,
     "works": 1010,
-    "media": 5806,
+    "media": 5798,
     "yearsSpanned": "1910-1963"
   },
   "patterns": {
     "twentyTimers": 5,
-    "speedDemons": 297,
+    "speedDemons": 308,
     "remakeChampions": 13
   },
   "files": {

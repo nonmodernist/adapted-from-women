@@ -67,7 +67,7 @@
       ],
       "has_media": true,
       "work_title": "The Forbidden Woman",
-      "work_html_title": "<span class=\"work-title short-story\">\"The Forbidden Woman\"</span>",
+      "work_html_title": "<span class=\"work-title\">The Forbidden Woman</span>",
       "work_id": 405
     },
     {
@@ -110,7 +110,7 @@
       "title": "Miss Aesop Butters Her Bread",
       "formatted_title": "Miss Aesop Butters Her Bread",
       "html_title": "<span class=\"work-title\">Miss Aesop Butters Her Bread</span>",
-      "work_type": "novel",
+      "work_type": "screen_story",
       "publication_year": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -119,9 +119,9 @@
       "id": 405,
       "slug": "the-forbidden-woman",
       "title": "The Forbidden Woman",
-      "formatted_title": "\"The Forbidden Woman\"",
-      "html_title": "<span class=\"work-title short-story\">\"The Forbidden Woman\"</span>",
-      "work_type": "short_story",
+      "formatted_title": "The Forbidden Woman",
+      "html_title": "<span class=\"work-title\">The Forbidden Woman</span>",
+      "work_type": "screen_story",
       "publication_year": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -144,10 +144,10 @@
     "title": "Miss Aesop Butters Her Bread",
     "formatted_title": "Miss Aesop Butters Her Bread",
     "html_title": "<span class=\"work-title\">Miss Aesop Butters Her Bread</span>",
-    "work_type": "novel",
+    "work_type": "screen_story",
     "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-04 17:06:35.659603"
 }

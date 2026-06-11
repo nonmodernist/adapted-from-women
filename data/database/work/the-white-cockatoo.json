@@ -5,7 +5,7 @@
   "formatted_title": "The White Cockatoo",
   "html_title": "<span class=\"work-title\">The White Cockatoo</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1933,
   "plot_summary": null,
   "plot_summary_html": "",
   "literary_significance": null,
@@ -43,7 +43,7 @@
         "Mystery"
       ],
       "has_media": true,
-      "years_after_publication": null
+      "years_after_publication": 2
     }
   ],
   "adaptation_gaps": [],
@@ -58,5 +58,5 @@
     "wikidata_id": "Q55635630",
     "viaf_id": null
   },
-  "last_updated": "2025-08-16T17:40:47.36917"
+  "last_updated": "2026-06-10 22:31:57.564932"
 }

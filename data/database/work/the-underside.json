@@ -49,11 +49,11 @@
   "adaptation_gaps": [],
   "photoplay_editions": [],
   "magazine_publication": {
-    "magazine_title": "Saturday Evening Post",
+    "magazine_title": "The Saturday Evening Post",
     "magazine_pub_date": "1917-08-11",
-    "magazine_issue_info": null,
-    "digitized_url": null,
-    "FMI_link": null,
+    "magazine_issue_info": "v190 #6",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1917-08-11_190_6",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1917SEPAUG11%27",
     "serialized": false,
     "serial_parts": null
   },
@@ -66,5 +66,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-28 02:07:45.433205"
 }

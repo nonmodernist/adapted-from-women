@@ -5,7 +5,7 @@
   "formatted_title": "Audrey",
   "html_title": "<span class=\"work-title\">Audrey</span>",
   "work_type": "novel",
-  "publication_year": 1902,
+  "publication_year": 1901,
   "plot_summary": null,
   "plot_summary_html": "",
   "literary_significance": null,
@@ -43,12 +43,20 @@
         "Drama"
       ],
       "has_media": true,
-      "years_after_publication": 14
+      "years_after_publication": 15
     }
   ],
   "adaptation_gaps": [],
   "photoplay_editions": [],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "The Atlantic Monthly",
+    "magazine_pub_date": "1904-05-01",
+    "magazine_issue_info": "Vol. LXXXVIII, No. DXXIII-DXXVIII, Vol. LXXXIX, No. DXXIX-DXXXII",
+    "digitized_url": "https://hdl.handle.net/2027/uc1.32106019602348",
+    "FMI_link": "http://www.philsp.com/homeville/FMI/ZZPERMLINK.ASP?NAME=%27P_1901ATLMAY%27",
+    "serialized": true,
+    "serial_parts": 10
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -58,5 +66,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2026-06-11 13:52:28.168181"
 }

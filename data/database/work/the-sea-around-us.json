@@ -4,7 +4,7 @@
   "title": "The Sea Around Us",
   "formatted_title": "The Sea Around Us",
   "html_title": "<span class=\"work-title\">The Sea Around Us</span>",
-  "work_type": "novel",
+  "work_type": "nonfiction",
   "publication_year": 1951,
   "plot_summary": null,
   "plot_summary_html": "",
@@ -74,5 +74,5 @@
     "wikidata_id": "Q7762748",
     "viaf_id": null
   },
-  "last_updated": "2025-08-16T17:40:01.028883"
+  "last_updated": "2025-08-28 02:04:27.474837"
 }

@@ -51,9 +51,9 @@
   "magazine_publication": {
     "magazine_title": "Saturday Evening Post",
     "magazine_pub_date": "1919-11-22",
-    "magazine_issue_info": null,
-    "digitized_url": null,
-    "FMI_link": null,
+    "magazine_issue_info": "v192 #21",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1919-11-22_192_21",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1919SEPNOV22%27",
     "serialized": false,
     "serial_parts": null
   },
@@ -66,5 +66,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-28 01:40:42.450659"
 }

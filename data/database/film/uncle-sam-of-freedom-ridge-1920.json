@@ -26,9 +26,9 @@
     "id": 725,
     "slug": "uncle-sam-of-freedom-ridge",
     "title": "Uncle Sam of Freedom Ridge",
-    "formatted_title": "Uncle Sam of Freedom Ridge",
-    "html_title": "<span class=\"work-title\">Uncle Sam of Freedom Ridge</span>",
-    "work_type": "novel",
+    "formatted_title": "\"Uncle Sam of Freedom Ridge\"",
+    "html_title": "<span class=\"work-title short-story\">\"Uncle Sam of Freedom Ridge\"</span>",
+    "work_type": "short_story",
     "publication_year": 1920,
     "plot_summary": null,
     "plot_summary_html": "",
@@ -92,5 +92,5 @@
   ],
   "has_media": true,
   "media_count": 3,
-  "last_updated": "2025-08-27T22:57:11.708135"
+  "last_updated": "2025-08-27 22:57:11.708135"
 }

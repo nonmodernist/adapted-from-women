@@ -529,6 +529,22 @@
       "searchText": "mary jane holmes"
     },
     {
+      "id": 504,
+      "slug": "nancy-mann-waddel-woodrow",
+      "name": "Nancy Mann Waddel Woodrow",
+      "birthYear": 1867,
+      "deathYear": 1935,
+      "nationality": "American",
+      "literaryMovement": null,
+      "filmCount": 6,
+      "workCount": 6,
+      "firstAdaptation": 1917,
+      "lastAdaptation": 1935,
+      "yearSpan": 18,
+      "isTwentyTimer": false,
+      "searchText": "nancy mann waddel woodrow"
+    },
+    {
       "id": 8,
       "slug": "harriet-theresa-comstock",
       "name": "Harriet Theresa Comstock",
@@ -967,7 +983,7 @@
       "birthYear": 1893,
       "deathYear": 1976,
       "nationality": "American",
-      "literaryMovement": null,
+      "literaryMovement": "Popular fiction",
       "filmCount": 4,
       "workCount": 4,
       "firstAdaptation": 1928,
@@ -991,22 +1007,6 @@
       "yearSpan": 8,
       "isTwentyTimer": false,
       "searchText": "louise winter"
-    },
-    {
-      "id": 504,
-      "slug": "nancy-mann-waddel-woodrow",
-      "name": "Nancy Mann Waddel Woodrow",
-      "birthYear": 1867,
-      "deathYear": 1935,
-      "nationality": "American",
-      "literaryMovement": null,
-      "filmCount": 4,
-      "workCount": 4,
-      "firstAdaptation": 1919,
-      "lastAdaptation": 1929,
-      "yearSpan": 10,
-      "isTwentyTimer": false,
-      "searchText": "nancy mann waddel woodrow"
     },
     {
       "id": 509,
@@ -2207,22 +2207,6 @@
       "yearSpan": 4,
       "isTwentyTimer": false,
       "searchText": "lucia chamberlain"
-    },
-    {
-      "id": 169,
-      "slug": "katherine-thatcher-clugston",
-      "name": "Katherine Thatcher Clugston",
-      "birthYear": 1892,
-      "deathYear": 1985,
-      "nationality": "American",
-      "literaryMovement": null,
-      "filmCount": 2,
-      "workCount": 2,
-      "firstAdaptation": 1934,
-      "lastAdaptation": 1934,
-      "yearSpan": 0,
-      "isTwentyTimer": false,
-      "searchText": "katherine thatcher clugston"
     },
     {
       "id": 180,
@@ -7922,7 +7906,7 @@
     }
   ],
   "metadata": {
-    "totalCount": 497,
-    "withFilms": 495
+    "totalCount": 496,
+    "withFilms": 494
   }
 }

@@ -105,7 +105,7 @@
       ],
       "has_media": true,
       "work_title": "Mr. Opp",
-      "work_html_title": "<span class=\"work-title\">Mr. Opp</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Mr. Opp\"</span>",
       "work_id": 26
     },
     {
@@ -243,9 +243,9 @@
       "id": 26,
       "slug": "mr-opp",
       "title": "Mr. Opp",
-      "formatted_title": "Mr. Opp",
-      "html_title": "<span class=\"work-title\">Mr. Opp</span>",
-      "work_type": "novel",
+      "formatted_title": "\"Mr. Opp\"",
+      "html_title": "<span class=\"work-title short-story\">\"Mr. Opp\"</span>",
+      "work_type": "short_story",
       "publication_year": 1909,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -284,5 +284,5 @@
     "adaptation_count": 4,
     "is_remake_champion": true
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-04 17:06:35.659603"
 }

@@ -28,7 +28,7 @@
     "title": "The Sea Around Us",
     "formatted_title": "The Sea Around Us",
     "html_title": "<span class=\"work-title\">The Sea Around Us</span>",
-    "work_type": "novel",
+    "work_type": "nonfiction",
     "publication_year": 1951,
     "plot_summary": null,
     "plot_summary_html": "",
@@ -118,5 +118,5 @@
   ],
   "has_media": true,
   "media_count": 5,
-  "last_updated": "2025-08-27T22:57:11.708135"
+  "last_updated": "2025-08-27 22:57:11.708135"
 }

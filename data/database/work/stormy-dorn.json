@@ -1,0 +1,70 @@
+{
+  "id": 985,
+  "slug": "stormy-dorn",
+  "title": "Stormy Dorn",
+  "formatted_title": "Stormy Dorn",
+  "html_title": "<span class=\"work-title\">Stormy Dorn</span>",
+  "work_type": "novel",
+  "publication_year": 1929,
+  "plot_summary": null,
+  "plot_summary_html": "",
+  "literary_significance": null,
+  "literary_significance_html": "",
+  "attribution_notes": null,
+  "author": {
+    "id": 498,
+    "slug": "cherry-wilson",
+    "name": "Cherry Wilson",
+    "birth_year": 1893,
+    "death_year": 1976,
+    "film_count": 4
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "photoplay_edition_count": 0,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1098,
+      "slug": "stormy-1935",
+      "title": "Stormy",
+      "html_title": "<span class=\"film-title\">Stormy</span>",
+      "year": 1935,
+      "studio": "Universal",
+      "directors": "Louis Friedlander",
+      "genres": [
+        "Western"
+      ],
+      "has_media": true,
+      "years_after_publication": 6
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_editions": [],
+  "magazine_publication": {
+    "magazine_title": "Western Story Magazine",
+    "magazine_pub_date": "1929-10-12",
+    "magazine_issue_info": "Vol. XC No. 3-6",
+    "digitized_url": "https://archive.org/details/western-story-magazine-v-090-n-04-1929-10-19-ibc-bc/page/52/mode/2up",
+    "FMI_link": "http://www.philsp.com/homeville/FMI/ZZPERMLINK.ASP?NAME=%27P_1929WSMOCT12%27",
+    "serialized": true,
+    "serial_parts": 4
+  },
+  "external_urls": [],
+  "external_ids": {
+    "gutenberg_id": null,
+    "internet_archive_id": null,
+    "openlibrary_id": null,
+    "oclc_number": null,
+    "wikidata_id": null,
+    "viaf_id": null
+  },
+  "last_updated": "2026-06-11 11:13:02.270867"
+}

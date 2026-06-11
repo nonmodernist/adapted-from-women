@@ -2,9 +2,9 @@
   "id": 725,
   "slug": "uncle-sam-of-freedom-ridge",
   "title": "Uncle Sam of Freedom Ridge",
-  "formatted_title": "Uncle Sam of Freedom Ridge",
-  "html_title": "<span class=\"work-title\">Uncle Sam of Freedom Ridge</span>",
-  "work_type": "novel",
+  "formatted_title": "\"Uncle Sam of Freedom Ridge\"",
+  "html_title": "<span class=\"work-title short-story\">\"Uncle Sam of Freedom Ridge\"</span>",
+  "work_type": "short_story",
   "publication_year": 1920,
   "plot_summary": null,
   "plot_summary_html": "",
@@ -48,7 +48,15 @@
   ],
   "adaptation_gaps": [],
   "photoplay_editions": [],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "The Atlantic Monthly",
+    "magazine_pub_date": "1920-06-01",
+    "magazine_issue_info": "v125 #6",
+    "digitized_url": "https://hdl.handle.net/2027/uc1.b000556121",
+    "FMI_link": "http://www.philsp.com/homeville/FMI/ZZPERMLINK.ASP?NAME=%27P_1920ATLJUN%27",
+    "serialized": false,
+    "serial_parts": null
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -58,5 +66,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2026-06-11 10:13:12.186012"
 }

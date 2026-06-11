@@ -24,19 +24,19 @@
   "afi_catalog_id": 17672,
   "source_work": {
     "id": 708,
-    "slug": "the-breath-of-god",
-    "title": "The Breath of God",
-    "formatted_title": "The Breath of God",
-    "html_title": "<span class=\"work-title\">The Breath of God</span>",
+    "slug": "the-breath-of-the-gods",
+    "title": "The Breath of the Gods",
+    "formatted_title": "The Breath of the Gods",
+    "html_title": "<span class=\"work-title\">The Breath of the Gods</span>",
     "work_type": "novel",
-    "publication_year": null,
+    "publication_year": 1905,
     "plot_summary": null,
     "plot_summary_html": "",
     "literary_significance": null,
     "literary_significance_html": "",
     "adaptation_count": 1,
     "photoplay_edition_count": 1,
-    "year_to_adaptation": null
+    "year_to_adaptation": 15
   },
   "author": {
     "id": 218,
@@ -170,5 +170,5 @@
   ],
   "has_media": true,
   "media_count": 9,
-  "last_updated": "2025-08-27T22:57:11.708135"
+  "last_updated": "2025-08-27 22:57:11.708135"
 }

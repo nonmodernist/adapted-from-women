@@ -5,7 +5,7 @@
   "formatted_title": "Empty Saddles",
   "html_title": "<span class=\"work-title\">Empty Saddles</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1928,
   "plot_summary": null,
   "plot_summary_html": "",
   "literary_significance": null,
@@ -43,12 +43,20 @@
         "Western"
       ],
       "has_media": true,
-      "years_after_publication": null
+      "years_after_publication": 8
     }
   ],
   "adaptation_gaps": [],
   "photoplay_editions": [],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Western Story Magazine",
+    "magazine_pub_date": "1928-12-08",
+    "magazine_issue_info": "Vol. LXXXIII No. 1-5",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/FMI/ZZPERMLINK.ASP?NAME=%27P_1928WSMDEC_8%27",
+    "serialized": true,
+    "serial_parts": 5
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -58,5 +66,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2026-06-11 10:35:00.396962"
 }

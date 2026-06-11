@@ -4,7 +4,7 @@
   "title": "Summer Lightning",
   "formatted_title": "Summer Lightning",
   "html_title": "<span class=\"work-title\">Summer Lightning</span>",
-  "work_type": "novel",
+  "work_type": "novella",
   "publication_year": 1936,
   "plot_summary": null,
   "plot_summary_html": "",
@@ -48,7 +48,15 @@
   ],
   "adaptation_gaps": [],
   "photoplay_editions": [],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Hearst's International Cosmopolitan",
+    "magazine_pub_date": "1936-08-01",
+    "magazine_issue_info": "Vol. 101 No. 2",
+    "digitized_url": "https://archive.org/details/sim_cosmopolitan_1936-08_101_2",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1936CMPAUG%27",
+    "serialized": false,
+    "serial_parts": null
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -58,5 +66,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-28 02:42:43.131622"
 }

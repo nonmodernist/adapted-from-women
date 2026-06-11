@@ -105,20 +105,20 @@
         "Drama"
       ],
       "has_media": true,
-      "work_title": "The Breath of God",
-      "work_html_title": "<span class=\"work-title\">The Breath of God</span>",
+      "work_title": "The Breath of the Gods",
+      "work_html_title": "<span class=\"work-title\">The Breath of the Gods</span>",
       "work_id": 708
     }
   ],
   "adapted_works": [
     {
       "id": 708,
-      "slug": "the-breath-of-god",
-      "title": "The Breath of God",
-      "formatted_title": "The Breath of God",
-      "html_title": "<span class=\"work-title\">The Breath of God</span>",
+      "slug": "the-breath-of-the-gods",
+      "title": "The Breath of the Gods",
+      "formatted_title": "The Breath of the Gods",
+      "html_title": "<span class=\"work-title\">The Breath of the Gods</span>",
       "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1905,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -158,14 +158,14 @@
   ],
   "most_adapted_work": {
     "id": 708,
-    "slug": "the-breath-of-god",
-    "title": "The Breath of God",
-    "formatted_title": "The Breath of God",
-    "html_title": "<span class=\"work-title\">The Breath of God</span>",
+    "slug": "the-breath-of-the-gods",
+    "title": "The Breath of the Gods",
+    "formatted_title": "The Breath of the Gods",
+    "html_title": "<span class=\"work-title\">The Breath of the Gods</span>",
     "work_type": "novel",
-    "publication_year": null,
+    "publication_year": 1905,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
-  "last_updated": "2025-08-17T20:00:41.074781"
+  "last_updated": "2025-08-17 20:00:41.074781"
 }
