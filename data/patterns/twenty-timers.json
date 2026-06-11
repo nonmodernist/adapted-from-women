@@ -294,7 +294,7 @@
           "mediaCount": 2,
           "featuredMedia": {
             "type": "poster",
-            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Her_Great_Chance_poster.jpg/300px-Her_Great_Chance_poster.jpg",
+            "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Her_Great_Chance_poster.jpg?width=300",
             "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Her_Great_Chance_poster.jpg",
             "caption": "Poster for the 1918 film Her Great Chance'.",
             "source": "Wikimedia Commons",
@@ -518,7 +518,7 @@
           "mediaCount": 9,
           "featuredMedia": {
             "type": "poster",
-            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cimarron1960.jpg/300px-Cimarron1960.jpg",
+            "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cimarron1960.jpg?width=300",
             "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Cimarron1960.jpg",
             "caption": "Poster for the film Cimarron (1960).",
             "source": "Wikimedia Commons",
@@ -813,7 +813,7 @@
           "mediaCount": 1,
           "featuredMedia": {
             "type": "poster",
-            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Freckles_%281917_film%29_poster.jpg/300px-Freckles_%281917_film%29_poster.jpg",
+            "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Freckles_%281917_film%29_poster.jpg?width=300",
             "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Freckles_%281917_film%29_poster.jpg",
             "caption": "Poster for the 1917 film Freckles.",
             "source": "Wikimedia Commons",
@@ -927,7 +927,7 @@
     }
   },
   "metadata": {
-    "generated": "2026-06-11T19:21:52.606Z",
+    "generated": "2026-06-11T20:04:56.934Z",
     "version": "2.0"
   }
 }

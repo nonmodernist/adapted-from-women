@@ -53,7 +53,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Uncle_Tom%27s_Cabin_TC2.jpg/300px-Uncle_Tom%27s_Cabin_TC2.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Uncle_Tom%27s_Cabin_TC2.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Uncle_Tom%27s_Cabin_TC2.jpg",
         "caption": "Another film still from Uncle Tom's Cabin by the Thanhouser Company.",
         "source": "Wikimedia Commons",
@@ -124,7 +124,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lady_of_Quality_poster.jpg/300px-Lady_of_Quality_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lady_of_Quality_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Lady_of_Quality_poster.jpg",
         "caption": "Poster for the American drama film A Lady of Quality (1913).",
         "source": "Wikimedia Commons",
@@ -195,7 +195,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "advertisement",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Mrs._Wiggs_of_the_Cabbage_Patch_%281914_film%29.jpg/300px-Mrs._Wiggs_of_the_Cabbage_Patch_%281914_film%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mrs._Wiggs_of_the_Cabbage_Patch_%281914_film%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Mrs._Wiggs_of_the_Cabbage_Patch_%281914_film%29.jpg",
         "caption": "Poster for Mrs. Wiggs of the Cabbage Patch (1914 film)",
         "source": "Wikimedia Commons",
@@ -265,7 +265,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Pretty_Sister_of_Jose.jpg/300px-The_Pretty_Sister_of_Jose.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Pretty_Sister_of_Jose.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/The_Pretty_Sister_of_Jose.jpg",
         "caption": "Theatrical poster.",
         "source": "Wikimedia Commons",
@@ -398,7 +398,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Arthur_Maude_-_1916_movie_poster.jpg/300px-Arthur_Maude_-_1916_movie_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Arthur_Maude_-_1916_movie_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Arthur_Maude_-_1916_movie_poster.jpg",
         "caption": "1916 movie poster for the film Lord Loveland Discovers America (1916).",
         "source": "Wikimedia Commons",
@@ -608,7 +608,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Man_From_Bitter_Roots_poster.jpg/300px-Man_From_Bitter_Roots_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Man_From_Bitter_Roots_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Man_From_Bitter_Roots_poster.jpg",
         "caption": "Poster for the 1916 film The Man From Bitter Roots.",
         "source": "Wikimedia Commons",
@@ -643,7 +643,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Judith_of_the_Cumberlands_%281916%29_-_1.jpg/300px-Judith_of_the_Cumberlands_%281916%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Judith_of_the_Cumberlands_%281916%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Judith_of_the_Cumberlands_%281916%29_-_1.jpg",
         "caption": "Still from the American drama film Judith of the Cumberlands (1916), on page 384 of the September 1916 Cine-Mundial (American Spanish language magazine).",
         "source": "Wikimedia Commons",
@@ -678,7 +678,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Freckles_%281917_film%29_poster.jpg/300px-Freckles_%281917_film%29_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Freckles_%281917_film%29_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Freckles_%281917_film%29_poster.jpg",
         "caption": "Poster for the 1917 film Freckles.",
         "source": "Wikimedia Commons",
@@ -713,7 +713,7 @@
       "mediaCount": 11,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Rebecca_of_Sunnybrook_Farm_1917_poster.jpg/300px-Rebecca_of_Sunnybrook_Farm_1917_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rebecca_of_Sunnybrook_Farm_1917_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Rebecca_of_Sunnybrook_Farm_1917_poster.jpg",
         "caption": "Poster for the 1917 film Rebecca of Sunnybrook Farm.",
         "source": "Wikimedia Commons",
@@ -776,7 +776,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "lobby_card",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/An_Alabaster_Box_%281917%2C_lobby_card%29.jpg/300px-An_Alabaster_Box_%281917%2C_lobby_card%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/An_Alabaster_Box_%281917%2C_lobby_card%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/An_Alabaster_Box_%281917%2C_lobby_card%29.jpg",
         "caption": "Lobby card for An Alabaster Box (1917).",
         "source": "Wikimedia Commons",
@@ -846,7 +846,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Secretofstormcountry.jpg/300px-Secretofstormcountry.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Secretofstormcountry.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Secretofstormcountry.jpg",
         "caption": "Poster to the American film The Secret of the Storm Country in 1917.",
         "source": "Wikimedia Commons",
@@ -916,7 +916,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Mr._Opp_1917_film.jpg/300px-Mr._Opp_1917_film.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mr._Opp_1917_film.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Mr._Opp_1917_film.jpg",
         "caption": "Poster for Mr. Opp",
         "source": "Wikimedia Commons",
@@ -986,7 +986,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "production_photo",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Antonio_Moreno_in_%22A_Son_of_the_Hills%22_%28SAYRE_13544%29.jpg/300px-Antonio_Moreno_in_%22A_Son_of_the_Hills%22_%28SAYRE_13544%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Antonio_Moreno_in_%22A_Son_of_the_Hills%22_%28SAYRE_13544%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Antonio_Moreno_in_%22A_Son_of_the_Hills%22_%28SAYRE_13544%29.jpg",
         "caption": "Antonio Moreno in A Son of the Hills, which opened July 19, 1917, at the Clemmer Theater, Seattle.",
         "source": "Wikimedia Commons",
@@ -1022,7 +1022,7 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/The_Primrose_Ring_poster.jpg/300px-The_Primrose_Ring_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Primrose_Ring_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/The_Primrose_Ring_poster.jpg",
         "caption": "Poster for the American drama film The Primrose Ring (1917).",
         "source": "Wikimedia Commons",
@@ -1127,7 +1127,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "advertisement",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Sunshine_Nan_%281918%29_lantern_slide.jpg/300px-Sunshine_Nan_%281918%29_lantern_slide.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sunshine_Nan_%281918%29_lantern_slide.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Sunshine_Nan_%281918%29_lantern_slide.jpg",
         "caption": "This is a lantern slide for the 1918 American silent comedy-drama film Sunshine Nan.",
         "source": "Wikimedia Commons",
@@ -1267,7 +1267,7 @@
       "mediaCount": 7,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/The_Unbeliever_1918_poster.jpg/300px-The_Unbeliever_1918_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Unbeliever_1918_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/The_Unbeliever_1918_poster.jpg",
         "caption": "The Unbeliever is a 1918 American silent propaganda film made towards the end of World War I.",
         "source": "Wikimedia Commons",
@@ -1302,7 +1302,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Uncle_Tom%27s_Cabin_%281918%29_-_2.jpg/300px-Uncle_Tom%27s_Cabin_%281918%29_-_2.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Uncle_Tom%27s_Cabin_%281918%29_-_2.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Uncle_Tom%27s_Cabin_%281918%29_-_2.jpg",
         "caption": "Still for the American drama film Uncle Tom's Cabin (1918) with an unidentified actress and actor and Marguerite Clark (in blackface), on page 33 of the July 20, 1918 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -1463,7 +1463,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Her_Great_Chance_poster.jpg/300px-Her_Great_Chance_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Her_Great_Chance_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Her_Great_Chance_poster.jpg",
         "caption": "Poster for the 1918 film Her Great Chance'.",
         "source": "Wikimedia Commons",
@@ -1498,7 +1498,7 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/The_Dream_Lady.jpg/300px-The_Dream_Lady.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Dream_Lady.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/The_Dream_Lady.jpg",
         "caption": "Poster for the 1918 film The Dream Lady",
         "source": "Wikimedia Commons",
@@ -1534,7 +1534,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/The_Life_Mask_%281918%29_-_1.jpg/300px-The_Life_Mask_%281918%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Life_Mask_%281918%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/The_Life_Mask_%281918%29_-_1.jpg",
         "caption": "Still for the American mystery film The Life Mask (1918) with Olga Petrova, on page 21 of the February 23, 1918 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -1660,7 +1660,7 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Bramble_Bush_%281919%29_-_1.jpg/300px-The_Bramble_Bush_%281919%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Bramble_Bush_%281919%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/The_Bramble_Bush_%281919%29_-_1.jpg",
         "caption": "Still from the American film The Bramble Bush (1919) with Corinne Griffith, page 1845 of the August 30, 1919 Motion Picture News.",
         "source": "Wikimedia Commons",
@@ -1695,7 +1695,7 @@
       "mediaCount": 5,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Come_Out_of_the_Kitchen_%281919%29_-_3.jpg/300px-Come_Out_of_the_Kitchen_%281919%29_-_3.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Come_Out_of_the_Kitchen_%281919%29_-_3.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Come_Out_of_the_Kitchen_%281919%29_-_3.jpg",
         "caption": "Still from the American film Come Out of the Kitchen with Marguerite Clark, on page 34 of the May 31, 1919 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -1941,7 +1941,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/The_Love_Call_%281919%29_-_1.jpg/300px-The_Love_Call_%281919%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Love_Call_%281919%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/The_Love_Call_%281919%29_-_1.jpg",
         "caption": "Still for the American western comedy film The Love Call (1919) with Jack Hoxie and Billie Rhodes, on page 1474 of the March 15, 1919 Moving Picture World.",
         "source": "Wikimedia Commons",
@@ -2011,7 +2011,7 @@
       "mediaCount": 8,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Polly_of_the_Storm_Country_poster.jpg/300px-Polly_of_the_Storm_Country_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Polly_of_the_Storm_Country_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Polly_of_the_Storm_Country_poster.jpg",
         "caption": "Poster for the 1920 film Polly of the Storm Country.",
         "source": "Wikimedia Commons",
@@ -2046,7 +2046,7 @@
       "mediaCount": 5,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Love%27s_Harvest_%281920%29_-_2.jpg/300px-Love%27s_Harvest_%281920%29_-_2.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Love%27s_Harvest_%281920%29_-_2.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Love%27s_Harvest_%281920%29_-_2.jpg",
         "caption": "Still from the American drama film Love's Harvest (1920) with Shirley Mason looking back over a bench, on page 67 of the May 29, 1920 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -2081,7 +2081,7 @@
       "mediaCount": 5,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Her_Elephant_Man_%281920%29_-_1.jpg/300px-Her_Elephant_Man_%281920%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Her_Elephant_Man_%281920%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Her_Elephant_Man_%281920%29_-_1.jpg",
         "caption": "Still from the American circus drama film Her Elephant Man (1920) with Alan Roscoe and Shirley Mason, on page 48 of the January 31, 1920 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -2116,7 +2116,7 @@
       "mediaCount": 12,
       "featuredMedia": {
         "type": "advertisement",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Humoresque_%281920%29_-_Ad_2.jpg/300px-Humoresque_%281920%29_-_Ad_2.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Humoresque_%281920%29_-_Ad_2.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Humoresque_%281920%29_-_Ad_2.jpg",
         "caption": "Advertisement for the American drama film Humoresque (1920) with Vera Gordon, on page 4077 of the May 15, 1920 Motion Picture News.",
         "source": "Wikimedia Commons",
@@ -2186,7 +2186,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Something_Different_%281920%29_-_2.jpg/300px-Something_Different_%281920%29_-_2.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Something_Different_%281920%29_-_2.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Something_Different_%281920%29_-_2.jpg",
         "caption": "Still from the American drama film Something Different (1920) with Ward Crane and Constance Binney, on page 83 of the February 12, 1921 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -2256,7 +2256,7 @@
       "mediaCount": 6,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Out_of_the_Storm_%281920%29_-_4.jpg/300px-Out_of_the_Storm_%281920%29_-_4.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Out_of_the_Storm_%281920%29_-_4.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Out_of_the_Storm_%281920%29_-_4.jpg",
         "caption": "Still from the American drama film Out of the Storm (1920) with John Bowers, on page 70 of the May 29, 1920 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -2326,7 +2326,7 @@
       "mediaCount": 8,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/The_Little_%27Fraid_Lady_%281920%29_-_5.jpg/300px-The_Little_%27Fraid_Lady_%281920%29_-_5.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Little_%27Fraid_Lady_%281920%29_-_5.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/The_Little_%27Fraid_Lady_%281920%29_-_5.jpg",
         "caption": "Still from the American drama film The Little 'Fraid Lady (1920) with Mae Marsh, on page 95 of the December 11, 1920 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -2494,7 +2494,7 @@
       "mediaCount": 12,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Miss_Lulu_Bett_1921_lobby_card.jpg/300px-Miss_Lulu_Bett_1921_lobby_card.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Miss_Lulu_Bett_1921_lobby_card.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Miss_Lulu_Bett_1921_lobby_card.jpg",
         "caption": "Poster for Miss Lulu Bett (1921)",
         "source": "Wikimedia Commons",
@@ -2599,7 +2599,7 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/The_Charm_School_-_1921.jpg/300px-The_Charm_School_-_1921.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Charm_School_-_1921.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/The_Charm_School_-_1921.jpg",
         "caption": "For article The Charm School, this is a theatrical poster for the 1921 film The Charm School, and was first published before 1923.",
         "source": "Wikimedia Commons",
@@ -2634,7 +2634,7 @@
       "mediaCount": 5,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Just_Around_the_Corner_poster.jpg/300px-Just_Around_the_Corner_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Just_Around_the_Corner_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Just_Around_the_Corner_poster.jpg",
         "caption": "Poster for the American drama film Just Around the Corner (1921).",
         "source": "Wikimedia Commons",
@@ -2740,7 +2740,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "advertisement",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Silent_Years_%281921%29.jpg/300px-Silent_Years_%281921%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Silent_Years_%281921%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Silent_Years_%281921%29.jpg",
         "caption": "Advertisement for the 1921 film Silent Years.",
         "source": "Wikimedia Commons",
@@ -2915,7 +2915,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/A_Woman%27s_Woman_%281922%29_-_Alden_%26_Herbert.jpg/300px-A_Woman%27s_Woman_%281922%29_-_Alden_%26_Herbert.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/A_Woman%27s_Woman_%281922%29_-_Alden_%26_Herbert.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/A_Woman%27s_Woman_%281922%29_-_Alden_%26_Herbert.jpg",
         "caption": "Still from the American film A Woman's Woman (1922) with Mary Alden and Holmes Herbert, page 64 of the December 1922 Photoplay.",
         "source": "Wikimedia Commons",
@@ -2950,7 +2950,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/The_Country_Flapper.jpg/300px-The_Country_Flapper.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Country_Flapper.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/The_Country_Flapper.jpg",
         "caption": "Poster for the 1922 film The Country Flapper",
         "source": "Wikimedia Commons",
@@ -2985,7 +2985,7 @@
       "mediaCount": 9,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Tess_of_the_Storm_Country_1922.jpg/300px-Tess_of_the_Storm_Country_1922.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tess_of_the_Storm_Country_1922.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Tess_of_the_Storm_Country_1922.jpg",
         "caption": "Movie poster",
         "source": "Wikimedia Commons",
@@ -3265,7 +3265,7 @@
       "mediaCount": 9,
       "featuredMedia": {
         "type": "advertisement",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Long_Live_the_King_%281923%29_-_3.jpg/300px-Long_Live_the_King_%281923%29_-_3.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Long_Live_the_King_%281923%29_-_3.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Long_Live_the_King_%281923%29_-_3.jpg",
         "caption": "Advertisement for the American drama film Long Live the King (1923) with Jackie Coogan, from the insert after page 8 of the December 30, 1923 Film Daily.",
         "source": "Wikimedia Commons",
@@ -3300,7 +3300,7 @@
       "mediaCount": 5,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/The_Glimpses_of_the_Moon_%281923%29_Poster.jpg/300px-The_Glimpses_of_the_Moon_%281923%29_Poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Glimpses_of_the_Moon_%281923%29_Poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/The_Glimpses_of_the_Moon_%281923%29_Poster.jpg",
         "caption": "Poster for the American drama film The Glimpses of the Moon (1923).",
         "source": "Wikimedia Commons",
@@ -3335,7 +3335,7 @@
       "mediaCount": 10,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Black-oxen-1923.jpg/300px-Black-oxen-1923.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Black-oxen-1923.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Black-oxen-1923.jpg",
         "caption": "Poster for the 1923 film Black Oxen.",
         "source": "Wikimedia Commons",
@@ -3405,7 +3405,7 @@
       "mediaCount": 7,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/The-flame-of-life-1923.jpg/300px-The-flame-of-life-1923.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The-flame-of-life-1923.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/The-flame-of-life-1923.jpg",
         "caption": "Window poster for the American drama film The Flame of Life (1923). There are no copyright marks. At lower left is Country of origin USA. At lower right is The Morgan Litho Co Cleveland USA-they printed the poster.",
         "source": "Wikimedia Commons",
@@ -3440,7 +3440,7 @@
       "mediaCount": 5,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Poster_The_Nth_Commandment.jpg/300px-Poster_The_Nth_Commandment.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Poster_The_Nth_Commandment.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Poster_The_Nth_Commandment.jpg",
         "caption": "Poster for the film The Nth Commandment (1923).",
         "source": "Wikimedia Commons",
@@ -3475,7 +3475,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "advertisement",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/The_Leopardess_%281923%29_-_1.jpg/300px-The_Leopardess_%281923%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Leopardess_%281923%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/The_Leopardess_%281923%29_-_1.jpg",
         "caption": "Advertisement for the American romantic drama film The Leopardess (1923) with Alice Brady, page 15 of an insert of upcoming Paramount releases in 1923, from the collection of loose pages from the 1923 Exhibitors Trade Review [820 of 1164].",
         "source": "Wikimedia Commons",
@@ -3580,7 +3580,7 @@
       "mediaCount": 6,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/So_Big_poster.jpg/300px-So_Big_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/So_Big_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/So_Big_poster.jpg",
         "caption": "Poster for the American drama film So Big (1924).",
         "source": "Wikimedia Commons",
@@ -3825,7 +3825,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Broken_Laws_%281924%29_poster.jpg/300px-Broken_Laws_%281924%29_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Broken_Laws_%281924%29_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Broken_Laws_%281924%29_poster.jpg",
         "caption": "Poster for the American drama film Broken Laws (1924),",
         "source": "Wikimedia Commons",
@@ -3895,7 +3895,7 @@
       "mediaCount": 5,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FeetofClay-longposter-1924.jpg/300px-FeetofClay-longposter-1924.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/FeetofClay-longposter-1924.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/FeetofClay-longposter-1924.jpg",
         "caption": "Feet of Clay is a 1924 American silent drama film directed and produced by Cecil B. DeMille, starring Vera Reynolds and Rod La Rocque, and with set design by Norman Bel Geddes. This movie poster clearly has no copyright mark and was made pre 1978, thus public domain.",
         "source": "Wikimedia Commons",
@@ -4000,7 +4000,7 @@
       "mediaCount": 16,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Stella_Dallas_%281925%29_poster_1.jpg/300px-Stella_Dallas_%281925%29_poster_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Stella_Dallas_%281925%29_poster_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Stella_Dallas_%281925%29_poster_1.jpg",
         "caption": "Ronald Colman and Lois Moran in the American drama film Stella Dallas (1925) - lobby card.",
         "source": "Wikimedia Commons",
@@ -4105,7 +4105,7 @@
       "mediaCount": 9,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Chickie_%281925%29_-_7.jpg/300px-Chickie_%281925%29_-_7.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chickie_%281925%29_-_7.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Chickie_%281925%29_-_7.jpg",
         "caption": "Still from the American drama film Chickie (1925) with Hobart Bosworth and Dorothy Mackaill, on page 73 of the May 9, 1925 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -4210,7 +4210,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "advertisement",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pearl_of_Love_%281925%29_-_1.jpg/300px-Pearl_of_Love_%281925%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pearl_of_Love_%281925%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Pearl_of_Love_%281925%29_-_1.jpg",
         "caption": "Advertisement for the American drama film Pearl of Love (1925), listed here as The Pearl of Love, on page 4 of the September 1, 1925 Film Daily.",
         "source": "Wikimedia Commons",
@@ -4316,7 +4316,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Laddie1926.jpg/300px-Laddie1926.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Laddie1926.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Laddie1926.jpg",
         "caption": "This is an image of the poster for the 1926 film Laddie, printed by the Otis Lithograph Co., Cleveland, Ohio.The poster has an image of the book's author Gene Stratton-Porter.",
         "source": "Wikimedia Commons",
@@ -4351,7 +4351,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Lovey_Mary.jpg/300px-Lovey_Mary.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lovey_Mary.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Lovey_Mary.jpg",
         "caption": "Poster for the 1926 film Lovey Mary",
         "source": "Wikimedia Commons",
@@ -4526,7 +4526,7 @@
       "mediaCount": 5,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Footloose_Widows_poster.jpg/300px-Footloose_Widows_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Footloose_Widows_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Footloose_Widows_poster.jpg",
         "caption": "Poster for the American comedy film Footloose Widows (1926). There are no copyright marks on the item. At lower left is Printed by Artcraft Inc Phila USA.",
         "source": "Wikimedia Commons",
@@ -4631,7 +4631,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "advertisement",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/A_Poor_Girl%27s_Romance_%281926%29_-_1.jpg/300px-A_Poor_Girl%27s_Romance_%281926%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/A_Poor_Girl%27s_Romance_%281926%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/A_Poor_Girl%27s_Romance_%281926%29_-_1.jpg",
         "caption": "Advertisement for the American drama film A Poor Girl's Romance (1926), on pages 84 and 85 of the May 23, 1925 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -4666,7 +4666,7 @@
       "mediaCount": 5,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/When_Love_Grows_Cold_%281926%29_-_5.jpg/300px-When_Love_Grows_Cold_%281926%29_-_5.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/When_Love_Grows_Cold_%281926%29_-_5.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/When_Love_Grows_Cold_%281926%29_-_5.jpg",
         "caption": "Still from the American drama film When Love Grows Cold (1926) with Natacha Rambova, on page 113 of the February 20, 1926 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -4771,7 +4771,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_Harvester_%281927_film%29.jpg/300px-The_Harvester_%281927_film%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Harvester_%281927_film%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/The_Harvester_%281927_film%29.jpg",
         "caption": "Scene from the American film The Harvester (1927)",
         "source": "Wikimedia Commons",
@@ -4841,7 +4841,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Perch_of_the_Devil.jpg/300px-Perch_of_the_Devil.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Perch_of_the_Devil.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Perch_of_the_Devil.jpg",
         "caption": "Poster for the 1927 film Perch of the Devil",
         "source": "Wikimedia Commons",
@@ -4876,7 +4876,7 @@
       "mediaCount": 6,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/SINGED_Poster_Blanche_Sweet.jpg/300px-SINGED_Poster_Blanche_Sweet.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SINGED_Poster_Blanche_Sweet.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/SINGED_Poster_Blanche_Sweet.jpg",
         "caption": "Poster by H. C. Miner Litho Co., for the American drama film Singed (1927).",
         "source": "Wikimedia Commons",
@@ -4911,7 +4911,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "lobby_card",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Honeymoon_Hate_lobby_card.jpg/300px-Honeymoon_Hate_lobby_card.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Honeymoon_Hate_lobby_card.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Honeymoon_Hate_lobby_card.jpg",
         "caption": "Lobby card for the American romantic comedy film Honeymoon Hate (1927).",
         "source": "Wikimedia Commons",
@@ -4946,7 +4946,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/The_Sea_Tiger_-_1927.jpg/300px-The_Sea_Tiger_-_1927.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Sea_Tiger_-_1927.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/The_Sea_Tiger_-_1927.jpg",
         "caption": "Poster for the American drama film The Sea Tiger (1927). There are no copyright marks on this poster. At bottom left is Printed in USA. The red mark at upper right appears to be some type of printers' mark or logo. It's also seen on this window card",
         "source": "Wikimedia Commons",
@@ -4981,7 +4981,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Body_and_Soul_1927_poster.jpg/300px-Body_and_Soul_1927_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Body_and_Soul_1927_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Body_and_Soul_1927_poster.jpg",
         "caption": "Poster for Body and Soul",
         "source": "Wikimedia Commons",
@@ -5016,7 +5016,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/The_Silent_Rider_%281927%29.jpg/300px-The_Silent_Rider_%281927%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Silent_Rider_%281927%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/The_Silent_Rider_%281927%29.jpg",
         "caption": "Poster of the 1927 movie The Silent Rider",
         "source": "Wikimedia Commons",
@@ -5051,7 +5051,7 @@
       "mediaCount": 5,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Topsy_and_Eva_poster.jpg/300px-Topsy_and_Eva_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Topsy_and_Eva_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Topsy_and_Eva_poster.jpg",
         "caption": "Poster for w:Topsy and Eva",
         "source": "Wikimedia Commons",
@@ -5086,7 +5086,7 @@
       "mediaCount": 13,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Ramona_lobby_card.jpg/300px-Ramona_lobby_card.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ramona_lobby_card.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Ramona_lobby_card.jpg",
         "caption": "Lobby card for the American drama film Ramona (1928).",
         "source": "Wikimedia Commons",
@@ -5121,7 +5121,7 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Someone_to_Love_%28Paramount_1928%29_One_Sheet_Style_A.jpg/300px-Someone_to_Love_%28Paramount_1928%29_One_Sheet_Style_A.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Someone_to_Love_%28Paramount_1928%29_One_Sheet_Style_A.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Someone_to_Love_%28Paramount_1928%29_One_Sheet_Style_A.jpg",
         "caption": "From a scan at Heritage Auctions.",
         "source": "Wikimedia Commons",
@@ -5156,7 +5156,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "production_photo",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Silent_film_juvenile_John_Fox_in_%22Freckles%22_%28SAYRE_16%29.jpg/300px-Silent_film_juvenile_John_Fox_in_%22Freckles%22_%28SAYRE_16%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Silent_film_juvenile_John_Fox_in_%22Freckles%22_%28SAYRE_16%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Silent_film_juvenile_John_Fox_in_%22Freckles%22_%28SAYRE_16%29.jpg",
         "caption": "Silent film juvenile actor John Fox (1909-1997) in the American comedy film Freckles (1928). Subjects (LCTGM): children as actors, motion pictures",
         "source": "Wikimedia Commons",
@@ -5226,7 +5226,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sally%27s_Shoulders_poster.jpg/300px-Sally%27s_Shoulders_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sally%27s_Shoulders_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Sally%27s_Shoulders_poster.jpg",
         "caption": "Window poster for the American drama film Sally's Shoulders (1928).",
         "source": "Wikimedia Commons",
@@ -5296,7 +5296,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Wheel_of_Chance.jpg/300px-Wheel_of_Chance.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Wheel_of_Chance.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Wheel_of_Chance.jpg",
         "caption": "Poster for the 1928 film w:Wheel of Chance",
         "source": "Wikimedia Commons",
@@ -5359,7 +5359,7 @@
       "mediaCount": 15,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Poster_of_Show_Boat_%281929_film%29.jpg/300px-Poster_of_Show_Boat_%281929_film%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Poster_of_Show_Boat_%281929_film%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Poster_of_Show_Boat_%281929_film%29.jpg",
         "caption": "This is a poster for the 1929 American pre-Code musical film, Show Boat.",
         "source": "Wikimedia Commons",
@@ -5394,7 +5394,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Scandal_%281929%29_poster.jpg/300px-Scandal_%281929%29_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Scandal_%281929%29_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Scandal_%281929%29_poster.jpg",
         "caption": "Swedish poster for Scandal",
         "source": "Wikimedia Commons",
@@ -5429,7 +5429,7 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/The_Single_Standard_Lobby_Card.jpg/300px-The_Single_Standard_Lobby_Card.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Single_Standard_Lobby_Card.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/The_Single_Standard_Lobby_Card.jpg",
         "caption": "Lobby card for the 1929 American film The Single Standard",
         "source": "Wikimedia Commons",
@@ -5500,7 +5500,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Batwhispers.jpg/300px-Batwhispers.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Batwhispers.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Batwhispers.jpg",
         "caption": "Poster for the 1930 film The Bat Whispers.",
         "source": "Wikimedia Commons",
@@ -5668,7 +5668,7 @@
       "mediaCount": 11,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/The_Divorcee_-_Rotogravure_One_Sheet_27_X_41.jpg/300px-The_Divorcee_-_Rotogravure_One_Sheet_27_X_41.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Divorcee_-_Rotogravure_One_Sheet_27_X_41.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/The_Divorcee_-_Rotogravure_One_Sheet_27_X_41.jpg",
         "caption": "Definitive public domain status as a published work on January 1, 2026. The image features Norma Shearer and some men in top hats.",
         "source": "Wikimedia Commons",
@@ -5738,7 +5738,7 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/The_Princess_and_the_Plumber_poster.jpg/300px-The_Princess_and_the_Plumber_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Princess_and_the_Plumber_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/The_Princess_and_the_Plumber_poster.jpg",
         "caption": "Window poster for the American film The Princess and the Plumber (1930). There are no copyright marks. At bottom right is Lithographed in USA by the H. C. Miner Litho. Co. NY. 30288.",
         "source": "Wikimedia Commons",
@@ -5984,7 +5984,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dude_Wrangler_poster.jpg/300px-Dude_Wrangler_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dude_Wrangler_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Dude_Wrangler_poster.jpg",
         "caption": "Window poster for the 1930 film The Dude Wrangler.",
         "source": "Wikimedia Commons",
@@ -6161,7 +6161,7 @@
       "mediaCount": 10,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Cimarron_1931_Swedish_Film_Poster.png/300px-Cimarron_1931_Swedish_Film_Poster.png",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cimarron_1931_Swedish_Film_Poster.png?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Cimarron_1931_Swedish_Film_Poster.png",
         "caption": "Filmaffisch för filmen Cimarron från 1931.",
         "source": "Wikimedia Commons",
@@ -6266,7 +6266,7 @@
       "mediaCount": 10,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/A_Free_Soul_%281931%29_film_poster.jpg/300px-A_Free_Soul_%281931%29_film_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/A_Free_Soul_%281931%29_film_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/A_Free_Soul_%281931%29_film_poster.jpg",
         "caption": "A Free Soul (1931) film poster",
         "source": "Wikimedia Commons",
@@ -6862,7 +6862,7 @@
       "mediaCount": 12,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Poster_-_Faithless_01.jpg/300px-Poster_-_Faithless_01.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Poster_-_Faithless_01.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Poster_-_Faithless_01.jpg",
         "caption": "Lobby card for the 1932 film Faithless.",
         "source": "Wikimedia Commons",
@@ -7037,7 +7037,7 @@
       "mediaCount": 13,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Little_Women_%281933%29_poster.jpg/300px-Little_Women_%281933%29_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Little_Women_%281933%29_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Little_Women_%281933%29_poster.jpg",
         "caption": "This poster is believed to be in the public domain. If viewed on January 1, 2029 or later this work has definitively entered the American public domain.",
         "source": "Wikimedia Commons",
@@ -7107,7 +7107,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Pick-Up_1933_poster.jpg/300px-Pick-Up_1933_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pick-Up_1933_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Pick-Up_1933_poster.jpg",
         "caption": "Poster del film Pick-Up",
         "source": "Wikimedia Commons",
@@ -7317,7 +7317,7 @@
       "mediaCount": 10,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Imitation_of_Life_%281934_poster%29.jpg/300px-Imitation_of_Life_%281934_poster%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Imitation_of_Life_%281934_poster%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Imitation_of_Life_%281934_poster%29.jpg",
         "caption": "Theatrical release poster of the 1934 film Imitation of Life.",
         "source": "Wikimedia Commons",
@@ -7668,7 +7668,7 @@
       "mediaCount": 10,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Roberta_1935_movie_poster.jpg/300px-Roberta_1935_movie_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Roberta_1935_movie_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Roberta_1935_movie_poster.jpg",
         "caption": "Poster for the 1935 film Roberta.",
         "source": "Wikimedia Commons",
@@ -7976,7 +7976,7 @@
       "mediaCount": 13,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Show_Boat_%281936_film_poster%29.jpg/300px-Show_Boat_%281936_film_poster%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Show_Boat_%281936_film_poster%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Show_Boat_%281936_film_poster%29.jpg",
         "caption": "Poster for Show Boat (1936)",
         "source": "Wikimedia Commons",
@@ -8011,7 +8011,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Love_Before_Breakfast_%281936_poster%29.jpg/300px-Love_Before_Breakfast_%281936_poster%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Love_Before_Breakfast_%281936_poster%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Love_Before_Breakfast_%281936_poster%29.jpg",
         "caption": "Theatrical release poster for the 1936 film Love Before Breakfast.",
         "source": "Wikimedia Commons",
@@ -8431,7 +8431,7 @@
       "mediaCount": 16,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bringing_Up_Baby_%281938_poster%29.jpg/300px-Bringing_Up_Baby_%281938_poster%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bringing_Up_Baby_%281938_poster%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bringing_Up_Baby_%281938_poster%29.jpg",
         "caption": "Poster for the theatrical run of the 1938 American film Bringing Up Baby.",
         "source": "Wikimedia Commons",
@@ -8466,7 +8466,7 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/1938_poster_Romance_of_the_Limberlost.jpg/300px-1938_poster_Romance_of_the_Limberlost.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/1938_poster_Romance_of_the_Limberlost.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/1938_poster_Romance_of_the_Limberlost.jpg",
         "caption": "Poster for the 1938 film Romance of the Limberlost.",
         "source": "Wikimedia Commons",
@@ -8676,7 +8676,7 @@
       "mediaCount": 15,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Gone_With_the_Wind_Poster_1939.jpg/300px-Gone_With_the_Wind_Poster_1939.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gone_With_the_Wind_Poster_1939.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Gone_With_the_Wind_Poster_1939.jpg",
         "caption": "Poster for the 1939 film Gone with the Wind. The scene is where Rhett dances with Scarlett after having bid for her in the charity dance auction. The item has no copyright markings on it as can be seen in the links above. At bottom is DP, Litho in USA (looks like) 6261, and Tooker Litho Co., NY--they printed the poster.",
         "source": "Wikimedia Commons",
@@ -9271,7 +9271,7 @@
       "mediaCount": 11,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Now%2C_Voyager_%281942_poster%29.jpg/300px-Now%2C_Voyager_%281942_poster%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Now%2C_Voyager_%281942_poster%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Now%2C_Voyager_%281942_poster%29.jpg",
         "caption": "Theatrical release poster of the 1942 American film Now, Voyager.",
         "source": "Wikimedia Commons",
@@ -9516,7 +9516,7 @@
       "mediaCount": 11,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Laura_%281944_film_poster%29.jpg/300px-Laura_%281944_film_poster%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Laura_%281944_film_poster%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Laura_%281944_film_poster%29.jpg",
         "caption": "Theatrical release poster for the 1944 film Laura.",
         "source": "Wikimedia Commons",
@@ -9656,7 +9656,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Having_A_Wonderful_Crime.jpg/300px-Having_A_Wonderful_Crime.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Having_A_Wonderful_Crime.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Having_A_Wonderful_Crime.jpg",
         "caption": "Movie Poster for Having A Wonderful Crime",
         "source": "Wikimedia Commons",
@@ -9691,7 +9691,7 @@
       "mediaCount": 13,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/A_Tree_Grows_in_Brooklyn_%281945_poster%29.jpg/300px-A_Tree_Grows_in_Brooklyn_%281945_poster%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/A_Tree_Grows_in_Brooklyn_%281945_poster%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/A_Tree_Grows_in_Brooklyn_%281945_poster%29.jpg",
         "caption": "Theatrical release poster for the 1945 film A Tree Grows in Brooklyn.",
         "source": "Wikimedia Commons",
@@ -10592,7 +10592,7 @@
       "mediaCount": 16,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panic_in_the_Streets_%281950%29.jpg/300px-Panic_in_the_Streets_%281950%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Panic_in_the_Streets_%281950%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Panic_in_the_Streets_%281950%29.jpg",
         "caption": "Panic in the Streets poster",
         "source": "Wikimedia Commons",
@@ -10627,7 +10627,7 @@
       "mediaCount": 18,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/In_a_Lonely_Place_%281950_poster%29.jpg/300px-In_a_Lonely_Place_%281950_poster%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/In_a_Lonely_Place_%281950_poster%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/In_a_Lonely_Place_%281950_poster%29.jpg",
         "caption": "Theatrical release poster for the 1950 film In a Lonely Place",
         "source": "Wikimedia Commons",
@@ -10732,7 +10732,7 @@
       "mediaCount": 8,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/3CameHomePoster.jpg/300px-3CameHomePoster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/3CameHomePoster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/3CameHomePoster.jpg",
         "caption": "Poster of the film Three Came Home",
         "source": "Wikimedia Commons",
@@ -11082,7 +11082,7 @@
       "mediaCount": 15,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Gentlemen_Prefer_Blondes_1953_magazine_poster.jpg/300px-Gentlemen_Prefer_Blondes_1953_magazine_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gentlemen_Prefer_Blondes_1953_magazine_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Gentlemen_Prefer_Blondes_1953_magazine_poster.jpg",
         "caption": "Gentlemen Prefer Blondes poster advertisement in Modern Screen magazine with no copyright notice, thus making it public domain.",
         "source": "Wikimedia Commons",
@@ -11399,7 +11399,7 @@
       "mediaCount": 9,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/There%27s_Always_Tomorrow_poster.jpg/300px-There%27s_Always_Tomorrow_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/There%27s_Always_Tomorrow_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/There%27s_Always_Tomorrow_poster.jpg",
         "caption": "Poster for the film en:There's Always Tomorrow",
         "source": "Wikimedia Commons",
@@ -11434,7 +11434,7 @@
       "mediaCount": 14,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Giant_%281956%29_poster.jpg/300px-Giant_%281956%29_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Giant_%281956%29_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Giant_%281956%29_poster.jpg",
         "caption": "US theatrical poster for the film Giant (1956).",
         "source": "Wikimedia Commons",
@@ -11540,7 +11540,7 @@
       "mediaCount": 7,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Imitation_of_Life_1959_poster.jpg/300px-Imitation_of_Life_1959_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Imitation_of_Life_1959_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Imitation_of_Life_1959_poster.jpg",
         "caption": "Poster for the film Imitation of Life (1959 film)",
         "source": "Wikimedia Commons",
@@ -11680,7 +11680,7 @@
       "mediaCount": 9,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cimarron1960.jpg/300px-Cimarron1960.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cimarron1960.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Cimarron1960.jpg",
         "caption": "Poster for the film Cimarron (1960).",
         "source": "Wikimedia Commons",
@@ -11855,7 +11855,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Molly_Make-Believe_1916_newspaper_scene.jpg/300px-Molly_Make-Believe_1916_newspaper_scene.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Molly_Make-Believe_1916_newspaper_scene.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Molly_Make-Believe_1916_newspaper_scene.jpg",
         "caption": "Scene from Molly Make-Believe",
         "source": "Wikimedia Commons",
@@ -12380,7 +12380,7 @@
       "mediaCount": 10,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/GreatFlamarion.jpg/300px-GreatFlamarion.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/GreatFlamarion.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/GreatFlamarion.jpg",
         "caption": "Poster for the 1945 film The Great Flamarion. The item has no copyright markings on it as can be seen in the links above. At bottom is Country of origin USA, Morgan Litho Corp, Cleveland, O--they printed the poster-- and 27604. These look to be associated with the printing of the poster.",
         "source": "Wikimedia Commons",
@@ -12415,7 +12415,7 @@
       "mediaCount": 14,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Grand_Hotel_Poster.jpg/300px-Grand_Hotel_Poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Grand_Hotel_Poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Grand_Hotel_Poster.jpg",
         "caption": "Poster for the film Grand Hotel (1932).",
         "source": "Wikimedia Commons",
@@ -12520,7 +12520,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/The_Love_Gambler_%28poster%29.jpg/300px-The_Love_Gambler_%28poster%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Love_Gambler_%28poster%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/The_Love_Gambler_%28poster%29.jpg",
         "caption": "Poster for the American westerb film The Love Gambler (1922).",
         "source": "Wikimedia Commons",
@@ -12835,7 +12835,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Adele_1919_film_poster.jpg/300px-Adele_1919_film_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Adele_1919_film_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Adele_1919_film_poster.jpg",
         "caption": "Adele 1919 film poster",
         "source": "Wikimedia Commons",
@@ -13284,7 +13284,7 @@
       "mediaCount": 10,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Palace_of_Darkened_Windows_%281920%29_-_3.jpg/300px-The_Palace_of_Darkened_Windows_%281920%29_-_3.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Palace_of_Darkened_Windows_%281920%29_-_3.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/The_Palace_of_Darkened_Windows_%281920%29_-_3.jpg",
         "caption": "Still from the American comedy drama film The Palace of Darkened Windows (1920) with street acrobats, on page 68 of the August 14, 1920 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -13354,7 +13354,7 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/How_Could_You_Jean_Poster.jpg/300px-How_Could_You_Jean_Poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/How_Could_You_Jean_Poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/How_Could_You_Jean_Poster.jpg",
         "caption": "Movie poster for the 1918 film How Could You, Jean?",
         "source": "Wikimedia Commons",
@@ -13494,7 +13494,7 @@
       "mediaCount": 5,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/When_a_Woman_Sins_1918_poster.jpg/300px-When_a_Woman_Sins_1918_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/When_a_Woman_Sins_1918_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/When_a_Woman_Sins_1918_poster.jpg",
         "caption": "Stone litho movie poster for the American drama film When a Woman Sins (1918) with Theda Bara.",
         "source": "Wikimedia Commons",
@@ -13669,7 +13669,7 @@
       "mediaCount": 5,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/SLNSW_6646_Otto_Kruger_Karen_Morley_and_Nils_Asther_in_The_Crime_Doctor_and_Walter_Huston_Frances_Dee_and_Minna_Gombell_in_Keep_em_Rolling_Capitol_Theatre_posters.jpg/300px-SLNSW_6646_Otto_Kruger_Karen_Morley_and_Nils_Asther_in_The_Crime_Doctor_and_Walter_Huston_Frances_Dee_and_Minna_Gombell_in_Keep_em_Rolling_Capitol_Theatre_posters.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SLNSW_6646_Otto_Kruger_Karen_Morley_and_Nils_Asther_in_The_Crime_Doctor_and_Walter_Huston_Frances_Dee_and_Minna_Gombell_in_Keep_em_Rolling_Capitol_Theatre_posters.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/SLNSW_6646_Otto_Kruger_Karen_Morley_and_Nils_Asther_in_The_Crime_Doctor_and_Walter_Huston_Frances_Dee_and_Minna_Gombell_in_Keep_em_Rolling_Capitol_Theatre_posters.jpg",
         "caption": "Otto Kruger, Karen Morley and Nils Asther in The Crime Doctor (1934), Walter Huston, Frances Dee and Minna Gombell in Keep 'em Rolling (1934), The Emperor Jones (1933), and The Ninth Guest (1933), Capitol Theatre posters",
         "source": "Wikimedia Commons",
@@ -13704,7 +13704,7 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Thehiddenscar-poster-1916.jpg/300px-Thehiddenscar-poster-1916.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Thehiddenscar-poster-1916.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Thehiddenscar-poster-1916.jpg",
         "caption": "Poster for The Hidden Scar (not the best quality, replace when a better scan is available)",
         "source": "Wikimedia Commons",
@@ -13802,7 +13802,7 @@
       "mediaCount": 10,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/ApplauseLobbyCard.jpg/300px-ApplauseLobbyCard.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ApplauseLobbyCard.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/ApplauseLobbyCard.jpg",
         "caption": "Lobby Card for Applause (1929)",
         "source": "Wikimedia Commons",
@@ -14013,7 +14013,7 @@
       "mediaCount": 10,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mannequin_poster.jpg/300px-Mannequin_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mannequin_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Mannequin_poster.jpg",
         "caption": "Poster for the American drama film Mannequin (1937). There are no copyright marks on the poster. At bottom left is \"C\"-poster version \"C\", Litho in USA #1224. At bottom right is Tooker Litho Co., NY-they printed the poster.",
         "source": "Wikimedia Commons",
@@ -14153,7 +14153,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/The_Big_Wave_poster.jpg/300px-The_Big_Wave_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Big_Wave_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/The_Big_Wave_poster.jpg",
         "caption": "Poster for Tad Danielewski's The Big Wave (1962)",
         "source": "Wikimedia Commons",
@@ -14258,7 +14258,7 @@
       "mediaCount": 13,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Good_Earth_%281937%29_poster.jpg/300px-The_Good_Earth_%281937%29_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Good_Earth_%281937%29_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/The_Good_Earth_%281937%29_poster.jpg",
         "caption": "Poster of the film The Good Earth, released in 1937",
         "source": "Wikimedia Commons",
@@ -14391,7 +14391,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Louisiana_%281919%29_-_Beery_%26_Martin.jpg/300px-Louisiana_%281919%29_-_Beery_%26_Martin.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Louisiana_%281919%29_-_Beery_%26_Martin.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Louisiana_%281919%29_-_Beery_%26_Martin.jpg",
         "caption": "Still from the American film Louisiana (1919) with Noah Beery and Vivian Martin, page 1080 of the August 2, 1919 Motion Picture News.",
         "source": "Wikimedia Commons",
@@ -14496,7 +14496,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Secret_Love_%281916_film%29_still.jpg/300px-Secret_Love_%281916_film%29_still.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Secret_Love_%281916_film%29_still.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Secret_Love_%281916_film%29_still.jpg",
         "caption": "Secret Love (1916 film) still",
         "source": "Wikimedia Commons",
@@ -14566,7 +14566,7 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/The_Dawn_of_a_Tomorrow_%281924%29_-_3.jpg/300px-The_Dawn_of_a_Tomorrow_%281924%29_-_3.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Dawn_of_a_Tomorrow_%281924%29_-_3.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/The_Dawn_of_a_Tomorrow_%281924%29_-_3.jpg",
         "caption": "Still from the American drama film The Dawn of a Tomorrow (1924) with Jacqueline Logan, from page 20 of the February 16, 1924 Exhibitors Trade Review.",
         "source": "Wikimedia Commons",
@@ -14741,7 +14741,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Jewel_1915_newspaper.jpg/300px-Jewel_1915_newspaper.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jewel_1915_newspaper.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Jewel_1915_newspaper.jpg",
         "caption": "Jewel poster from a newspaper",
         "source": "Wikimedia Commons",
@@ -14776,7 +14776,7 @@
       "mediaCount": 11,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/A_Chapter_in_Her_Life_%281923%29_Poster.jpg/300px-A_Chapter_in_Her_Life_%281923%29_Poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/A_Chapter_in_Her_Life_%281923%29_Poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/A_Chapter_in_Her_Life_%281923%29_Poster.jpg",
         "caption": "Poster for the American drama film A Chapter in Her Life (1923) with Jacqueline Gadsden.",
         "source": "Wikimedia Commons",
@@ -14972,7 +14972,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Nobody%27s_Bride_poster.jpg/300px-Nobody%27s_Bride_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobody%27s_Bride_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Nobody%27s_Bride_poster.jpg",
         "caption": "Description",
         "source": "Wikimedia Commons",
@@ -15007,7 +15007,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/The_Masked_Angel.jpg/300px-The_Masked_Angel.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Masked_Angel.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/The_Masked_Angel.jpg",
         "caption": "Poster for the 1928 film w:The Masked Angel",
         "source": "Wikimedia Commons",
@@ -15042,7 +15042,7 @@
       "mediaCount": 6,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Early_to_Wed_%28poster%29.jpg/300px-Early_to_Wed_%28poster%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Early_to_Wed_%28poster%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Early_to_Wed_%28poster%29.jpg",
         "caption": "Poster for the American comedy film Early to Wed (1926).",
         "source": "Wikimedia Commons",
@@ -15077,7 +15077,7 @@
       "mediaCount": 7,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Yesterday%27s_Wife_%281923%29_-_5.jpg/300px-Yesterday%27s_Wife_%281923%29_-_5.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Yesterday%27s_Wife_%281923%29_-_5.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Yesterday%27s_Wife_%281923%29_-_5.jpg",
         "caption": "Still from the American romantic comedy drama film Yesterday's Wife (1923), on page 1 of the July 24, 1923 Film Daily.",
         "source": "Wikimedia Commons",
@@ -15639,7 +15639,7 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Blackmail_%281920%29_-_4.jpg/300px-Blackmail_%281920%29_-_4.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Blackmail_%281920%29_-_4.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Blackmail_%281920%29_-_4.jpg",
         "caption": "Still from the American drama film Blackmail (1920) with Viola Dana and the comedy short film Convict 13 (1920) with Buster Keaton, on page 11 of the November 27, 1920 The Duluth Herald.",
         "source": "Wikimedia Commons",
@@ -15772,7 +15772,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mountain_Madness_%281920%29_-_1.jpg/300px-Mountain_Madness_%281920%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mountain_Madness_%281920%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Mountain_Madness_%281920%29_-_1.jpg",
         "caption": "Still from the American crime drama film Mountain Madness (1920) with unidentified actors, on page 62 of the August 21, 1920 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -15975,7 +15975,7 @@
       "mediaCount": 14,
       "featuredMedia": {
         "type": "advertisement",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/The_Forbidden_Woman_%281920%29_-_7.jpg/300px-The_Forbidden_Woman_%281920%29_-_7.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Forbidden_Woman_%281920%29_-_7.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/The_Forbidden_Woman_%281920%29_-_7.jpg",
         "caption": "Advertisement for the American drama film The Forbidden Woman (1920) with Clara Kimball Young, from the insert after page 1074 of the February 14, 1920 The Moving Picture World.",
         "source": "Wikimedia Commons",
@@ -16388,7 +16388,7 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/The_Lamplighter_%281921%29_-_1.jpg/300px-The_Lamplighter_%281921%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Lamplighter_%281921%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/The_Lamplighter_%281921%29_-_1.jpg",
         "caption": "Still from the American drama film The Lamplighter (1921) with Shirley Mason, on page 60 of the April 9, 1921 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -16423,7 +16423,7 @@
       "mediaCount": 9,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Madame-curie-1943.jpg/300px-Madame-curie-1943.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Madame-curie-1943.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Madame-curie-1943.jpg",
         "caption": "' (1943) movie poster.",
         "source": "Wikimedia Commons",
@@ -16731,7 +16731,7 @@
       "mediaCount": 11,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/The_Valley_of_Decision_magazine_poster.jpg/300px-The_Valley_of_Decision_magazine_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Valley_of_Decision_magazine_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/The_Valley_of_Decision_magazine_poster.jpg",
         "caption": "Magazine poster of American melodrama film The Valley of Decision (1945).",
         "source": "Wikimedia Commons",
@@ -16836,7 +16836,7 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Out_of_a_Clear_Sky_%281918%29_-_1.jpg/300px-Out_of_a_Clear_Sky_%281918%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Out_of_a_Clear_Sky_%281918%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Out_of_a_Clear_Sky_%281918%29_-_1.jpg",
         "caption": "Still from the American romance film Out of a Clear Sky (1918) with Marguerite Clark and Thomas Meighan, on page 33 of the October 5, 1918 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -16899,7 +16899,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Riddle_Woman_%281920%29.jpg/300px-The_Riddle_Woman_%281920%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Riddle_Woman_%281920%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/The_Riddle_Woman_%281920%29.jpg",
         "caption": "Still from the American drama film The Riddle:Woman (1920) with Geraldine Farrar and William P. Carleton, on page 52 of the February 1921 Photoplay magazine. The film is now considered to be lost.",
         "source": "Wikimedia Commons",
@@ -17144,7 +17144,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/The_Prodigal_Wife_%281918%29_-_1.jpg/300px-The_Prodigal_Wife_%281918%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Prodigal_Wife_%281918%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/The_Prodigal_Wife_%281918%29_-_1.jpg",
         "caption": "Still from the American drama film The Prodigal Wife (1918) with Harris Gordon, Lucy Cotton, and Mary Boland, on page 35 of the November 2, 1918 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -17284,7 +17284,7 @@
       "mediaCount": 6,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/DanceHallFilmPoster.jpg/300px-DanceHallFilmPoster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/DanceHallFilmPoster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/DanceHallFilmPoster.jpg",
         "caption": "Poster for the 1929 film, Dance Hall",
         "source": "Wikimedia Commons",
@@ -17459,7 +17459,7 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Richard_Barthelmess_as_Karl_Van_Kerstenbroock.jpg/300px-Richard_Barthelmess_as_Karl_Van_Kerstenbroock.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Richard_Barthelmess_as_Karl_Van_Kerstenbroock.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Richard_Barthelmess_as_Karl_Van_Kerstenbroock.jpg",
         "caption": "Richard Barthelmess as Karl Van Kerstenbroock in the American drama film The Fighting Blade (1923). Printed in Motion Picture Classic, October 1923 with the caption: \"Albin has gone back to the immortal manner of Rembrandt for the inspiration for this portrait of Richard Barthelmess in the title rôle of The Fighting Blade.\"",
         "source": "Wikimedia Commons",
@@ -17494,7 +17494,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/The_Heart_of_Youth_%281919%29_-_1.jpg/300px-The_Heart_of_Youth_%281919%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Heart_of_Youth_%281919%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/The_Heart_of_Youth_%281919%29_-_1.jpg",
         "caption": "Still from the American film The Heart of Youth (1919) with Tom Forman and Lila Lee, on page 1845 of the August 30, 1919 Motion Picture News.",
         "source": "Wikimedia Commons",
@@ -17529,7 +17529,7 @@
       "mediaCount": 5,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/His_Robe_of_Honor_%281918%29_-_5.jpg/300px-His_Robe_of_Honor_%281918%29_-_5.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/His_Robe_of_Honor_%281918%29_-_5.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/His_Robe_of_Honor_%281918%29_-_5.jpg",
         "caption": "Still from the American crime drama His Robe of Honor (1918) with Lois Wilson and Henry B. Walthall, on page 27 of the February 2, 1918 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -17564,7 +17564,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Whitewashed_Walls_%281919%29_-_1.jpg/300px-Whitewashed_Walls_%281919%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Whitewashed_Walls_%281919%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Whitewashed_Walls_%281919%29_-_1.jpg",
         "caption": "Still from the American comedy film Whitewashed Walls (1919) with William Desmond, on page 34 of the April 26, 1919 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -18391,7 +18391,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/St_Elmo_drinks_with_the_devil.jpg/300px-St_Elmo_drinks_with_the_devil.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/St_Elmo_drinks_with_the_devil.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/St_Elmo_drinks_with_the_devil.jpg",
         "caption": "In a scene from the film, St. Elmo drinks with the devil over the body of his cousin.",
         "source": "Wikimedia Commons",
@@ -18426,7 +18426,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Limousine_Life.jpg/300px-Limousine_Life.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Limousine_Life.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Limousine_Life.jpg",
         "caption": "Poster for the 1918 film Limousine Life",
         "source": "Wikimedia Commons",
@@ -18566,7 +18566,7 @@
       "mediaCount": 6,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Classified-1925-Poster.jpg/300px-Classified-1925-Poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Classified-1925-Poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Classified-1925-Poster.jpg",
         "caption": "Poster for the 1925 film, Classified",
         "source": "Wikimedia Commons",
@@ -18636,7 +18636,7 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hard_to_Get_%281938%29_poster.jpg/300px-Hard_to_Get_%281938%29_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hard_to_Get_%281938%29_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Hard_to_Get_%281938%29_poster.jpg",
         "caption": "This poster features no copyright year and is in the public domain already.",
         "source": "Wikimedia Commons",
@@ -18671,7 +18671,7 @@
       "mediaCount": 10,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/%E6%9C%88%E7%BC%BA%E9%9B%A3%E5%9C%93_%E9%A6%99%E6%B8%AF%E8%8F%AF%E5%AD%97%E6%97%A5%E5%A0%B1_19380213.png/300px-%E6%9C%88%E7%BC%BA%E9%9B%A3%E5%9C%93_%E9%A6%99%E6%B8%AF%E8%8F%AF%E5%AD%97%E6%97%A5%E5%A0%B1_19380213.png",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%E6%9C%88%E7%BC%BA%E9%9B%A3%E5%9C%93_%E9%A6%99%E6%B8%AF%E8%8F%AF%E5%AD%97%E6%97%A5%E5%A0%B1_19380213.png?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/%E6%9C%88%E7%BC%BA%E9%9B%A3%E5%9C%93_%E9%A6%99%E6%B8%AF%E8%8F%AF%E5%AD%97%E6%97%A5%E5%A0%B1_19380213.png",
         "caption": "Come and Get It (1936) poster",
         "source": "Wikimedia Commons",
@@ -18776,7 +18776,7 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/The_Gay_Old_Dog_%281919%29_-_1.jpg/300px-The_Gay_Old_Dog_%281919%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Gay_Old_Dog_%281919%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/The_Gay_Old_Dog_%281919%29_-_1.jpg",
         "caption": "Production still for the American film The Gay Old Dog (1919) aka A Gay Old Dog with John Cumberland, screenwriter Mrs. Sidney Drew, and director Hobart Henley, on page 1830 of the June 21, 1919 Moving Picture World.",
         "source": "Wikimedia Commons",
@@ -19145,7 +19145,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SLNSW_26604_Capitol_Theatre.jpg/300px-SLNSW_26604_Capitol_Theatre.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SLNSW_26604_Capitol_Theatre.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/SLNSW_26604_Capitol_Theatre.jpg",
         "caption": "Capitol Theatre posters for the films Here Come the Waves (1944) and And Now Tomorrow (1944).",
         "source": "Wikimedia Commons",
@@ -19312,7 +19312,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A_Cafe_in_Cairo_%281924%29_-_2.jpg/300px-A_Cafe_in_Cairo_%281924%29_-_2.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/A_Cafe_in_Cairo_%281924%29_-_2.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/A_Cafe_in_Cairo_%281924%29_-_2.jpg",
         "caption": "Still from the American drama film A Cafe in Cairo (1924) with Priscilla Dean, on page 46 of the November 1, 1924 The Moving Picture World.",
         "source": "Wikimedia Commons",
@@ -19382,7 +19382,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Youth_for_Sale.jpg/300px-Youth_for_Sale.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Youth_for_Sale.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Youth_for_Sale.jpg",
         "caption": "This is a poster for Youth for Sale.",
         "source": "Wikimedia Commons",
@@ -19445,7 +19445,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "advertisement",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wreckage_%281925%29_-_1.jpg/300px-Wreckage_%281925%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Wreckage_%281925%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Wreckage_%281925%29_-_1.jpg",
         "caption": "Advertisement for the American drama film Wreckage (1925), from page 18 of the October 3, 1925 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -19788,7 +19788,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Part_Time_Wife.jpg/300px-The_Part_Time_Wife.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Part_Time_Wife.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/The_Part_Time_Wife.jpg",
         "caption": "Poster for the 1925 film The Part Time Wife",
         "source": "Wikimedia Commons",
@@ -19886,7 +19886,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/The_Golden_Gallows_%281922%29_poster.jpg/300px-The_Golden_Gallows_%281922%29_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Golden_Gallows_%281922%29_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/The_Golden_Gallows_%281922%29_poster.jpg",
         "caption": "promotional poster for the American silent film The Golden Gallows (1922) (cropped).",
         "source": "Wikimedia Commons",
@@ -19956,7 +19956,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Her_Decision_%281918%29_-_2.jpg/300px-Her_Decision_%281918%29_-_2.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Her_Decision_%281918%29_-_2.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Her_Decision_%281918%29_-_2.jpg",
         "caption": "Still from the American drama film Her Decision (1918) with Darrell Foss and Gloria Swanson, on page 28 of the May 18, 1918 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -20027,7 +20027,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Doc_1915_film_still_from_Motion_Picture_News_advertisement.jpg/300px-Doc_1915_film_still_from_Motion_Picture_News_advertisement.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Doc_1915_film_still_from_Motion_Picture_News_advertisement.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Doc_1915_film_still_from_Motion_Picture_News_advertisement.jpg",
         "caption": "A still or publicity image from the 1914 film \"Doc,\" the only known film produced by The Eleanor Gates Photo-Play Co.",
         "source": "wikimedia",
@@ -20231,7 +20231,7 @@
       "mediaCount": 5,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/The_Yankee_Se%C3%B1or.jpg/300px-The_Yankee_Se%C3%B1or.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Yankee_Se%C3%B1or.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/The_Yankee_Se%C3%B1or.jpg",
         "caption": "Poster for w:The Yankee Señor",
         "source": "Wikimedia Commons",
@@ -20406,7 +20406,7 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "advertisement",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Five_Days_to_Live_%281922%29_-_1.jpg/300px-Five_Days_to_Live_%281922%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Five_Days_to_Live_%281922%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Five_Days_to_Live_%281922%29_-_1.jpg",
         "caption": "Advertisement for the American drama film Five Days To Live (1922) with Sessue Hayakawa and Tsuru Aoki, on pages 12 and 13 of the January 7, 1922 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -20476,7 +20476,7 @@
       "mediaCount": 11,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/MakeHasteToLive1.jpg/300px-MakeHasteToLive1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/MakeHasteToLive1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/MakeHasteToLive1.jpg",
         "caption": "A poster featuring the stars of \"Make Haste to Live\" without a copyright notice indicating that it is public domain, because all works required copyright notices at the time.",
         "source": "Wikimedia Commons",
@@ -20582,7 +20582,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/The_Leavenworth_Case_%281923%2C_poster%29.jpg/300px-The_Leavenworth_Case_%281923%2C_poster%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Leavenworth_Case_%281923%2C_poster%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/The_Leavenworth_Case_%281923%2C_poster%29.jpg",
         "caption": "Original distribution poster by Vitagraph for the American mystery film The Leavenworth Case (1923).",
         "source": "Wikimedia Commons",
@@ -20653,7 +20653,7 @@
       "mediaCount": 6,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/His_Wife%27s_Husband_%281922%29_-_Blythe.jpg/300px-His_Wife%27s_Husband_%281922%29_-_Blythe.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/His_Wife%27s_Husband_%281922%29_-_Blythe.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/His_Wife%27s_Husband_%281922%29_-_Blythe.jpg",
         "caption": "Still from the American film His Wife's Husband (1922) with Betty Blythe and an unidentified actor, on page 64 of the August 1922 Photoplay.",
         "source": "Wikimedia Commons",
@@ -21145,7 +21145,7 @@
       "mediaCount": 6,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Silk_Husbands_and_Calico_Wives_poster.jpg/300px-Silk_Husbands_and_Calico_Wives_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Silk_Husbands_and_Calico_Wives_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Silk_Husbands_and_Calico_Wives_poster.jpg",
         "caption": "Poster for the American drama film Silk Husbands and Calico Wives (1920).",
         "source": "Wikimedia Commons",
@@ -21215,7 +21215,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "lobby_card",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bellamy_Trial_lobby_card.jpg/300px-Bellamy_Trial_lobby_card.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bellamy_Trial_lobby_card.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Bellamy_Trial_lobby_card.jpg",
         "caption": "Lobby card for the American drama film The Bellamy Trial (1929).",
         "source": "Wikimedia Commons",
@@ -21482,7 +21482,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_End_of_the_Trail_%281916%29_-_1.jpg/300px-The_End_of_the_Trail_%281916%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_End_of_the_Trail_%281916%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/The_End_of_the_Trail_%281916%29_-_1.jpg",
         "caption": "Still from the American drama film The End of the Trail (1916) with Gladys Brockwell and William Farnum, from the August 1917 Film Fun. The film title, not noted in the caption, is identified through a newspaper advertisement for the film which used this still.",
         "source": "Wikimedia Commons",
@@ -21517,7 +21517,7 @@
       "mediaCount": 14,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Shoes_1916_poster.jpg/300px-Shoes_1916_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shoes_1916_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Shoes_1916_poster.jpg",
         "caption": "Advertisement in The Moving Picture World for the American film Shoes (1916).",
         "source": "Wikimedia Commons",
@@ -21580,7 +21580,7 @@
       "mediaCount": 17,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Strangers_on_a_Train_%28film%29.jpg/300px-Strangers_on_a_Train_%28film%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Strangers_on_a_Train_%28film%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Strangers_on_a_Train_%28film%29.jpg",
         "caption": "Poster for Strangers on a Train (1951)",
         "source": "Wikimedia Commons",
@@ -21616,7 +21616,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Dusk_to_Dawn_%281922%29_-_Mulhall_%26_Vidor.jpg/300px-Dusk_to_Dawn_%281922%29_-_Mulhall_%26_Vidor.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dusk_to_Dawn_%281922%29_-_Mulhall_%26_Vidor.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Dusk_to_Dawn_%281922%29_-_Mulhall_%26_Vidor.jpg",
         "caption": "Still from the American film Dusk to Dawn (1922) with Jack Mulhall and Florence Vidor, page 67 of the November 1922 Photoplay.",
         "source": "Wikimedia Commons",
@@ -21756,7 +21756,7 @@
       "mediaCount": 13,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Gentleman%27s_Agreement_%281947_poster%29.jpg/300px-Gentleman%27s_Agreement_%281947_poster%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gentleman%27s_Agreement_%281947_poster%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Gentleman%27s_Agreement_%281947_poster%29.jpg",
         "caption": "Theatrical release poster for the 1947 film Gentleman's Agreement.",
         "source": "Wikimedia Commons",
@@ -22164,7 +22164,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Puerto_Nuevo_1936.jpg/300px-Puerto_Nuevo_1936.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Puerto_Nuevo_1936.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Puerto_Nuevo_1936.jpg",
         "caption": "Poster for the Argentine film Puerto Nuevo, starring Pepe Arias.",
         "source": "Wikimedia Commons",
@@ -22200,7 +22200,7 @@
       "mediaCount": 6,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Chip_of_the_Flying_U_poster.jpg/300px-Chip_of_the_Flying_U_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chip_of_the_Flying_U_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Chip_of_the_Flying_U_poster.jpg",
         "caption": "Poster for the American comedy western film Chip of the Flying U (1926).",
         "source": "Wikimedia Commons",
@@ -22535,7 +22535,7 @@
       "mediaCount": 13,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/The_Man_Who_Shot_Liberty_Valance_%281962_poster%29.jpg/300px-The_Man_Who_Shot_Liberty_Valance_%281962_poster%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Man_Who_Shot_Liberty_Valance_%281962_poster%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/The_Man_Who_Shot_Liberty_Valance_%281962_poster%29.jpg",
         "caption": "Theatrical release poster for the 1962 film The Man Who Shot Liberty Valance",
         "source": "Wikimedia Commons",
@@ -22570,7 +22570,7 @@
       "mediaCount": 7,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Blind_Hearts_1921.jpg/300px-Blind_Hearts_1921.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Blind_Hearts_1921.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Blind_Hearts_1921.jpg",
         "caption": "Poster for the 1921 American film Blind Hearts.",
         "source": "Wikimedia Commons",
@@ -22633,7 +22633,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/The_slave_wife_joins_her_husband%2C_by_Rodney_Thomson.jpg/300px-The_slave_wife_joins_her_husband%2C_by_Rodney_Thomson.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_slave_wife_joins_her_husband%2C_by_Rodney_Thomson.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/The_slave_wife_joins_her_husband%2C_by_Rodney_Thomson.jpg",
         "caption": "The slave wife joins her husband, by Rodney Thomson Identifier: battlegroundadve00john (find matches) Title: Battleground adventures, the stories of dwellers on the scenes of conflict in some of the most notable battles of the civil war Year: 1915 (1910s) Authors: Johnson, Clifton, 1865-1940, ed Thomson, Rodney",
         "source": "Wikimedia Commons",
@@ -22703,7 +22703,7 @@
       "mediaCount": 5,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Audrey_%281916_film%29.jpg/300px-Audrey_%281916_film%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Audrey_%281916_film%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Audrey_%281916_film%29.jpg",
         "caption": "Poster for the American production Audrey (1916 film)",
         "source": "Wikimedia Commons",
@@ -22949,7 +22949,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Black_Butterflies_%281928_film%29.jpg/300px-Black_Butterflies_%281928_film%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Black_Butterflies_%281928_film%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Black_Butterflies_%281928_film%29.jpg",
         "caption": "Poster for the American drama film Black Butterflies (1928).",
         "source": "Wikimedia Commons",
@@ -23019,7 +23019,7 @@
       "mediaCount": 6,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_Girl_in_Number_29_FilmPoster.jpeg/300px-The_Girl_in_Number_29_FilmPoster.jpeg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Girl_in_Number_29_FilmPoster.jpeg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/The_Girl_in_Number_29_FilmPoster.jpeg",
         "caption": "Poster for the American drama film The Girl in Number 29 (1920).",
         "source": "Wikimedia Commons",
@@ -23187,7 +23187,7 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Castles_in_the_Air_%281919%29_-1.jpg/300px-Castles_in_the_Air_%281919%29_-1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Castles_in_the_Air_%281919%29_-1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Castles_in_the_Air_%281919%29_-1.jpg",
         "caption": "Still from the American film Castles in the Air (1919) with May Allison and Ben F. Wilson, on page 1144 of the May 24, 1919 Moving Picture World.",
         "source": "Wikimedia Commons",
@@ -23327,7 +23327,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "advertisement",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beckoning_Roads_%281919%29_-_1.jpg/300px-Beckoning_Roads_%281919%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Beckoning_Roads_%281919%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Beckoning_Roads_%281919%29_-_1.jpg",
         "caption": "Newspaper advertisement for the American drama film Beckoning Roads (1919) with Bessie Barriscale, originally for the Tudor Theater in Atlanta, Georgia, on page 85 of the February 14, 1920 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -23642,7 +23642,7 @@
       "mediaCount": 6,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Road_to_Reno_poster.jpg/300px-Road_to_Reno_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Road_to_Reno_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Road_to_Reno_poster.jpg",
         "caption": "Poster for the 1931 film The Road to Reno.",
         "source": "Wikimedia Commons",
@@ -23677,7 +23677,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/With_Hoops_of_Steel_%281918%29_-_1.jpg/300px-With_Hoops_of_Steel_%281918%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/With_Hoops_of_Steel_%281918%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/With_Hoops_of_Steel_%281918%29_-_1.jpg",
         "caption": "Still from the American western film With Hoops of Steel (1918) with Henry B. Walthall, on page 23 of the May 4, 1918 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -23747,7 +23747,7 @@
       "mediaCount": 9,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Please_Don%27t_Eat_the_Daisies_poster.jpg/300px-Please_Don%27t_Eat_the_Daisies_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Please_Don%27t_Eat_the_Daisies_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Please_Don%27t_Eat_the_Daisies_poster.jpg",
         "caption": "Poster for the film Please Don't Eat the Daisies (1960).",
         "source": "Wikimedia Commons",
@@ -23948,7 +23948,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Fickle_Women_%281920%29_-_2.jpg/300px-Fickle_Women_%281920%29_-_2.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fickle_Women_%281920%29_-_2.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Fickle_Women_%281920%29_-_2.jpg",
         "caption": "Still from the American drama film Fickle Women (1920) with David Butler, on page 59 of the August 21, 1920 Exhibitors Herald. This image of Butler was also used to advertise his later film Girls Don't Gamble (1920).",
         "source": "Wikimedia Commons",
@@ -24018,7 +24018,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "advertisement",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Worldly_Goods_%281924%29_-_1.jpg/300px-Worldly_Goods_%281924%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Worldly_Goods_%281924%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Worldly_Goods_%281924%29_-_1.jpg",
         "caption": "Advertisement for the American comedy film Worldly Goods (1924), from the Paramount Pictures advertising insert at the front of the November 22, 1924 The Moving Picture World.",
         "source": "Wikimedia Commons",
@@ -24221,7 +24221,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "advertisement",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tudor_Theatre_New_Orleans_Mary_Picford_1917.jpg/300px-Tudor_Theatre_New_Orleans_Mary_Picford_1917.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tudor_Theatre_New_Orleans_Mary_Picford_1917.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Tudor_Theatre_New_Orleans_Mary_Picford_1917.jpg",
         "caption": "Canal Street, New Orleans, 1917. Exterior showing sidewalk in front of the neighboring Globe Theatre and the Tudor Theatre. Signs advertise the showing of Mary Pickford film Poor Little Rich Girl at the Globe; Sloth is showing at the Tudor. March 10 or 11, 1917.",
         "source": "Wikimedia Commons",
@@ -24256,7 +24256,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/To_the_Highest_Bidder_%281918%29_-_1.jpg/300px-To_the_Highest_Bidder_%281918%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/To_the_Highest_Bidder_%281918%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/To_the_Highest_Bidder_%281918%29_-_1.jpg",
         "caption": "Still from the American drama film To the Highest Bidder (1918) with Alice Joyce and an unidentified actor (the auctioneer), on page 27 of the July 27, 1918 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -24571,7 +24571,7 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/The_Penny_Philanthropist_%281917%29_-_2.jpg/300px-The_Penny_Philanthropist_%281917%29_-_2.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Penny_Philanthropist_%281917%29_-_2.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/The_Penny_Philanthropist_%281917%29_-_2.jpg",
         "caption": "Still from the American drama film The Penny Philanthropist (1917) with Peggy O'Neil, on page 28 of the September 15, 1917 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -24606,7 +24606,7 @@
       "mediaCount": 10,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Make_Way_for_Tomorrow_%281937_poster%29.jpg/300px-Make_Way_for_Tomorrow_%281937_poster%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Make_Way_for_Tomorrow_%281937_poster%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Make_Way_for_Tomorrow_%281937_poster%29.jpg",
         "caption": "Theatrical release poster for the 1937 film Make Way for Tomorrow.",
         "source": "Wikimedia Commons",
@@ -24887,7 +24887,7 @@
       "mediaCount": 11,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/To_Kill_a_Mockingbird_%281963_US_theatrical_poster%29.jpg/300px-To_Kill_a_Mockingbird_%281963_US_theatrical_poster%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/To_Kill_a_Mockingbird_%281963_US_theatrical_poster%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/To_Kill_a_Mockingbird_%281963_US_theatrical_poster%29.jpg",
         "caption": "Poster for the US theatrical release of the 1962 film To Kill a Mockingbird, an adaptation of Harper Lee's 1960 novel of the same name, with actor Gregory Peck.",
         "source": "Wikimedia Commons",
@@ -25020,7 +25020,7 @@
       "mediaCount": 7,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/The_Breaking_Point_%281921%29_-_1.jpg/300px-The_Breaking_Point_%281921%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Breaking_Point_%281921%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/The_Breaking_Point_%281921%29_-_1.jpg",
         "caption": "Still from the American drama film The Breaking Point (1921) with Walter McGrail, Bessie Barriscale, and child actress Irene Yeager (1912 – 1999), on page 87 of the January 22, 1921 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -25055,7 +25055,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/The_Devil%27s_Riddle_%281920%29_-_2.jpg/300px-The_Devil%27s_Riddle_%281920%29_-_2.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Devil%27s_Riddle_%281920%29_-_2.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/The_Devil%27s_Riddle_%281920%29_-_2.jpg",
         "caption": "Still from the American drama film The Devil's Riddle (1920) with Gladys Brockwell and two unidentified actors, on page 53 of the March 20, 1920 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -25160,7 +25160,7 @@
       "mediaCount": 5,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Help_Wanted_-_Male_%281920%29_-_1.jpg/300px-Help_Wanted_-_Male_%281920%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Help_Wanted_-_Male_%281920%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Help_Wanted_-_Male_%281920%29_-_1.jpg",
         "caption": "Still from the American comedy film Help Wanted - Male (1920) with Blanche Sweet, on page 99 of the September 11, 1920 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -25505,7 +25505,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/The_book_of_dogs%3B_an_intimate_study_of_mankind%27s_best_friend_%281919%29_%2820370518906%29.jpg/300px-The_book_of_dogs%3B_an_intimate_study_of_mankind%27s_best_friend_%281919%29_%2820370518906%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_book_of_dogs%3B_an_intimate_study_of_mankind%27s_best_friend_%281919%29_%2820370518906%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/The_book_of_dogs%3B_an_intimate_study_of_mankind%27s_best_friend_%281919%29_%2820370518906%29.jpg",
         "caption": "Title: The book of dogs; an intimate study of mankind's best friend Identifier: bookofdogsintima00nati (find matches) Year: 1919 (1910s) Authors: National Geographic Society (U. S. ); Fuertes, Louis Agassiz, 1874-1927; Baynes, Ernest Harold, 1868-1925",
         "source": "Wikimedia Commons",
@@ -25610,7 +25610,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "lobby_card",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Custard_Cup_lobby_card_1923.jpg/300px-Custard_Cup_lobby_card_1923.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Custard_Cup_lobby_card_1923.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Custard_Cup_lobby_card_1923.jpg",
         "caption": "Lobby card for the American drama film The Custard Cup (1923).",
         "source": "Wikimedia Commons",
@@ -25736,7 +25736,7 @@
       "mediaCount": 7,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Men_Who_Have_Made_Love_to_Me_%281918_film%29.jpg/300px-Men_Who_Have_Made_Love_to_Me_%281918_film%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Men_Who_Have_Made_Love_to_Me_%281918_film%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Men_Who_Have_Made_Love_to_Me_%281918_film%29.jpg",
         "caption": "A 1917 movie poster for the 1918 film Men Who Have Made Love to Me starring Mary MacLane.",
         "source": "Wikimedia Commons",
@@ -25877,7 +25877,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Satan_and_the_Woman.jpg/300px-Satan_and_the_Woman.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Satan_and_the_Woman.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Satan_and_the_Woman.jpg",
         "caption": "Poster for the 1928 film w:Satan and the Woman",
         "source": "Wikimedia Commons",
@@ -25947,7 +25947,7 @@
       "mediaCount": 5,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Amarilly_of_Clothes-line_Alley_poster.jpg/300px-Amarilly_of_Clothes-line_Alley_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Amarilly_of_Clothes-line_Alley_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Amarilly_of_Clothes-line_Alley_poster.jpg",
         "caption": "Poster for the American romantic comedy film Amarilly of Clothes-line Alley (1918).",
         "source": "Wikimedia Commons",
@@ -25982,7 +25982,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mirandy_Smiles_%281918%29_-_1.jpg/300px-Mirandy_Smiles_%281918%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mirandy_Smiles_%281918%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Mirandy_Smiles_%281918%29_-_1.jpg",
         "caption": "Still from the American drama film Mirandy Smiles (1918) with an unidentified actor and Vivian Martin, on page 23 of the November 30, 1918 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -26018,7 +26018,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Penny_of_Top_Hill_Trail_1921_Swedish_poster.jpeg/300px-Penny_of_Top_Hill_Trail_1921_Swedish_poster.jpeg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Penny_of_Top_Hill_Trail_1921_Swedish_poster.jpeg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Penny_of_Top_Hill_Trail_1921_Swedish_poster.jpeg",
         "caption": "Penny of Top Hill Trail (1921), Swedish poster.",
         "source": "Wikimedia Commons",
@@ -26089,7 +26089,7 @@
       "mediaCount": 13,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Anchors_Aweigh_%281945_Film_Poster%29.jpg/300px-Anchors_Aweigh_%281945_Film_Poster%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anchors_Aweigh_%281945_Film_Poster%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Anchors_Aweigh_%281945_Film_Poster%29.jpg",
         "caption": "Poster for the American theatrical run of the 1945 musical film 'Anchors Aweigh', Red and Blue letter version. Text reads: ON WAVES OF SONG, LAUGHTER AND ROMANCE! FRANK SINATRA KATHRYN GRAYSON GENE KELLY M.G.M's ANCHORS AWEIGH PHOTOGRAPHED IN Technicolor with JOSE ITURBI",
         "source": "Wikimedia Commons",
@@ -26264,7 +26264,7 @@
       "mediaCount": 7,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Thesecretsix.jpg/300px-Thesecretsix.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Thesecretsix.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Thesecretsix.jpg",
         "caption": "Poster for the 1931 film The Secret Six. The item has no copyright marks on it as can be seen at links and original upload. At bottom left is Made in USA. At bottom right is the Tooker Litho Compant logo-they printed the poster. )",
         "source": "Wikimedia Commons",
@@ -26334,7 +26334,7 @@
       "mediaCount": 7,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/All_the_Fine_Young_Cannibals_1960.jpg/300px-All_the_Fine_Young_Cannibals_1960.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/All_the_Fine_Young_Cannibals_1960.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/All_the_Fine_Young_Cannibals_1960.jpg",
         "caption": "All the Fine Young Cannibals 1960, starring Natalie Wood, Robert Wagner, George Hamilton and Susan Kohner.",
         "source": "Wikimedia Commons",
@@ -26579,7 +26579,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "advertisement",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Man_Crazy_%281927%29_-_1.jpg/300px-Man_Crazy_%281927%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Man_Crazy_%281927%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Man_Crazy_%281927%29_-_1.jpg",
         "caption": "Advertisement for the American comedy film Man Crazy (1927), on page 23 of the December 21, 1927 Variety.",
         "source": "Wikimedia Commons",
@@ -26649,7 +26649,7 @@
       "mediaCount": 5,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Speed_%281925%29_-_1.jpg/300px-Speed_%281925%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Speed_%281925%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Speed_%281925%29_-_1.jpg",
         "caption": "Still from the American comedy drama film Speed (1925), on page 95 of the May 16, 1925 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -26859,7 +26859,7 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Poster_-_Scarlet_Dawn_01.jpg/300px-Poster_-_Scarlet_Dawn_01.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Poster_-_Scarlet_Dawn_01.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Poster_-_Scarlet_Dawn_01.jpg",
         "caption": "A poster for Scarlet Dawn, a 1932 US film",
         "source": "Wikimedia Commons",
@@ -26894,7 +26894,7 @@
       "mediaCount": 9,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/The-breath-of-the-gods_poster1920.jpg/300px-The-breath-of-the-gods_poster1920.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The-breath-of-the-gods_poster1920.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/The-breath-of-the-gods_poster1920.jpg",
         "caption": "The Breath of the Gods is a silent movie released in 1920.",
         "source": "Wikimedia Commons",
@@ -27097,7 +27097,7 @@
       "mediaCount": 17,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Peyton_Place_%281957%29_poster.jpg/300px-Peyton_Place_%281957%29_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Peyton_Place_%281957%29_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Peyton_Place_%281957%29_poster.jpg",
         "caption": "Poster art for Peyton Place, 1957",
         "source": "Wikimedia Commons",
@@ -27237,7 +27237,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/The_Better_Half_%281918%29_-_2.jpg/300px-The_Better_Half_%281918%29_-_2.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Better_Half_%281918%29_-_2.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/The_Better_Half_%281918%29_-_2.jpg",
         "caption": "Still from the American drama film The Better Half (1918) with Alice Brady, who plays twin sisters, and an unidentified actor, on page 42 of the October 5, 1918 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -27272,7 +27272,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Broadway_Through_a_Keyhole_poster.jpg/300px-Broadway_Through_a_Keyhole_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Broadway_Through_a_Keyhole_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Broadway_Through_a_Keyhole_poster.jpg",
         "caption": "Poster for the 1933 film Broadway Through a Keyhole. There are no copyright marks. At bottom left is This paper leased to the exhibitor by United Artists Corporation. At lower right is the logo for the Miner Litho Co.-they printed the poster. )",
         "source": "Wikimedia Commons",
@@ -27307,7 +27307,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/And_One_Was_Beautiful_poster.jpg/300px-And_One_Was_Beautiful_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/And_One_Was_Beautiful_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/And_One_Was_Beautiful_poster.jpg",
         "caption": "Poster for the 1940 film And One Was Beautiful.. At bottom left is Litho in USA and #4656. At bottom right is Tooker Litho Co. NY-they printed the poster.",
         "source": "Wikimedia Commons",
@@ -27377,7 +27377,7 @@
       "mediaCount": 7,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/College_Swing.jpg/300px-College_Swing.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/College_Swing.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/College_Swing.jpg",
         "caption": "Постер фильма \"Школа свинга\"",
         "source": "Wikimedia Commons",
@@ -27447,7 +27447,7 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/The_Man_Who_Married_His_Own_Wife_%281922%29_-_Mayo.jpg/300px-The_Man_Who_Married_His_Own_Wife_%281922%29_-_Mayo.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Man_Who_Married_His_Own_Wife_%281922%29_-_Mayo.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/The_Man_Who_Married_His_Own_Wife_%281922%29_-_Mayo.jpg",
         "caption": "Still from the American film The Man Who Married His Own Wife (1922) with Frank Mayo, page 55 of the July 1922 Photoplay.",
         "source": "Wikimedia Commons",
@@ -27482,7 +27482,7 @@
       "mediaCount": 5,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_Girl_of_My_Heart_%281920%29_-_2.jpg/300px-The_Girl_of_My_Heart_%281920%29_-_2.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Girl_of_My_Heart_%281920%29_-_2.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/The_Girl_of_My_Heart_%281920%29_-_2.jpg",
         "caption": "Still from the American film The Girl of My Heart (1920) with Shirley Mason, on page 76 of the October 8, 1921 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -27517,7 +27517,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Into_Her_Kingdom.jpg/300px-Into_Her_Kingdom.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Into_Her_Kingdom.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Into_Her_Kingdom.jpg",
         "caption": "Poster for the film w:Into Her Kingdom",
         "source": "Wikimedia Commons",
@@ -27658,7 +27658,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Uncle_Sam_of_Freedom_Ridge_%281920%29_-_3.jpg/300px-Uncle_Sam_of_Freedom_Ridge_%281920%29_-_3.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Uncle_Sam_of_Freedom_Ridge_%281920%29_-_3.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Uncle_Sam_of_Freedom_Ridge_%281920%29_-_3.jpg",
         "caption": "Still from the American drama film Uncle Sam of Freedom Ridge (1920) with Helen Flint, George MacQuarrie, and William Corbett, on page 66 of the October 9, 1920 Exhibitors Herald. This is the only film this Helen Flint is listed as being in.",
         "source": "Wikimedia Commons",
@@ -27868,7 +27868,7 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/The_Whirlpool_%281918%29_-_2.jpg/300px-The_Whirlpool_%281918%29_-_2.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Whirlpool_%281918%29_-_2.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/The_Whirlpool_%281918%29_-_2.jpg",
         "caption": "Still from the American crime drama film The Whirlpool with Alice Brady and an unidentified actor, on page actor, on page 33 of the June 29, 1918 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -28001,7 +28001,7 @@
       "mediaCount": 10,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Heedless_Moths_%281921%29_-_Photoplay_Editorial.jpg/300px-Heedless_Moths_%281921%29_-_Photoplay_Editorial.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Heedless_Moths_%281921%29_-_Photoplay_Editorial.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Heedless_Moths_%281921%29_-_Photoplay_Editorial.jpg",
         "caption": "Editorial on page 64 of the September 1921 Photoplay magazine recommending that readers not see the American film Heedless Moths (1921), which featured scenes of actress Audrey Munson posing in the nude for an artist.",
         "source": "Wikimedia Commons",
@@ -28246,7 +28246,7 @@
       "mediaCount": 6,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Lucretia_Lombard_1923_poster.jpg/300px-Lucretia_Lombard_1923_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lucretia_Lombard_1923_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Lucretia_Lombard_1923_poster.jpg",
         "caption": "Poster for the American drama film Lucretia Lombard (1923) with no copyright notices, thus in the public domain.",
         "source": "Wikimedia Commons",
@@ -28316,7 +28316,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "advertisement",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/The_Heart_of_Rachael_Bessie_Barriscale_1918.png/300px-The_Heart_of_Rachael_Bessie_Barriscale_1918.png",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Heart_of_Rachael_Bessie_Barriscale_1918.png?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_Heart_of_Rachael_Bessie_Barriscale_1918.png",
         "caption": "ad for The Heart of Rachael (1918), directed by Howard Hickman",
         "source": "Wikimedia Commons",
@@ -28520,7 +28520,7 @@
       "mediaCount": 5,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/My_Best_Girl_%281927%29_Poster_HC_Miner.jpg/300px-My_Best_Girl_%281927%29_Poster_HC_Miner.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/My_Best_Girl_%281927%29_Poster_HC_Miner.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/My_Best_Girl_%281927%29_Poster_HC_Miner.jpg",
         "caption": "Cropped from a scan at Heritage Auction. on Linen. One Sheet (27\" X 41\").",
         "source": "Wikimedia Commons",
@@ -28660,7 +28660,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "advertisement",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/%22Second_Hand_Wife%22_movie_ad_-_from%2C_The_Film_Daily%2C_Jul-Dec_1932_%28page_1070_crop%29.jpg/300px-%22Second_Hand_Wife%22_movie_ad_-_from%2C_The_Film_Daily%2C_Jul-Dec_1932_%28page_1070_crop%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%22Second_Hand_Wife%22_movie_ad_-_from%2C_The_Film_Daily%2C_Jul-Dec_1932_%28page_1070_crop%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/%22Second_Hand_Wife%22_movie_ad_-_from%2C_The_Film_Daily%2C_Jul-Dec_1932_%28page_1070_crop%29.jpg",
         "caption": "\"Second Hand Wife\" movie ad - from, The Film Daily, Jul-Dec 1932 (page 1070 crop).jpg",
         "source": "Wikimedia Commons",
@@ -28695,7 +28695,7 @@
       "mediaCount": 6,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sisters_%281922%29_-_3.jpg/300px-Sisters_%281922%29_-_3.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sisters_%281922%29_-_3.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sisters_%281922%29_-_3.jpg",
         "caption": "Still from the American film Sisters (1922) with Gladys Leslie, Seena Owen, and Joe King, on page 58 of the June 1922 Photoplay Magazine.",
         "source": "Wikimedia Commons",
@@ -28975,7 +28975,7 @@
       "mediaCount": 13,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/All_About_Eve_%281950_poster%29.jpg/300px-All_About_Eve_%281950_poster%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/All_About_Eve_%281950_poster%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/All_About_Eve_%281950_poster%29.jpg",
         "caption": "Original theatrical release poster for the 1950 film All About Eve.",
         "source": "Wikimedia Commons",
@@ -29141,7 +29141,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/The_Island_of_Intrigue_%281919%29_-_1.jpg/300px-The_Island_of_Intrigue_%281919%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Island_of_Intrigue_%281919%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/The_Island_of_Intrigue_%281919%29_-_1.jpg",
         "caption": "Still from the American film The Island of Intrigue (1919) with Jack Mower and May Allison, on page 43 of the April 5, 1919 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -29211,7 +29211,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Tanis_Chandler_-_According_to_Mrs._Hoyle_%281951%29.jpg/300px-Tanis_Chandler_-_According_to_Mrs._Hoyle_%281951%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tanis_Chandler_-_According_to_Mrs._Hoyle_%281951%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Tanis_Chandler_-_According_to_Mrs._Hoyle_%281951%29.jpg",
         "caption": "Tanis Chandler in the 1951 film According to Mrs. Hoyle.",
         "source": "Wikimedia Commons",
@@ -29765,7 +29765,7 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dawn_%281919%29_-_1.jpg/300px-Dawn_%281919%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dawn_%281919%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Dawn_%281919%29_-_1.jpg",
         "caption": "Still from the American drama film Dawn (1919) with Sylvia Breamer and Robert Gordon, on page 71 of the December 6, 1919 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -29835,7 +29835,7 @@
       "mediaCount": 9,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Co-Ed_Drive-In_Ad_-_28_August_1960%2C_Denton%2C_TX.jpg/300px-Co-Ed_Drive-In_Ad_-_28_August_1960%2C_Denton%2C_TX.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Co-Ed_Drive-In_Ad_-_28_August_1960%2C_Denton%2C_TX.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Co-Ed_Drive-In_Ad_-_28_August_1960%2C_Denton%2C_TX.jpg",
         "caption": "Co-Ed Drive-In theater advertisement for the comedy-drama film, Pollyanna. 28 August 1960.",
         "source": "Wikimedia Commons",
@@ -30074,7 +30074,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/The_Beautiful_Cheat_%281926_film%29.jpg/300px-The_Beautiful_Cheat_%281926_film%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Beautiful_Cheat_%281926_film%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/The_Beautiful_Cheat_%281926_film%29.jpg",
         "caption": "Poster for The Beautiful Cheat (1926 film)",
         "source": "Wikimedia Commons",
@@ -30109,7 +30109,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "lobby_card",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Slaves_of_Beauty_lobby_card.jpg/300px-Slaves_of_Beauty_lobby_card.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Slaves_of_Beauty_lobby_card.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Slaves_of_Beauty_lobby_card.jpg",
         "caption": "Lobby card for the American comedy drama film Slaves of Beauty (1927).",
         "source": "Wikimedia Commons",
@@ -30214,7 +30214,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/The_Price_of_Applause_%281918%29_-_1.jpg/300px-The_Price_of_Applause_%281918%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Price_of_Applause_%281918%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/The_Price_of_Applause_%281918%29_-_1.jpg",
         "caption": "Still from the 1918 American war film The Price of Applause (1918) with Jack Livingston, page 38 of the August 17, 1918 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -30354,7 +30354,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Elope_If_You_Must_%281922%29_-_1.jpg/300px-Elope_If_You_Must_%281922%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Elope_If_You_Must_%281922%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Elope_If_You_Must_%281922%29_-_1.jpg",
         "caption": "Still from the American comedy film Elope If You Must (1922) with an unidentified actor and Eileen Percy, on page 66 of the March 25, 1922 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -30452,7 +30452,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Poster_for_The_Nervous_Wreck_%281926%29.jpg/300px-Poster_for_The_Nervous_Wreck_%281926%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Poster_for_The_Nervous_Wreck_%281926%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Poster_for_The_Nervous_Wreck_%281926%29.jpg",
         "caption": "Poster for the American comedy adventure film The Nervous Wreck (1926).",
         "source": "Wikimedia Commons",
@@ -30522,7 +30522,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Too_Many_Crooks_%281919%29_-_1.jpg/300px-Too_Many_Crooks_%281919%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Too_Many_Crooks_%281919%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Too_Many_Crooks_%281919%29_-_1.jpg",
         "caption": "Still from the American comedy film Too Many Crooks (1919) with two unidentified actors, Anders Randolf, Gladys Leslie, Thomas J. McGrane (?), and Jean Paige, on page 1667 of the June 14, 1919 Moving Picture World.",
         "source": "Wikimedia Commons",
@@ -30592,7 +30592,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Clear_the_Decks.jpg/300px-Clear_the_Decks.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Clear_the_Decks.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Clear_the_Decks.jpg",
         "caption": "Poster for the 1929 film Clear the Decks",
         "source": "Wikimedia Commons",
@@ -30963,7 +30963,7 @@
       "mediaCount": 10,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Captain_January_poster.jpg/300px-Captain_January_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Captain_January_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Captain_January_poster.jpg",
         "caption": "Poster for the American drama film Captain January (1924).",
         "source": "Wikimedia Commons",
@@ -31103,7 +31103,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Scene_from_Acquitted_with_Wilfred_Lucas.jpg/300px-Scene_from_Acquitted_with_Wilfred_Lucas.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Scene_from_Acquitted_with_Wilfred_Lucas.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Scene_from_Acquitted_with_Wilfred_Lucas.jpg",
         "caption": "Scene from Acquitted (1916) with Mary Alden, Carmen De Rue, and Wilfred Lucas.",
         "source": "Wikimedia Commons",
@@ -31138,7 +31138,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Affinities_%281922%2C_lobby_card%29.jpg/300px-Affinities_%281922%2C_lobby_card%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Affinities_%281922%2C_lobby_card%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Affinities_%281922%2C_lobby_card%29.jpg",
         "caption": "Distribution poster by Hodkinson Pictures.",
         "source": "Wikimedia Commons",
@@ -31173,7 +31173,7 @@
       "mediaCount": 10,
       "featuredMedia": {
         "type": "lobby_card",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bab%27s_Burglar_-_lobby_card_F_-_1917.jpg/300px-Bab%27s_Burglar_-_lobby_card_F_-_1917.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bab%27s_Burglar_-_lobby_card_F_-_1917.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Bab%27s_Burglar_-_lobby_card_F_-_1917.jpg",
         "caption": "A lobby card for Bab's Burglar (1917).",
         "source": "Wikimedia Commons",
@@ -31209,7 +31209,7 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "advertisement",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/The_Breaking_Point_%281924%29_-_1.jpg/300px-The_Breaking_Point_%281924%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Breaking_Point_%281924%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/The_Breaking_Point_%281924%29_-_1.jpg",
         "caption": "Advertisement for the American mystery film The Breaking Point (1924) with Nita Naldi, on page 19 of the January 20, 1924 Film Daily.",
         "source": "Wikimedia Commons",
@@ -31314,7 +31314,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/A_scene_from_%22Her_Country_First%22_%28SAYRE_13542%29.jpg/300px-A_scene_from_%22Her_Country_First%22_%28SAYRE_13542%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/A_scene_from_%22Her_Country_First%22_%28SAYRE_13542%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/A_scene_from_%22Her_Country_First%22_%28SAYRE_13542%29.jpg",
         "caption": "A scene from Her Country First (1918) which played at the Coliseum Theater, Seattle. Includes Vivian Martin. Date stamped Sept. 26, 1919.",
         "source": "Wikimedia Commons",
@@ -31349,7 +31349,7 @@
       "mediaCount": 5,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bab%27s_Diary_poster.jpg/300px-Bab%27s_Diary_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bab%27s_Diary_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Bab%27s_Diary_poster.jpg",
         "caption": "Poster for the American romantic comedy film Bab's Diary (1917).",
         "source": "Wikimedia Commons",
@@ -31664,7 +31664,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Doris_Kenyon%2C_film_actress_%28SAYRE_4000%29.jpg/300px-Doris_Kenyon%2C_film_actress_%28SAYRE_4000%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Doris_Kenyon%2C_film_actress_%28SAYRE_4000%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Doris_Kenyon%2C_film_actress_%28SAYRE_4000%29.jpg",
         "caption": "Doris Kenyon, film actress, in still from the American drama film The Street of Seven Stars (1918).",
         "source": "Wikimedia Commons",
@@ -31699,7 +31699,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "advertisement",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bab%27s_Matinee_Idol_%281917%29_-_1.jpg/300px-Bab%27s_Matinee_Idol_%281917%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bab%27s_Matinee_Idol_%281917%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bab%27s_Matinee_Idol_%281917%29_-_1.jpg",
         "caption": "Advertisement for the American comedy romance film Bab's Matinee Idol (1917) with Marguerite Clark, on page 45 of the December 14, 1917 Variety.",
         "source": "Wikimedia Commons",
@@ -31769,7 +31769,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "advertisement",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/23_1-2_Hours%27_Leave_%281919%29_-_1.jpg/300px-23_1-2_Hours%27_Leave_%281919%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/23_1-2_Hours%27_Leave_%281919%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/23_1-2_Hours%27_Leave_%281919%29_-_1.jpg",
         "caption": "Newspaper advertisement for the American comedy film 23 1/2 Hours' Leave (1919) with Douglas MacLean and Doris May, being shown with the comedy film The Hayseed (1919) with Fatty Arbuckle, originally for the Princess Theater in Denver, Colorado, on page 80 of the December 13, 1919 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -31860,7 +31860,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "lobby_card",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/What_Happened_to_Father_lobby_card.jpg/300px-What_Happened_to_Father_lobby_card.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/What_Happened_to_Father_lobby_card.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/What_Happened_to_Father_lobby_card.jpg",
         "caption": "Lobby card for the American comedy film What Happened to Father? (1927)",
         "source": "Wikimedia Commons",
@@ -32063,7 +32063,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/The_Scarlet_Shadow.jpg/300px-The_Scarlet_Shadow.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Scarlet_Shadow.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/The_Scarlet_Shadow.jpg",
         "caption": "Poster for the 1919 film The Scarlet Shadow",
         "source": "Wikimedia Commons",
@@ -32267,7 +32267,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "advertisement",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Twilight_%281919%29_-_Ad_2.jpg/300px-Twilight_%281919%29_-_Ad_2.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Twilight_%281919%29_-_Ad_2.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Twilight_%281919%29_-_Ad_2.jpg",
         "caption": "Ad for the American film Twilight (1919) with Doris Kenyon, on pages 1432 and 1433 of the March 15, 1919 Moving Picture World.",
         "source": "Wikimedia Commons",
@@ -32365,7 +32365,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Primal_Lure_poster.jpg/300px-Primal_Lure_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Primal_Lure_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Primal_Lure_poster.jpg",
         "caption": "Poster for the 1916 film The Primal Lure.",
         "source": "Wikimedia Commons",
@@ -32400,7 +32400,7 @@
       "mediaCount": 6,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_Splendid_Road_poster.jpg/300px-The_Splendid_Road_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Splendid_Road_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/The_Splendid_Road_poster.jpg",
         "caption": "Poster for the American historical drama film The Splendid Road (1925).",
         "source": "Wikimedia Commons",
@@ -32927,7 +32927,7 @@
       "mediaCount": 7,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Told_in_the_Hills_poster.jpg/300px-Told_in_the_Hills_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Told_in_the_Hills_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Told_in_the_Hills_poster.jpg",
         "caption": "Poster for the 1919 film Told in the Hills.",
         "source": "Wikimedia Commons",
@@ -33026,7 +33026,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_New_Teacher_%281922_film%29_poster.jpg/300px-The_New_Teacher_%281922_film%29_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_New_Teacher_%281922_film%29_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/The_New_Teacher_%281922_film%29_poster.jpg",
         "caption": "The New Teacher American film poster",
         "source": "Wikimedia Commons",
@@ -33089,7 +33089,7 @@
       "mediaCount": 8,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/The_Wind_%281928_film_poster%29.jpg/300px-The_Wind_%281928_film_poster%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Wind_%281928_film_poster%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/The_Wind_%281928_film_poster%29.jpg",
         "caption": "Poster for The Wind (1928)",
         "source": "Wikimedia Commons",
@@ -33293,7 +33293,7 @@
       "mediaCount": 10,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Dangerous_Business_%281920%29_-_8.jpg/300px-Dangerous_Business_%281920%29_-_8.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dangerous_Business_%281920%29_-_8.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Dangerous_Business_%281920%29_-_8.jpg",
         "caption": "Still from the American comedy romance film Dangerous Business (1920) with Constance Talmadge, on page 9 of the December 4, 1920 The Duluth Herald.",
         "source": "Wikimedia Commons",
@@ -33363,7 +33363,7 @@
       "mediaCount": 10,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sudden_Fear.jpg/300px-Sudden_Fear.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sudden_Fear.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Sudden_Fear.jpg",
         "caption": "Poster for the film Sudden Fear (1952).",
         "source": "Wikimedia Commons",
@@ -33433,7 +33433,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "advertisement",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hit_of_the_Show_%281928%29_-_1.jpg/300px-Hit_of_the_Show_%281928%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hit_of_the_Show_%281928%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Hit_of_the_Show_%281928%29_-_1.jpg",
         "caption": "Advertisement for the American comedy film Hit of the Show (1928), on page 21 of the October 3, 1928 Variety.",
         "source": "Wikimedia Commons",
@@ -33713,7 +33713,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "advertisement",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Merchant_Marine_-_Damage_to_Merchant_Vessels_-_U.S._MONITOR_AND_ARMED_LINER_COLLIDE_IN_FOG_-_NARA_-_45499677_%28page_1%29.jpg/300px-Merchant_Marine_-_Damage_to_Merchant_Vessels_-_U.S._MONITOR_AND_ARMED_LINER_COLLIDE_IN_FOG_-_NARA_-_45499677_%28page_1%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Merchant_Marine_-_Damage_to_Merchant_Vessels_-_U.S._MONITOR_AND_ARMED_LINER_COLLIDE_IN_FOG_-_NARA_-_45499677_%28page_1%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Merchant_Marine_-_Damage_to_Merchant_Vessels_-_U.S._MONITOR_AND_ARMED_LINER_COLLIDE_IN_FOG_-_NARA_-_45499677_%28page_1%29.jpg",
         "caption": "Scope and content: Original Caption: U.S. MONITOR AND ARMED LINER COLLIDE IN FOG. Engineers and workmen are attempting to salvage the armed liner Manchuria, which collided with the U.S. Monitor Amphitrite in a heavy fog in New York Bay near Quarantine, late on the night of June 13, 1917. The Manchuria, one of the first American liners to cross the Atlantic armed with stern and forward guns as a protection against the German submarines, was out of service for some time. Two big holes were stove i",
         "source": "Wikimedia Commons",
@@ -33783,7 +33783,7 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/A_Heart_to_Let.jpg/300px-A_Heart_to_Let.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/A_Heart_to_Let.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/A_Heart_to_Let.jpg",
         "caption": "Film poster for the American film A Heart to Let (1921).",
         "source": "Wikimedia Commons",
@@ -33853,7 +33853,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Two_Shall_Be_Born_%281924%29_-_2.jpg/300px-Two_Shall_Be_Born_%281924%29_-_2.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Two_Shall_Be_Born_%281924%29_-_2.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Two_Shall_Be_Born_%281924%29_-_2.jpg",
         "caption": "Still from the American drama film Two Shall Be Born (1924) with Sigrid Holmquist, cropped for publication, on page 814 of the February 21, 1925 The Moving Picture World.",
         "source": "Wikimedia Commons",
@@ -33923,7 +33923,7 @@
       "mediaCount": 8,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dancingpirate-r.jpg/300px-Dancingpirate-r.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dancingpirate-r.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Dancingpirate-r.jpg",
         "caption": "Poster for the motion picture Dancing Pirate (1936), the second feature made in three-strip Technicolor, directed by Lloyd Corrigan.",
         "source": "Wikimedia Commons",
@@ -34133,7 +34133,7 @@
       "mediaCount": 9,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Pretty_Ladies.jpg/300px-Pretty_Ladies.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pretty_Ladies.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Pretty_Ladies.jpg",
         "caption": "Pretty Ladies film poster.",
         "source": "Wikimedia Commons",
@@ -34168,7 +34168,7 @@
       "mediaCount": 12,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/The_Bitter_Tea_of_General_Yen_1933_poster.jpg/300px-The_Bitter_Tea_of_General_Yen_1933_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Bitter_Tea_of_General_Yen_1933_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/The_Bitter_Tea_of_General_Yen_1933_poster.jpg",
         "caption": "Poster for the American drama film The Bitter Tea of general Yen (1933).",
         "source": "Wikimedia Commons",
@@ -34448,7 +34448,7 @@
       "mediaCount": 7,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cecilia_of_the_Pink_Roses_poster.jpg/300px-Cecilia_of_the_Pink_Roses_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cecilia_of_the_Pink_Roses_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Cecilia_of_the_Pink_Roses_poster.jpg",
         "caption": "Poster for the 1918 film Cecilia of the Pink Roses.",
         "source": "Wikimedia Commons",
@@ -34651,7 +34651,7 @@
       "mediaCount": 8,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bridge_to_the_Sun_%281961%29_Film_Poster.jpg/300px-Bridge_to_the_Sun_%281961%29_Film_Poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bridge_to_the_Sun_%281961%29_Film_Poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Bridge_to_the_Sun_%281961%29_Film_Poster.jpg",
         "caption": "Film poster for the 1961 film Bridge to the Sun",
         "source": "Wikimedia Commons",
@@ -34950,7 +34950,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/A_Girl_Named_Mary_poster.jpg/300px-A_Girl_Named_Mary_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/A_Girl_Named_Mary_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/A_Girl_Named_Mary_poster.jpg",
         "caption": "Poster for the American film A Girl Named Mary (1919).",
         "source": "Wikimedia Commons",
@@ -35118,7 +35118,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/The_House_of_the_Tolling_Bell_%281920%29_-_2.jpg/300px-The_House_of_the_Tolling_Bell_%281920%29_-_2.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_House_of_the_Tolling_Bell_%281920%29_-_2.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/The_House_of_the_Tolling_Bell_%281920%29_-_2.jpg",
         "caption": "Still from the American mystery film The House of the Tolling Bell (1920) with May McAvoy, Bruce Gordon, William R. Dunn, and Edward Elkas, on page 80 of the October 3, 1920 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -35181,7 +35181,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bad_Little_Angel_poster.JPG/300px-Bad_Little_Angel_poster.JPG",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bad_Little_Angel_poster.JPG?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Bad_Little_Angel_poster.JPG",
         "caption": "Poster for the 1939 film Bad Little Angel.",
         "source": "Wikimedia Commons",
@@ -35314,7 +35314,7 @@
       "mediaCount": 8,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Poster_-_Escape_%281940%29_01.jpg/300px-Poster_-_Escape_%281940%29_01.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Poster_-_Escape_%281940%29_01.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Poster_-_Escape_%281940%29_01.jpg",
         "caption": "Film poster for the 1940 film Escape.",
         "source": "Wikimedia Commons",
@@ -35454,7 +35454,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Big_Tremaine_1916.jpg/300px-Big_Tremaine_1916.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Big_Tremaine_1916.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Big_Tremaine_1916.jpg",
         "caption": "John Tremaine, Jr., played by Harold Lockwood, sits in a field of daisies with Isobel Malvern (May Allison) in a scene still for the 1916 silent drama Big Tremaine.",
         "source": "Wikimedia Commons",
@@ -35517,7 +35517,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "advertisement",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mary_Moreland.jpg/300px-Mary_Moreland.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mary_Moreland.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mary_Moreland.jpg",
         "caption": "Advertisement in Moving Picture World, Jul 1917",
         "source": "Wikimedia Commons",
@@ -35846,7 +35846,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/The_Spotlight_poster.jpg/300px-The_Spotlight_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Spotlight_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/The_Spotlight_poster.jpg",
         "caption": "Poster for The Spotlight",
         "source": "Wikimedia Commons",
@@ -36161,7 +36161,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "production_photo",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Vickyvan-1919-newspaperad.jpg/300px-Vickyvan-1919-newspaperad.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vickyvan-1919-newspaperad.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Vickyvan-1919-newspaperad.jpg",
         "caption": "Publicity for the 1919 film The Woman Next Door / Vicky Van",
         "source": "Wikimedia Commons",
@@ -36196,7 +36196,7 @@
       "mediaCount": 9,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/The_Perfect_Lover_%281919%29_-_2.jpg/300px-The_Perfect_Lover_%281919%29_-_2.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Perfect_Lover_%281919%29_-_2.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/The_Perfect_Lover_%281919%29_-_2.jpg",
         "caption": "Still from the American film The Perfect Lover (1919) with Eugene O'Brien and an unidentified actor, on page 1790 of the June 21, 1919 Moving Picture World.",
         "source": "Wikimedia Commons",
@@ -36546,7 +36546,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rose_o%27_the_River_%281919%29_-_1.jpg/300px-Rose_o%27_the_River_%281919%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rose_o%27_the_River_%281919%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Rose_o%27_the_River_%281919%29_-_1.jpg",
         "caption": "Still from the American drama film Rose o' the River (1919) with Lila Lee, Robert Brower, and Darrell Foss, on page 47 of the August 2, 1919 Exhibitors Herald. The caption states that this still is from the final scene.",
         "source": "Wikimedia Commons",
@@ -36924,7 +36924,7 @@
       "mediaCount": 6,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Three_Ring_Marriage_poster.jpg/300px-Three_Ring_Marriage_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Three_Ring_Marriage_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Three_Ring_Marriage_poster.jpg",
         "caption": "Poster for the American drama film Three Ring Marriage (1928) aka The 3-Ring Marriage with Lloyd Hughes and Mary Astor.",
         "source": "Wikimedia Commons",
@@ -37050,7 +37050,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Thebrandedsombrero-1928poster.jpg/300px-Thebrandedsombrero-1928poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Thebrandedsombrero-1928poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Thebrandedsombrero-1928poster.jpg",
         "caption": "The Branded Sombrero poster",
         "source": "Wikimedia Commons",
@@ -37190,7 +37190,7 @@
       "mediaCount": 15,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/The_Ten_Commandments_%281956_film_poster%29.jpg/300px-The_Ten_Commandments_%281956_film_poster%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Ten_Commandments_%281956_film_poster%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/The_Ten_Commandments_%281956_film_poster%29.jpg",
         "caption": "Poster for the American theatrical run of the 1956 film The Ten Commandments.",
         "source": "Wikimedia Commons",
@@ -37260,7 +37260,7 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/The_Mad_Dancer_%281925%29_-_2.jpg/300px-The_Mad_Dancer_%281925%29_-_2.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Mad_Dancer_%281925%29_-_2.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/The_Mad_Dancer_%281925%29_-_2.jpg",
         "caption": "Still from the American drama film The Mad Dancer (1925) with Coit Albertson and Ann Pennington, on page 26 of the January 31, 1925 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -37295,7 +37295,7 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Brazen_Beauty_poster.jpg/300px-Brazen_Beauty_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Brazen_Beauty_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Brazen_Beauty_poster.jpg",
         "caption": "Poster for the 1918 film The Brazen Beauty.",
         "source": "Wikimedia Commons",
@@ -37630,7 +37630,7 @@
       "mediaCount": 7,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Her_Second_Chance_%281926%29_-_1.jpg/300px-Her_Second_Chance_%281926%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Her_Second_Chance_%281926%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Her_Second_Chance_%281926%29_-_1.jpg",
         "caption": "Still from the American comedy film Her Second Chance (1926) with Huntley Gordon and Anna Q. Nilsson, the standing actresses are not identified, on page 36 of the June 1926 Film Fun.",
         "source": "Wikimedia Commons",
@@ -37665,7 +37665,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Slander_House_poster.jpg/300px-Slander_House_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Slander_House_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Slander_House_poster.jpg",
         "caption": "Poster for the American film Slander House (1938).",
         "source": "Wikimedia Commons",
@@ -37805,7 +37805,7 @@
       "mediaCount": 9,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Mother_Machree_%281928%29_Poster.jpg/300px-Mother_Machree_%281928%29_Poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mother_Machree_%281928%29_Poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Mother_Machree_%281928%29_Poster.jpg",
         "caption": "One Sheet (28\" X 41\"). From HA.com. From the Dwight Manley Collection.",
         "source": "Wikimedia Commons",
@@ -37840,7 +37840,7 @@
       "mediaCount": 8,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hell_Harbor_poster.jpg/300px-Hell_Harbor_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hell_Harbor_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Hell_Harbor_poster.jpg",
         "caption": "Poster for the 1930 film Hell Harbor.",
         "source": "Wikimedia Commons",
@@ -37980,7 +37980,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lena_Rivers_1910.jpg/300px-Lena_Rivers_1910.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lena_Rivers_1910.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Lena_Rivers_1910.jpg",
         "caption": "A film still from the Thanhouser Company's 1910 production of Lena Rivers.",
         "source": "Wikimedia Commons",
@@ -38015,7 +38015,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "production_photo",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Wid%27s_Year_Book_1921_%281921%29_%2814592446259%29.jpg/300px-Wid%27s_Year_Book_1921_%281921%29_%2814592446259%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Wid%27s_Year_Book_1921_%281921%29_%2814592446259%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Wid%27s_Year_Book_1921_%281921%29_%2814592446259%29.jpg",
         "caption": "Identifier: widsyearbook192100wids (find matches) Title: Wid's Year Book 1921 Year: 1921 (1920s) Authors: Wid's Films and Film Folk, Inc. Wid's Films and Film Folk, Inc. Subjects: Motion Pictures Publisher: New York, Wid's Films and Film Folk, Inc. Contributing Library: Media History Digital Library Digitizing Sponsor: Media History Digital Library View Book Page: Book Viewer About This Book: Catalog Entry View All Images: All Images From Book Click here to view book online to see this illustrat",
         "source": "Wikimedia Commons",
@@ -38050,7 +38050,7 @@
       "mediaCount": 5,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Taming_of_the_West_-_poster_1925.jpg/300px-The_Taming_of_the_West_-_poster_1925.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Taming_of_the_West_-_poster_1925.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/The_Taming_of_the_West_-_poster_1925.jpg",
         "caption": "poster for the 1925 film \"The Taming of the West\"",
         "source": "Wikimedia Commons",
@@ -38120,7 +38120,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/The_Flying_U_Ranch_%281927_film%29.jpg/300px-The_Flying_U_Ranch_%281927_film%29.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Flying_U_Ranch_%281927_film%29.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/The_Flying_U_Ranch_%281927_film%29.jpg",
         "caption": "Poster for w:The Flying U Ranch (1927 film)",
         "source": "Wikimedia Commons",
@@ -38216,7 +38216,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Seven_Days_%281925%29_-_1.jpg/300px-Seven_Days_%281925%29_-_1.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Seven_Days_%281925%29_-_1.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Seven_Days_%281925%29_-_1.jpg",
         "caption": "Still showing the filming of a scene for the American comedy film Seven Days (1925) showing the use of a synthetic New York City skyline in the background, on page 49 of the August 1, 1925 Exhibitors Herald.",
         "source": "Wikimedia Commons",
@@ -38448,7 +38448,7 @@
       "mediaCount": 9,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Good_References_poster.jpg/300px-Good_References_poster.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Good_References_poster.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Good_References_poster.jpg",
         "caption": "Poster for the 1920 film Good References.",
         "source": "Wikimedia Commons",
@@ -38546,7 +38546,7 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Alma_Bennett_ph325.jpg/300px-Alma_Bennett_ph325.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alma_Bennett_ph325.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Alma_Bennett_ph325.jpg",
         "caption": "Alma Bennett in the film The Silent Watcher (1924), from the March 1925 Photoplay.",
         "source": "wikimedia",
@@ -38863,7 +38863,7 @@
       "mediaCount": 1,
       "featuredMedia": {
         "type": "production_photo",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Mary_Pickford%2C_1893-%2C_full_length_portrait%2C_standing%2C_facing_right%2C_in_front_of_building%2C_holding_dog%2C_in_movie_%22Rags%22_%28western%29%2C_with_3_men_and_2_women_-_Rags_Farewell_to_the_West_LCCN2005689188.jpg/300px-Mary_Pickford%2C_1893-%2C_full_length_portrait%2C_standing%2C_facing_right%2C_in_front_of_building%2C_holding_dog%2C_in_movie_%22Rags%22_%28western%29%2C_with_3_men_and_2_women_-_Rags_Farewell_to_the_West_LCCN2005689188.jpg",
+        "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mary_Pickford%2C_1893-%2C_full_length_portrait%2C_standing%2C_facing_right%2C_in_front_of_building%2C_holding_dog%2C_in_movie_%22Rags%22_%28western%29%2C_with_3_men_and_2_women_-_Rags_Farewell_to_the_West_LCCN2005689188.jpg?width=300",
         "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Mary_Pickford%2C_1893-%2C_full_length_portrait%2C_standing%2C_facing_right%2C_in_front_of_building%2C_holding_dog%2C_in_movie_%22Rags%22_%28western%29%2C_with_3_men_and_2_women_-_Rags_Farewell_to_the_West_LCCN2005689188.jpg",
         "caption": "Title: Mary Pickford, 1893-, full length portrait, standing, facing right, in front of building, holding dog, in movie \"Rags\" (western), with 3 men and 2 women - Rags Farewell to the West Abstract/medium: 1 photographic print.",
         "source": "wikimedia",
